@@ -1,0 +1,25 @@
+%
+%
+clear;
+clc;
+
+fileID = fopen('long_sequence.txt','r');
+seqLong = fscanf(fileID,'%s');
+fclose(fileID);
+
+codon1=input('please input the first codon you wish to search for:','s');
+codon2=input('please input the second codon you wish to search for:','s');
+codon3=input('please input the third codon you wish to search for:','s');
+
+Index1 = regexp(seqLong,codon1);
+Index2 = regexp(seqLong,codon2);
+Index3 = regexp(seqLong,codon3);
+
+fprintf('Index \n');    
+
+
+
+fprintf('%s OFFSETS: Index1(1) \n',codon1)
+
+
+
