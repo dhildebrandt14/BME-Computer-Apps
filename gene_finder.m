@@ -20,6 +20,9 @@ while i <( sequenceLength - 3)
     if (strcmp(subSeq,'TAC') == 1)
         startLocations = [startLocations i];
         i = i + 3;
+        
+            while i <( sequenceLength - 3)
+                
                 if (strcmp(subSeq,'TAG') == 1)
                 stopLocations = [stopLocations i];
                 i = i + 3;
@@ -33,9 +36,12 @@ while i <( sequenceLength - 3)
                  i = i + 3;
         
                 else
+                    
                      i = i + 3;
             
                 end
+                
+            end
     
     else i = i + 1;
         
