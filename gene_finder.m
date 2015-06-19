@@ -24,25 +24,13 @@ while i <= (sequenceLength - 2)
         
         while (endCodonFound == false) && (i <= (sequenceLength - 2))
             subSeq = seqLong(i:i+2);
-            
-            if (strcmp(subSeq,'TAG'))
-               startLocations = [startLocations geneStart];
-               stopLocations = [stopLocations i];
-               i = i + 3;
-               endCodonFound = true;
-               
 
-            elseif (strcmp(subSeq,'TAA'))
+            if strmatch(subSeq, {'TAG', 'TAA', 'TGA'})
                startLocations = [startLocations geneStart];
                stopLocations = [stopLocations i];
                i = i + 3;
                endCodonFound = true;
                
-            elseif (strcmp(subSeq,'TGA'))
-                startLocations = [startLocations geneStart];
-                stopLocations = [stopLocations i];
-                i = i + 3;
-                endCodonFound = true;
             else
                 i = i + 3;
             end
