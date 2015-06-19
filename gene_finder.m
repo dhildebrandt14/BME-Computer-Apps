@@ -12,40 +12,45 @@ sequenceLength = length(seqLong);
 
 startLocations = [];
 stopLocations = [];
-loopStatus = 0;
 
-while i <( sequenceLength - 3)
-      subSeq = seqLong(i:i+2);
+
+while i <= (sequenceLength - 2)
+    subSeq = seqLong(i:i+2);
     
-    if (strcmp(subSeq,'TAC') == 1)
-        startLocations = [startLocations i];
+    if (strcmp(subSeq,'TAC'))
+        geneStart = i;
         i = i + 3;
-        loopStatus == 1;
+        endCodonFound = false;
         
-            while loopStatus == 1
-                
-                if (strcmp(subSeq,'TAG') == 1)
-                   stopLocations = [stopLocations i];
-                   i = i + 3;
-                   loopStatus == 0;
-         
-                elseif (strcmp(subSeq,'TAA') == 1)
-                   stopLocations = [stopLocations i];
-                   loopStatus == 0;
-                  
-                elseif (strcmp(subSeq,'TGA') == 1)
-                   stopLocations = [stopLocations i];
-                    i = i + 3;
-                    loopStatus == 0;
-        
-                else i = i + 3;
+        while (endCodonFound == false) && (i <= (sequenceLength - 2))
+            subSeq = seqLong(i:i+2);
             
-                end
-                
+            if (strcmp(subSeq,'TAG'))
+               startLocations = [startLocations geneStart];
+               stopLocations = [stopLocations i];
+               i = i + 3;
+               endCodonFound = true;
+               
+
+            elseif (strcmp(subSeq,'TAA'))
+               startLocations = [startLocations geneStart];
+               stopLocations = [stopLocations i];
+               i = i + 3;
+               endCodonFound = true;
+               
+            elseif (strcmp(subSeq,'TGA'))
+                startLocations = [startLocations geneStart];
+                stopLocations = [stopLocations i];
+                i = i + 3;
+                endCodonFound = true;
+            else
+                i = i + 3;
             end
+
+        end
     
-    else i = i + 1;
-        
+    else
+        i = i + 1;
     end
     
 end
