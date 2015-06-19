@@ -21,23 +21,22 @@ while i <( sequenceLength - 3)
     if (strcmp(subSeq,'TAC') == 1)
         startLocations = [startLocations i];
         i = i + 3;
-        loopStatus == 1;
+        loopStatus = 1;
         
-            while loopStatus == 1
+            while loopStatus = 1
                 
                 if (strcmp(subSeq,'TAG') == 1)
                 stopLocations = [stopLocations i];
                 i = i + 3;
-                loopStatus == 0;
+                loop
          
                 elseif (strcmp(subSeq,'TAA') == 1)
                 stopLocations = [stopLocations i];
-                  loopStatus == 0;
-                  
+                 i = i + 3;
+            
                 elseif (strcmp(subSeq,'TGA') == 1)
                 stopLocations = [stopLocations i];
                  i = i + 3;
-                 loopStatus == 0;
         
                 else
                     
