@@ -23,8 +23,11 @@ filename='report_count.txt';
 fid=fopen(filename, 'wt');
 
 fprintf(fid,'Names: Derek Hildebrandt, Jesus Gonzalez, Christianna Powell\n');
+
 fprintf(fid,'Group: Group 3\n');
+
 fprintf(fid,'Date: April 18, 2015\n');
+
 fprintf(fid,'SectionA: Code Counting\n\n');
 
 fprintf(fid,'For %s \n',codon1);

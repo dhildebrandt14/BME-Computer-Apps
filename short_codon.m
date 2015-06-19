@@ -3,7 +3,7 @@
 clear;
 clc;
 
-fileID = fopen('long_sequence.txt','r');
+fileID = fopen('sequence_short.txt','r');
 seqLong = fscanf(fileID,'%s');
 fclose(fileID);
 
@@ -42,30 +42,22 @@ while i <= (sequenceLength - 2)
     
 end
 
-x = 1;
-geneTotal = length(startLocations);
+geneLength = stopLocations - startLocations;
+aminoAcidNumber = (geneLength/3);
 
-fprintf('Total genes found: %d \n\n',geneTotal);
-
-filename='report_long.txt';
+filename='report_short.txt';
 fid=fopen(filename, 'wt');
 
 fprintf(fid,'Names: Derek Hildebrandt, Jesus Gonzalez, Christianna Powell\n');
 fprintf(fid,'Group: Group 3\n');
 fprintf(fid,'Date: June 18, 2015\n');
-fprintf(fid,'SectionB: DA Pattern Matching - Genes\n\n');
+fprintf(fid,'SectionB: DNA Pattern Matching - Short Sequence\n\n');
+fprintf(fid,'Sequence Length: %0.0f \n\n',sequenceLength);
 
-while x <= geneTotal
-        fprintf(fid,'Gene %d: Start: %d End: %d \n\n',x,startLocations(x),stopLocations(x));
-        x = x +1;
-end
+fprintf(fid,'Start Position:   %0.0f    End Position:    %0.0f \n',startLocations(1),stopLocations(1));
+fprintf(fid,'Gene Length: %0.0f \n',geneLength);
+fprintf(fid,'Amino Acid Total: %0.0f \n',aminoAcidNumber);
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
+fprintf('Start Position:   %0.0f    End Position:    %0.0f \n',startLocations(1),stopLocations(1));
+fprintf('Gene Length: %0.0f \n',geneLength);
+fprintf('Amino Acid Total: %0.0f \n',aminoAcidNumber);

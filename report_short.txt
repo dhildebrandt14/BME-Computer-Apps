@@ -1,0 +1,10 @@
+Names: Derek Hildebrandt, Jesus Gonzalez, Christianna Powell
+Group: Group 3
+Date: June 18, 2015
+SectionB: DNA Pattern Matching - Short Sequence
+
+Sequence Length: 63 
+
+Start Position:   19    End Position:    46 
+Gene Length: 27 
+Amino Acid Total: 9 

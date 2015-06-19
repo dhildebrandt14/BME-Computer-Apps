@@ -1,0 +1,20 @@
+Names: Derek Hildebrandt, Jesus Gonzalez, Christianna Powell
+Group: Group 3
+Date: April 18, 2015
+SectionA: Code Counting
+
+For AAA 
+Total Number: 6650 
+First 10 Postitions: 33 45 111 261 303 
+                     325 339 414 489 539  
+
+For ATC 
+Total Number: 7632 
+First 10 Postitions: 131 242 300 341 451 
+                     491 575 597 724 807  
+
+For CTG 
+Total Number: 8540 
+First 10 Postitions: 78 164 179 202 252 
+                     275 288 334 343 463  
+

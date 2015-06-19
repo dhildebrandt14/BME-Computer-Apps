@@ -7,21 +7,65 @@ fileID = fopen('long_sequence.txt','r');
 seqLong = fscanf(fileID,'%s');
 fclose(fileID);
 
-codon1=input('please input the first codon you wish to search for:','s');
-codon2=input('please input the second codon you wish to search for:','s');
-codon3=input('please input the third codon you wish to search for:','s');
+i = 1;
+sequenceLength = length(seqLong);
 
-Index1 = regexp(seqLong,codon1);
-Index2 = regexp(seqLong,codon2);
-Index3 = regexp(seqLong,codon3);
+startLocations = [];
+stopLocations = [];
+withinGene = false;
 
-Index1Length = length(Index1);
+while i <= (sequenceLength - 2)
+    subSeq = seqLong(i:i+2);
+    if withinGene == false
+       
+        if (strcmp(subSeq,'TAC'))
+            geneStart = i;
+            i = i + 3;
+            withinGene = true;
+        else
+            i = i + 1;
+        end
+        
+    else
+        
+        if strmatch(subSeq, {'TAG', 'TAA', 'TGA'})
+            startLocations = [startLocations geneStart];
+            stopLocations = [stopLocations i];
+            i = i + 3;
+            withinGene = false;
+        else
+            i = i + 3;
+        end
 
-fprintf('Index \n');    
 
+    end
+    
+end
 
+x = 1;
+geneTotal = length(startLocations);
 
-fprintf('%s: Total Instances: %f \n     Offsets: %f %f %f %f %f \n             %f %f %f %f %f  \n',codon1,Index1Length,Index1(1),Index1(2),Index1(3),Index1(4),Index1(5),Index1(6),Index1(7),Index1(8),Index1(9),Index1(10))
+fprintf('Total genes found: %d \n\n',geneTotal);
 
+filename='report_long.txt';
+fid=fopen(filename, 'wt');
 
+fprintf(fid,'Names: Derek Hildebrandt, Jesus Gonzalez, Christianna Powell\n');
+fprintf(fid,'Group: Group 3\n');
+fprintf(fid,'Date: June 18, 2015\n');
+fprintf(fid,'SectionB: DA Pattern Matching - Genes\n\n');
 
+while x <= geneTotal
+        fprintf(fid,'Gene %d: Start: %d End: %d \n\n',x,startLocations(x),stopLocations(x));
+        x = x +1;
+end
+
+    
+    
+    
+    
+    
+    
+    
+    
+    

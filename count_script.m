@@ -72,12 +72,12 @@ fprintf('Index \n');
 
 
 
-fprintf('%s: Total Instances: %0.0f \n     Offsets: %0.0f %0.0f %0.0f %0.0f %0.0f \n                  %0.0f %0.0f %0.0f %0.0f %0.0f  \n',codon1,offset1Length,codon1Offsets(1),codon1Offsets(2),codon1Offsets(3),codon1Offsets(4),codon1Offsets(5),codon1Offsets(6),codon1Offsets(7),codon1Offsets(8),codon1Offsets(9),codon1Offsets(10))
-fprintf('%s: Total Instances: %0.0f \n     Offsets: %0.0f %0.0f %0.0f %0.0f %0.0f \n                  %0.0f %0.0f %0.0f %0.0f %0.0f  \n',codon2,offset2Length,codon2Offsets(1),codon2Offsets(2),codon2Offsets(3),codon2Offsets(4),codon2Offsets(5),codon2Offsets(6),codon2Offsets(7),codon2Offsets(8),codon2Offsets(9),codon2Offsets(10))
-fprintf('%s: Total Instances: %0.0f \n     Offsets: %0.0f %0.0f %0.0f %0.0f %0.0f \n                  %0.0f %0.0f %0.0f %0.0f %0.0f  \n',codon3,offset3Length,codon3Offsets(1),codon3Offsets(2),codon3Offsets(3),codon3Offsets(4),codon3Offsets(5),codon3Offsets(6),codon3Offsets(7),codon3Offsets(8),codon3Offsets(9),codon3Offsets(10))
+fprintf('%s: Total Instances: %d \n     Offsets: %d %d %d %d %d \n                  %d %d %d %d %d  \n',codon1,offset1Length,codon1Offsets(1),codon1Offsets(2),codon1Offsets(3),codon1Offsets(4),codon1Offsets(5),codon1Offsets(6),codon1Offsets(7),codon1Offsets(8),codon1Offsets(9),codon1Offsets(10))
+fprintf('%s: Total Instances: %d \n     Offsets: %d %d %d %d %d \n                  %d %d %d %d %d  \n',codon2,offset2Length,codon2Offsets(1),codon2Offsets(2),codon2Offsets(3),codon2Offsets(4),codon2Offsets(5),codon2Offsets(6),codon2Offsets(7),codon2Offsets(8),codon2Offsets(9),codon2Offsets(10))
+fprintf('%s: Total Instances: %d \n     Offsets: %d %d %d %d %d \n                  %d %d %d %d %d  \n',codon3,offset3Length,codon3Offsets(1),codon3Offsets(2),codon3Offsets(3),codon3Offsets(4),codon3Offsets(5),codon3Offsets(6),codon3Offsets(7),codon3Offsets(8),codon3Offsets(9),codon3Offsets(10))
 
 filename='report_count.txt';
-fid=fopen(filename, 'w');
+fid=fopen(filename, 'wt');
 
 fprintf(fid,'Names: Derek Hildebrandt, Jesus Gonzalez, Christianna Powell\n');
 fprintf(fid,'Group: Group 3\n');
@@ -85,13 +85,13 @@ fprintf(fid,'Date: April 18, 2015\n');
 fprintf(fid,'SectionA: Code Counting\n\n');
 
 fprintf(fid,'For %s \n',codon1);
-fprintf(fid,'Total Number: %0.0f \nFirst 10 Postitions: %0.0f %0.0f %0.0f %0.0f %0.0f \n                     %0.0f %0.0f %0.0f %0.0f %0.0f  \n\n', offset1Length,codon1Offsets(1),codon1Offsets(2),codon1Offsets(3),codon1Offsets(4),codon1Offsets(5),codon1Offsets(6),codon1Offsets(7),codon1Offsets(8),codon1Offsets(9),codon1Offsets(10));
+fprintf(fid,'Total Number: %d \nFirst 10 Postitions: %d %d %d %d %d \n                     %d %d %d %d %d  \n\n', offset1Length,codon1Offsets(1),codon1Offsets(2),codon1Offsets(3),codon1Offsets(4),codon1Offsets(5),codon1Offsets(6),codon1Offsets(7),codon1Offsets(8),codon1Offsets(9),codon1Offsets(10));
 
 fprintf(fid,'For %s \n',codon2);
-fprintf(fid,'Total Number: %0.0f \nFirst 10 Postitions: %0.0f %0.0f %0.0f %0.0f %0.0f \n                     %0.0f %0.0f %0.0f %0.0f %0.0f  \n\n', offset2Length,codon2Offsets(1),codon2Offsets(2),codon2Offsets(3),codon2Offsets(4),codon2Offsets(5),codon2Offsets(6),codon2Offsets(7),codon2Offsets(8),codon2Offsets(9),codon2Offsets(10));
+fprintf(fid,'Total Number: %d \nFirst 10 Postitions: %d %d %d %d %d \n                     %d %d %d %d %d  \n\n', offset2Length,codon2Offsets(1),codon2Offsets(2),codon2Offsets(3),codon2Offsets(4),codon2Offsets(5),codon2Offsets(6),codon2Offsets(7),codon2Offsets(8),codon2Offsets(9),codon2Offsets(10));
 
 fprintf(fid,'For %s \n',codon3);
-fprintf(fid,'Total Number: %0.0f \nFirst 10 Postitions: %0.0f %0.0f %0.0f %0.0f %0.0f \n                     %0.0f %0.0f %0.0f %0.0f %0.0f  \n\n', offset3Length,codon3Offsets(1),codon3Offsets(2),codon3Offsets(3),codon3Offsets(4),codon3Offsets(5),codon3Offsets(6),codon3Offsets(7),codon3Offsets(8),codon3Offsets(9),codon3Offsets(10));
+fprintf(fid,'Total Number: %d \nFirst 10 Postitions: %d %d %d %d %d \n                     %d %d %d %d %d  \n\n', offset3Length,codon3Offsets(1),codon3Offsets(2),codon3Offsets(3),codon3Offsets(4),codon3Offsets(5),codon3Offsets(6),codon3Offsets(7),codon3Offsets(8),codon3Offsets(9),codon3Offsets(10));
 
 
 
