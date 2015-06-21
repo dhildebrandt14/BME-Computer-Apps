@@ -1,0 +1,7793 @@
+Names: Derek Hildebrandt, Jesus Gonzalez, Christianna Powell
+Group: Group 3
+Date: June 18, 2015
+SectionB: DA Pattern Matching - Genes
+
+Gene 1: Start: 74 End: 221 
+
+Gene 2: Start: 279 End: 351 
+
+Gene 3: Start: 399 End: 468 
+
+Gene 4: Start: 711 End: 777 
+
+Gene 5: Start: 797 End: 971 
+
+Gene 6: Start: 1013 End: 1022 
+
+Gene 7: Start: 1044 End: 1059 
+
+Gene 8: Start: 1289 End: 1319 
+
+Gene 9: Start: 1382 End: 1427 
+
+Gene 10: Start: 1496 End: 1508 
+
+Gene 11: Start: 1614 End: 1638 
+
+Gene 12: Start: 1700 End: 1745 
+
+Gene 13: Start: 1757 End: 1859 
+
+Gene 14: Start: 1893 End: 1896 
+
+Gene 15: Start: 1926 End: 2061 
+
+Gene 16: Start: 2091 End: 2127 
+
+Gene 17: Start: 2132 End: 2198 
+
+Gene 18: Start: 2204 End: 2207 
+
+Gene 19: Start: 2390 End: 2396 
+
+Gene 20: Start: 2405 End: 2498 
+
+Gene 21: Start: 2649 End: 2799 
+
+Gene 22: Start: 2835 End: 2847 
+
+Gene 23: Start: 2913 End: 2919 
+
+Gene 24: Start: 3027 End: 3090 
+
+Gene 25: Start: 3242 End: 3257 
+
+Gene 26: Start: 3278 End: 3290 
+
+Gene 27: Start: 3327 End: 3345 
+
+Gene 28: Start: 3357 End: 3429 
+
+Gene 29: Start: 3663 End: 3714 
+
+Gene 30: Start: 3723 End: 3756 
+
+Gene 31: Start: 3818 End: 3842 
+
+Gene 32: Start: 4077 End: 4101 
+
+Gene 33: Start: 4113 End: 4122 
+
+Gene 34: Start: 4148 End: 4298 
+
+Gene 35: Start: 4301 End: 4367 
+
+Gene 36: Start: 4734 End: 4737 
+
+Gene 37: Start: 4749 End: 4770 
+
+Gene 38: Start: 5054 End: 5114 
+
+Gene 39: Start: 5130 End: 5217 
+
+Gene 40: Start: 5367 End: 5526 
+
+Gene 41: Start: 5612 End: 5702 
+
+Gene 42: Start: 5706 End: 5883 
+
+Gene 43: Start: 5955 End: 6111 
+
+Gene 44: Start: 6201 End: 6354 
+
+Gene 45: Start: 6372 End: 6450 
+
+Gene 46: Start: 6477 End: 6501 
+
+Gene 47: Start: 6602 End: 6614 
+
+Gene 48: Start: 6710 End: 6719 
+
+Gene 49: Start: 6857 End: 6971 
+
+Gene 50: Start: 7040 End: 7067 
+
+Gene 51: Start: 7194 End: 7239 
+
+Gene 52: Start: 7364 End: 7376 
+
+Gene 53: Start: 7436 End: 7490 
+
+Gene 54: Start: 7574 End: 7718 
+
+Gene 55: Start: 7962 End: 8034 
+
+Gene 56: Start: 8048 End: 8051 
+
+Gene 57: Start: 8054 End: 8126 
+
+Gene 58: Start: 8231 End: 8243 
+
+Gene 59: Start: 8306 End: 8324 
+
+Gene 60: Start: 8438 End: 8477 
+
+Gene 61: Start: 8508 End: 8574 
+
+Gene 62: Start: 8594 End: 8618 
+
+Gene 63: Start: 8646 End: 8664 
+
+Gene 64: Start: 8778 End: 8853 
+
+Gene 65: Start: 8945 End: 9053 
+
+Gene 66: Start: 9104 End: 9176 
+
+Gene 67: Start: 9420 End: 9513 
+
+Gene 68: Start: 9536 End: 9539 
+
+Gene 69: Start: 9644 End: 9749 
+
+Gene 70: Start: 9776 End: 9812 
+
+Gene 71: Start: 9815 End: 9914 
+
+Gene 72: Start: 9942 End: 9945 
+
+Gene 73: Start: 10007 End: 10025 
+
+Gene 74: Start: 10034 End: 10169 
+
+Gene 75: Start: 10199 End: 10214 
+
+Gene 76: Start: 10247 End: 10670 
+
+Gene 77: Start: 10707 End: 10710 
+
+Gene 78: Start: 11219 End: 11447 
+
+Gene 79: Start: 11474 End: 11534 
+
+Gene 80: Start: 11592 End: 11604 
+
+Gene 81: Start: 11717 End: 11723 
+
+Gene 82: Start: 11741 End: 11747 
+
+Gene 83: Start: 11771 End: 11798 
+
+Gene 84: Start: 11811 End: 11847 
+
+Gene 85: Start: 11965 End: 11968 
+
+Gene 86: Start: 11999 End: 12143 
+
+Gene 87: Start: 12287 End: 12290 
+
+Gene 88: Start: 12299 End: 12698 
+
+Gene 89: Start: 12767 End: 12788 
+
+Gene 90: Start: 12832 End: 12844 
+
+Gene 91: Start: 12943 End: 12988 
+
+Gene 92: Start: 13088 End: 13166 
+
+Gene 93: Start: 13249 End: 13258 
+
+Gene 94: Start: 13301 End: 13388 
+
+Gene 95: Start: 13613 End: 13622 
+
+Gene 96: Start: 13734 End: 13755 
+
+Gene 97: Start: 13796 End: 13814 
+
+Gene 98: Start: 13943 End: 13961 
+
+Gene 99: Start: 14152 End: 14365 
+
+Gene 100: Start: 14417 End: 14423 
+
+Gene 101: Start: 14467 End: 14713 
+
+Gene 102: Start: 14733 End: 14754 
+
+Gene 103: Start: 14810 End: 14852 
+
+Gene 104: Start: 14876 End: 14981 
+
+Gene 105: Start: 15004 End: 15187 
+
+Gene 106: Start: 15203 End: 15248 
+
+Gene 107: Start: 15254 End: 15491 
+
+Gene 108: Start: 15655 End: 15724 
+
+Gene 109: Start: 15755 End: 15881 
+
+Gene 110: Start: 16010 End: 16079 
+
+Gene 111: Start: 16082 End: 16130 
+
+Gene 112: Start: 16179 End: 16185 
+
+Gene 113: Start: 16212 End: 16302 
+
+Gene 114: Start: 16355 End: 16412 
+
+Gene 115: Start: 16483 End: 16513 
+
+Gene 116: Start: 16520 End: 16553 
+
+Gene 117: Start: 16587 End: 16611 
+
+Gene 118: Start: 16623 End: 16716 
+
+Gene 119: Start: 16727 End: 16751 
+
+Gene 120: Start: 16787 End: 16832 
+
+Gene 121: Start: 16918 End: 17026 
+
+Gene 122: Start: 17031 End: 17052 
+
+Gene 123: Start: 17084 End: 17168 
+
+Gene 124: Start: 17206 End: 17401 
+
+Gene 125: Start: 17458 End: 17476 
+
+Gene 126: Start: 17977 End: 17998 
+
+Gene 127: Start: 18132 End: 18156 
+
+Gene 128: Start: 18271 End: 18307 
+
+Gene 129: Start: 18358 End: 18400 
+
+Gene 130: Start: 18410 End: 18470 
+
+Gene 131: Start: 18534 End: 18612 
+
+Gene 132: Start: 18754 End: 18778 
+
+Gene 133: Start: 18791 End: 18824 
+
+Gene 134: Start: 18913 End: 19081 
+
+Gene 135: Start: 19085 End: 19115 
+
+Gene 136: Start: 19119 End: 19284 
+
+Gene 137: Start: 19289 End: 19436 
+
+Gene 138: Start: 19483 End: 19531 
+
+Gene 139: Start: 19567 End: 19600 
+
+Gene 140: Start: 19627 End: 19672 
+
+Gene 141: Start: 19678 End: 19714 
+
+Gene 142: Start: 19895 End: 19994 
+
+Gene 143: Start: 20120 End: 20126 
+
+Gene 144: Start: 20202 End: 20229 
+
+Gene 145: Start: 20239 End: 20323 
+
+Gene 146: Start: 20494 End: 20554 
+
+Gene 147: Start: 20604 End: 20631 
+
+Gene 148: Start: 20792 End: 20801 
+
+Gene 149: Start: 20820 End: 20892 
+
+Gene 150: Start: 20959 End: 20962 
+
+Gene 151: Start: 21004 End: 21028 
+
+Gene 152: Start: 21095 End: 21110 
+
+Gene 153: Start: 21174 End: 21204 
+
+Gene 154: Start: 21303 End: 21318 
+
+Gene 155: Start: 21345 End: 21462 
+
+Gene 156: Start: 21540 End: 21552 
+
+Gene 157: Start: 21620 End: 21632 
+
+Gene 158: Start: 21689 End: 21719 
+
+Gene 159: Start: 21759 End: 21942 
+
+Gene 160: Start: 21998 End: 22055 
+
+Gene 161: Start: 22072 End: 22078 
+
+Gene 162: Start: 22091 End: 22277 
+
+Gene 163: Start: 22294 End: 22306 
+
+Gene 164: Start: 22355 End: 22364 
+
+Gene 165: Start: 22426 End: 22435 
+
+Gene 166: Start: 22489 End: 22501 
+
+Gene 167: Start: 22533 End: 22554 
+
+Gene 168: Start: 22568 End: 22580 
+
+Gene 169: Start: 22684 End: 22738 
+
+Gene 170: Start: 22773 End: 22851 
+
+Gene 171: Start: 22856 End: 22928 
+
+Gene 172: Start: 22954 End: 23053 
+
+Gene 173: Start: 23056 End: 23176 
+
+Gene 174: Start: 23249 End: 23261 
+
+Gene 175: Start: 23271 End: 23337 
+
+Gene 176: Start: 23366 End: 23606 
+
+Gene 177: Start: 23696 End: 23738 
+
+Gene 178: Start: 23885 End: 23894 
+
+Gene 179: Start: 23899 End: 24013 
+
+Gene 180: Start: 24059 End: 24140 
+
+Gene 181: Start: 24158 End: 24227 
+
+Gene 182: Start: 24326 End: 24440 
+
+Gene 183: Start: 24449 End: 24485 
+
+Gene 184: Start: 24527 End: 24608 
+
+Gene 185: Start: 24643 End: 24757 
+
+Gene 186: Start: 24993 End: 25278 
+
+Gene 187: Start: 25329 End: 25338 
+
+Gene 188: Start: 25344 End: 25386 
+
+Gene 189: Start: 25686 End: 25704 
+
+Gene 190: Start: 25783 End: 25825 
+
+Gene 191: Start: 25913 End: 25949 
+
+Gene 192: Start: 26033 End: 26084 
+
+Gene 193: Start: 26116 End: 26215 
+
+Gene 194: Start: 26264 End: 26282 
+
+Gene 195: Start: 26319 End: 26334 
+
+Gene 196: Start: 26358 End: 26427 
+
+Gene 197: Start: 26449 End: 26593 
+
+Gene 198: Start: 26768 End: 26777 
+
+Gene 199: Start: 26831 End: 26939 
+
+Gene 200: Start: 27032 End: 27047 
+
+Gene 201: Start: 27050 End: 27083 
+
+Gene 202: Start: 27223 End: 27334 
+
+Gene 203: Start: 27395 End: 27401 
+
+Gene 204: Start: 27446 End: 27524 
+
+Gene 205: Start: 27571 End: 27622 
+
+Gene 206: Start: 27663 End: 27708 
+
+Gene 207: Start: 27736 End: 27763 
+
+Gene 208: Start: 27769 End: 27892 
+
+Gene 209: Start: 27939 End: 28272 
+
+Gene 210: Start: 28316 End: 28427 
+
+Gene 211: Start: 28486 End: 28501 
+
+Gene 212: Start: 28585 End: 28894 
+
+Gene 213: Start: 28911 End: 28956 
+
+Gene 214: Start: 29020 End: 29185 
+
+Gene 215: Start: 29195 End: 29201 
+
+Gene 216: Start: 29258 End: 29327 
+
+Gene 217: Start: 29339 End: 29381 
+
+Gene 218: Start: 29406 End: 29493 
+
+Gene 219: Start: 29502 End: 29589 
+
+Gene 220: Start: 29633 End: 29654 
+
+Gene 221: Start: 29856 End: 29940 
+
+Gene 222: Start: 30157 End: 30160 
+
+Gene 223: Start: 30372 End: 30471 
+
+Gene 224: Start: 30600 End: 30609 
+
+Gene 225: Start: 30628 End: 30724 
+
+Gene 226: Start: 30817 End: 30820 
+
+Gene 227: Start: 30864 End: 30897 
+
+Gene 228: Start: 30909 End: 30915 
+
+Gene 229: Start: 30923 End: 30971 
+
+Gene 230: Start: 31012 End: 31081 
+
+Gene 231: Start: 31172 End: 31214 
+
+Gene 232: Start: 31300 End: 31306 
+
+Gene 233: Start: 31330 End: 31450 
+
+Gene 234: Start: 31537 End: 31615 
+
+Gene 235: Start: 31651 End: 31663 
+
+Gene 236: Start: 31681 End: 31717 
+
+Gene 237: Start: 31865 End: 31904 
+
+Gene 238: Start: 31957 End: 32341 
+
+Gene 239: Start: 32388 End: 32520 
+
+Gene 240: Start: 32553 End: 32670 
+
+Gene 241: Start: 32709 End: 32775 
+
+Gene 242: Start: 33002 End: 33173 
+
+Gene 243: Start: 33224 End: 33239 
+
+Gene 244: Start: 33314 End: 33326 
+
+Gene 245: Start: 33536 End: 33632 
+
+Gene 246: Start: 33669 End: 33714 
+
+Gene 247: Start: 33767 End: 33815 
+
+Gene 248: Start: 33845 End: 33857 
+
+Gene 249: Start: 34169 End: 34265 
+
+Gene 250: Start: 34316 End: 34358 
+
+Gene 251: Start: 34758 End: 34959 
+
+Gene 252: Start: 34973 End: 35024 
+
+Gene 253: Start: 35099 End: 35264 
+
+Gene 254: Start: 35558 End: 35624 
+
+Gene 255: Start: 35627 End: 35837 
+
+Gene 256: Start: 35912 End: 35996 
+
+Gene 257: Start: 36023 End: 36029 
+
+Gene 258: Start: 36050 End: 36053 
+
+Gene 259: Start: 36102 End: 36180 
+
+Gene 260: Start: 36444 End: 36453 
+
+Gene 261: Start: 36491 End: 36584 
+
+Gene 262: Start: 36614 End: 36638 
+
+Gene 263: Start: 36672 End: 36714 
+
+Gene 264: Start: 36723 End: 36732 
+
+Gene 265: Start: 36791 End: 36863 
+
+Gene 266: Start: 37055 End: 37088 
+
+Gene 267: Start: 37119 End: 37131 
+
+Gene 268: Start: 37250 End: 37319 
+
+Gene 269: Start: 37472 End: 37541 
+
+Gene 270: Start: 37905 End: 38022 
+
+Gene 271: Start: 38049 End: 38085 
+
+Gene 272: Start: 38420 End: 38621 
+
+Gene 273: Start: 38660 End: 38759 
+
+Gene 274: Start: 38814 End: 38862 
+
+Gene 275: Start: 38925 End: 39015 
+
+Gene 276: Start: 39020 End: 39026 
+
+Gene 277: Start: 39300 End: 39336 
+
+Gene 278: Start: 39540 End: 39759 
+
+Gene 279: Start: 39765 End: 39891 
+
+Gene 280: Start: 39917 End: 39953 
+
+Gene 281: Start: 39971 End: 39974 
+
+Gene 282: Start: 39989 End: 40064 
+
+Gene 283: Start: 40235 End: 40367 
+
+Gene 284: Start: 40527 End: 40620 
+
+Gene 285: Start: 40730 End: 40751 
+
+Gene 286: Start: 40782 End: 40884 
+
+Gene 287: Start: 40911 End: 40959 
+
+Gene 288: Start: 41033 End: 41195 
+
+Gene 289: Start: 41312 End: 41552 
+
+Gene 290: Start: 41612 End: 41648 
+
+Gene 291: Start: 41662 End: 41674 
+
+Gene 292: Start: 41836 End: 41863 
+
+Gene 293: Start: 41866 End: 41974 
+
+Gene 294: Start: 42028 End: 42061 
+
+Gene 295: Start: 42073 End: 42196 
+
+Gene 296: Start: 42236 End: 42269 
+
+Gene 297: Start: 42294 End: 42366 
+
+Gene 298: Start: 42485 End: 42527 
+
+Gene 299: Start: 42606 End: 42627 
+
+Gene 300: Start: 42678 End: 42735 
+
+Gene 301: Start: 42847 End: 42865 
+
+Gene 302: Start: 42876 End: 42945 
+
+Gene 303: Start: 42979 End: 42982 
+
+Gene 304: Start: 43007 End: 43022 
+
+Gene 305: Start: 43065 End: 43245 
+
+Gene 306: Start: 43286 End: 43412 
+
+Gene 307: Start: 43416 End: 43713 
+
+Gene 308: Start: 43799 End: 43826 
+
+Gene 309: Start: 43854 End: 43938 
+
+Gene 310: Start: 43965 End: 43992 
+
+Gene 311: Start: 44037 End: 44079 
+
+Gene 312: Start: 44146 End: 44269 
+
+Gene 313: Start: 44272 End: 44338 
+
+Gene 314: Start: 44513 End: 44537 
+
+Gene 315: Start: 44638 End: 44641 
+
+Gene 316: Start: 44674 End: 44707 
+
+Gene 317: Start: 44713 End: 44722 
+
+Gene 318: Start: 44843 End: 44912 
+
+Gene 319: Start: 44929 End: 44944 
+
+Gene 320: Start: 44955 End: 45003 
+
+Gene 321: Start: 45044 End: 45089 
+
+Gene 322: Start: 45104 End: 45305 
+
+Gene 323: Start: 45374 End: 45542 
+
+Gene 324: Start: 45600 End: 45666 
+
+Gene 325: Start: 45770 End: 45776 
+
+Gene 326: Start: 45974 End: 46016 
+
+Gene 327: Start: 46033 End: 46114 
+
+Gene 328: Start: 46303 End: 46357 
+
+Gene 329: Start: 46373 End: 46439 
+
+Gene 330: Start: 46447 End: 46498 
+
+Gene 331: Start: 46511 End: 46544 
+
+Gene 332: Start: 46562 End: 46622 
+
+Gene 333: Start: 46782 End: 46818 
+
+Gene 334: Start: 46821 End: 46908 
+
+Gene 335: Start: 46951 End: 47041 
+
+Gene 336: Start: 47174 End: 47264 
+
+Gene 337: Start: 47357 End: 47411 
+
+Gene 338: Start: 47470 End: 47560 
+
+Gene 339: Start: 47662 End: 47701 
+
+Gene 340: Start: 47873 End: 47897 
+
+Gene 341: Start: 47906 End: 48005 
+
+Gene 342: Start: 48009 End: 48039 
+
+Gene 343: Start: 48053 End: 48092 
+
+Gene 344: Start: 48155 End: 48293 
+
+Gene 345: Start: 48304 End: 48535 
+
+Gene 346: Start: 48609 End: 48711 
+
+Gene 347: Start: 48771 End: 48783 
+
+Gene 348: Start: 48865 End: 48970 
+
+Gene 349: Start: 49007 End: 49049 
+
+Gene 350: Start: 49115 End: 49139 
+
+Gene 351: Start: 49146 End: 49170 
+
+Gene 352: Start: 49361 End: 49502 
+
+Gene 353: Start: 49520 End: 49526 
+
+Gene 354: Start: 49713 End: 49914 
+
+Gene 355: Start: 50116 End: 50122 
+
+Gene 356: Start: 50185 End: 50218 
+
+Gene 357: Start: 50232 End: 50280 
+
+Gene 358: Start: 50314 End: 50317 
+
+Gene 359: Start: 50341 End: 50350 
+
+Gene 360: Start: 50404 End: 50521 
+
+Gene 361: Start: 50615 End: 50624 
+
+Gene 362: Start: 50922 End: 50928 
+
+Gene 363: Start: 51277 End: 51349 
+
+Gene 364: Start: 51452 End: 51461 
+
+Gene 365: Start: 51479 End: 51566 
+
+Gene 366: Start: 51570 End: 51588 
+
+Gene 367: Start: 51639 End: 51660 
+
+Gene 368: Start: 51667 End: 51685 
+
+Gene 369: Start: 51746 End: 51761 
+
+Gene 370: Start: 51804 End: 51924 
+
+Gene 371: Start: 51997 End: 52057 
+
+Gene 372: Start: 52115 End: 52226 
+
+Gene 373: Start: 52237 End: 52321 
+
+Gene 374: Start: 52430 End: 52451 
+
+Gene 375: Start: 52474 End: 52549 
+
+Gene 376: Start: 52581 End: 52638 
+
+Gene 377: Start: 52846 End: 52882 
+
+Gene 378: Start: 52919 End: 52964 
+
+Gene 379: Start: 52996 End: 53017 
+
+Gene 380: Start: 53024 End: 53144 
+
+Gene 381: Start: 53188 End: 53578 
+
+Gene 382: Start: 53683 End: 53836 
+
+Gene 383: Start: 53866 End: 53872 
+
+Gene 384: Start: 53882 End: 54089 
+
+Gene 385: Start: 54095 End: 54107 
+
+Gene 386: Start: 54205 End: 54292 
+
+Gene 387: Start: 54362 End: 54428 
+
+Gene 388: Start: 54434 End: 54455 
+
+Gene 389: Start: 54546 End: 54603 
+
+Gene 390: Start: 54676 End: 54817 
+
+Gene 391: Start: 54893 End: 54953 
+
+Gene 392: Start: 54989 End: 55145 
+
+Gene 393: Start: 55238 End: 55331 
+
+Gene 394: Start: 55449 End: 55491 
+
+Gene 395: Start: 55587 End: 55791 
+
+Gene 396: Start: 55836 End: 55902 
+
+Gene 397: Start: 56071 End: 56107 
+
+Gene 398: Start: 56163 End: 56286 
+
+Gene 399: Start: 56496 End: 56550 
+
+Gene 400: Start: 56588 End: 56684 
+
+Gene 401: Start: 56771 End: 56903 
+
+Gene 402: Start: 56928 End: 56943 
+
+Gene 403: Start: 57249 End: 57303 
+
+Gene 404: Start: 57366 End: 57507 
+
+Gene 405: Start: 57547 End: 57568 
+
+Gene 406: Start: 57660 End: 57681 
+
+Gene 407: Start: 57695 End: 57773 
+
+Gene 408: Start: 57827 End: 57890 
+
+Gene 409: Start: 57951 End: 57972 
+
+Gene 410: Start: 58106 End: 58208 
+
+Gene 411: Start: 58244 End: 58328 
+
+Gene 412: Start: 58489 End: 58642 
+
+Gene 413: Start: 58645 End: 58660 
+
+Gene 414: Start: 58669 End: 58708 
+
+Gene 415: Start: 58759 End: 58771 
+
+Gene 416: Start: 58807 End: 58879 
+
+Gene 417: Start: 58922 End: 58970 
+
+Gene 418: Start: 58990 End: 59050 
+
+Gene 419: Start: 59213 End: 59225 
+
+Gene 420: Start: 59262 End: 59286 
+
+Gene 421: Start: 59400 End: 59424 
+
+Gene 422: Start: 59483 End: 59492 
+
+Gene 423: Start: 59551 End: 59578 
+
+Gene 424: Start: 59629 End: 59635 
+
+Gene 425: Start: 59642 End: 59732 
+
+Gene 426: Start: 59821 End: 59896 
+
+Gene 427: Start: 59925 End: 60192 
+
+Gene 428: Start: 60211 End: 60244 
+
+Gene 429: Start: 60262 End: 60280 
+
+Gene 430: Start: 60555 End: 60573 
+
+Gene 431: Start: 60583 End: 60586 
+
+Gene 432: Start: 60677 End: 60698 
+
+Gene 433: Start: 60729 End: 60756 
+
+Gene 434: Start: 60769 End: 60775 
+
+Gene 435: Start: 60778 End: 60787 
+
+Gene 436: Start: 60819 End: 60828 
+
+Gene 437: Start: 60877 End: 60991 
+
+Gene 438: Start: 61015 End: 61075 
+
+Gene 439: Start: 61113 End: 61383 
+
+Gene 440: Start: 61433 End: 61544 
+
+Gene 441: Start: 61609 End: 61666 
+
+Gene 442: Start: 61690 End: 61765 
+
+Gene 443: Start: 61774 End: 61804 
+
+Gene 444: Start: 61845 End: 61890 
+
+Gene 445: Start: 61897 End: 61996 
+
+Gene 446: Start: 62034 End: 62100 
+
+Gene 447: Start: 62302 End: 62353 
+
+Gene 448: Start: 62389 End: 62674 
+
+Gene 449: Start: 62728 End: 62764 
+
+Gene 450: Start: 62909 End: 62963 
+
+Gene 451: Start: 63041 End: 63107 
+
+Gene 452: Start: 63141 End: 63165 
+
+Gene 453: Start: 63209 End: 63212 
+
+Gene 454: Start: 63238 End: 63268 
+
+Gene 455: Start: 63323 End: 63341 
+
+Gene 456: Start: 63615 End: 63651 
+
+Gene 457: Start: 63745 End: 63895 
+
+Gene 458: Start: 64044 End: 64059 
+
+Gene 459: Start: 64084 End: 64117 
+
+Gene 460: Start: 64170 End: 64266 
+
+Gene 461: Start: 64297 End: 64345 
+
+Gene 462: Start: 64365 End: 64536 
+
+Gene 463: Start: 64604 End: 64625 
+
+Gene 464: Start: 64667 End: 64808 
+
+Gene 465: Start: 64828 End: 64831 
+
+Gene 466: Start: 65089 End: 65113 
+
+Gene 467: Start: 65292 End: 65313 
+
+Gene 468: Start: 65358 End: 65385 
+
+Gene 469: Start: 65543 End: 65579 
+
+Gene 470: Start: 65602 End: 65614 
+
+Gene 471: Start: 65768 End: 65771 
+
+Gene 472: Start: 65789 End: 65960 
+
+Gene 473: Start: 66155 End: 66167 
+
+Gene 474: Start: 66219 End: 66273 
+
+Gene 475: Start: 66280 End: 66409 
+
+Gene 476: Start: 66443 End: 66452 
+
+Gene 477: Start: 66597 End: 66663 
+
+Gene 478: Start: 66668 End: 66683 
+
+Gene 479: Start: 66841 End: 66868 
+
+Gene 480: Start: 67053 End: 67158 
+
+Gene 481: Start: 67161 End: 67257 
+
+Gene 482: Start: 67286 End: 67325 
+
+Gene 483: Start: 67333 End: 67336 
+
+Gene 484: Start: 67378 End: 67423 
+
+Gene 485: Start: 67570 End: 67624 
+
+Gene 486: Start: 67630 End: 67762 
+
+Gene 487: Start: 67789 End: 67990 
+
+Gene 488: Start: 68039 End: 68078 
+
+Gene 489: Start: 68278 End: 68401 
+
+Gene 490: Start: 68427 End: 68508 
+
+Gene 491: Start: 68585 End: 68588 
+
+Gene 492: Start: 68688 End: 68820 
+
+Gene 493: Start: 68840 End: 68891 
+
+Gene 494: Start: 68930 End: 68936 
+
+Gene 495: Start: 68944 End: 69001 
+
+Gene 496: Start: 69071 End: 69101 
+
+Gene 497: Start: 69134 End: 69149 
+
+Gene 498: Start: 69223 End: 69232 
+
+Gene 499: Start: 69246 End: 69333 
+
+Gene 500: Start: 69350 End: 69470 
+
+Gene 501: Start: 69542 End: 69608 
+
+Gene 502: Start: 69845 End: 69938 
+
+Gene 503: Start: 70137 End: 70185 
+
+Gene 504: Start: 70195 End: 70207 
+
+Gene 505: Start: 70218 End: 70236 
+
+Gene 506: Start: 70469 End: 70487 
+
+Gene 507: Start: 70567 End: 70612 
+
+Gene 508: Start: 70714 End: 70723 
+
+Gene 509: Start: 70813 End: 70948 
+
+Gene 510: Start: 71041 End: 71152 
+
+Gene 511: Start: 71189 End: 71237 
+
+Gene 512: Start: 71263 End: 71296 
+
+Gene 513: Start: 71333 End: 71507 
+
+Gene 514: Start: 71669 End: 71690 
+
+Gene 515: Start: 71707 End: 71746 
+
+Gene 516: Start: 71894 End: 71933 
+
+Gene 517: Start: 72174 End: 72288 
+
+Gene 518: Start: 72425 End: 72461 
+
+Gene 519: Start: 72552 End: 72660 
+
+Gene 520: Start: 72791 End: 72827 
+
+Gene 521: Start: 72839 End: 72896 
+
+Gene 522: Start: 72932 End: 73160 
+
+Gene 523: Start: 73169 End: 73175 
+
+Gene 524: Start: 73194 End: 73245 
+
+Gene 525: Start: 73285 End: 73381 
+
+Gene 526: Start: 73398 End: 73440 
+
+Gene 527: Start: 73645 End: 73735 
+
+Gene 528: Start: 73765 End: 73837 
+
+Gene 529: Start: 73867 End: 73969 
+
+Gene 530: Start: 74002 End: 74059 
+
+Gene 531: Start: 74158 End: 74212 
+
+Gene 532: Start: 74243 End: 74276 
+
+Gene 533: Start: 74294 End: 74306 
+
+Gene 534: Start: 74381 End: 74420 
+
+Gene 535: Start: 74487 End: 74514 
+
+Gene 536: Start: 74527 End: 74566 
+
+Gene 537: Start: 74580 End: 74829 
+
+Gene 538: Start: 74833 End: 74839 
+
+Gene 539: Start: 74875 End: 74917 
+
+Gene 540: Start: 74942 End: 74957 
+
+Gene 541: Start: 74982 End: 75015 
+
+Gene 542: Start: 75022 End: 75079 
+
+Gene 543: Start: 75195 End: 75420 
+
+Gene 544: Start: 75428 End: 75593 
+
+Gene 545: Start: 75683 End: 75686 
+
+Gene 546: Start: 75707 End: 75722 
+
+Gene 547: Start: 75746 End: 75776 
+
+Gene 548: Start: 75816 End: 75948 
+
+Gene 549: Start: 76029 End: 76086 
+
+Gene 550: Start: 76092 End: 76230 
+
+Gene 551: Start: 76250 End: 76385 
+
+Gene 552: Start: 76521 End: 76524 
+
+Gene 553: Start: 76728 End: 76782 
+
+Gene 554: Start: 76878 End: 76893 
+
+Gene 555: Start: 76962 End: 77004 
+
+Gene 556: Start: 77051 End: 77066 
+
+Gene 557: Start: 77258 End: 77381 
+
+Gene 558: Start: 77406 End: 77631 
+
+Gene 559: Start: 77835 End: 77850 
+
+Gene 560: Start: 77883 End: 77955 
+
+Gene 561: Start: 78021 End: 78036 
+
+Gene 562: Start: 78419 End: 78479 
+
+Gene 563: Start: 78738 End: 78840 
+
+Gene 564: Start: 78855 End: 78933 
+
+Gene 565: Start: 79140 End: 79146 
+
+Gene 566: Start: 79200 End: 79443 
+
+Gene 567: Start: 79487 End: 79517 
+
+Gene 568: Start: 79551 End: 79671 
+
+Gene 569: Start: 79769 End: 79832 
+
+Gene 570: Start: 79872 End: 80115 
+
+Gene 571: Start: 80250 End: 80316 
+
+Gene 572: Start: 80363 End: 80390 
+
+Gene 573: Start: 80765 End: 80843 
+
+Gene 574: Start: 80883 End: 80886 
+
+Gene 575: Start: 81090 End: 81351 
+
+Gene 576: Start: 81447 End: 81504 
+
+Gene 577: Start: 81659 End: 81728 
+
+Gene 578: Start: 81762 End: 81771 
+
+Gene 579: Start: 81779 End: 81782 
+
+Gene 580: Start: 81809 End: 81878 
+
+Gene 581: Start: 81897 End: 81966 
+
+Gene 582: Start: 82028 End: 82064 
+
+Gene 583: Start: 82107 End: 82251 
+
+Gene 584: Start: 82266 End: 82281 
+
+Gene 585: Start: 82299 End: 82329 
+
+Gene 586: Start: 82485 End: 82602 
+
+Gene 587: Start: 82874 End: 82934 
+
+Gene 588: Start: 82956 End: 82977 
+
+Gene 589: Start: 82988 End: 83123 
+
+Gene 590: Start: 83300 End: 83324 
+
+Gene 591: Start: 83399 End: 83411 
+
+Gene 592: Start: 83469 End: 83478 
+
+Gene 593: Start: 83501 End: 83513 
+
+Gene 594: Start: 83559 End: 83577 
+
+Gene 595: Start: 83607 End: 83733 
+
+Gene 596: Start: 83759 End: 83771 
+
+Gene 597: Start: 83907 End: 84000 
+
+Gene 598: Start: 84276 End: 84345 
+
+Gene 599: Start: 84362 End: 84392 
+
+Gene 600: Start: 84452 End: 84512 
+
+Gene 601: Start: 84570 End: 84603 
+
+Gene 602: Start: 84734 End: 84812 
+
+Gene 603: Start: 84875 End: 84926 
+
+Gene 604: Start: 84939 End: 84960 
+
+Gene 605: Start: 85001 End: 85025 
+
+Gene 606: Start: 85397 End: 85655 
+
+Gene 607: Start: 85727 End: 85829 
+
+Gene 608: Start: 85998 End: 86037 
+
+Gene 609: Start: 86103 End: 86226 
+
+Gene 610: Start: 86294 End: 86321 
+
+Gene 611: Start: 86325 End: 86373 
+
+Gene 612: Start: 86501 End: 86528 
+
+Gene 613: Start: 86594 End: 86630 
+
+Gene 614: Start: 86718 End: 86781 
+
+Gene 615: Start: 86820 End: 86823 
+
+Gene 616: Start: 86856 End: 86955 
+
+Gene 617: Start: 86988 End: 87066 
+
+Gene 618: Start: 87281 End: 87335 
+
+Gene 619: Start: 87369 End: 87393 
+
+Gene 620: Start: 87408 End: 87450 
+
+Gene 621: Start: 87459 End: 87486 
+
+Gene 622: Start: 88074 End: 88086 
+
+Gene 623: Start: 88119 End: 88185 
+
+Gene 624: Start: 88218 End: 88284 
+
+Gene 625: Start: 88352 End: 88412 
+
+Gene 626: Start: 88581 End: 88584 
+
+Gene 627: Start: 88667 End: 88736 
+
+Gene 628: Start: 88827 End: 88863 
+
+Gene 629: Start: 88899 End: 88932 
+
+Gene 630: Start: 89127 End: 89190 
+
+Gene 631: Start: 89226 End: 89304 
+
+Gene 632: Start: 89387 End: 89405 
+
+Gene 633: Start: 89465 End: 89504 
+
+Gene 634: Start: 89714 End: 89831 
+
+Gene 635: Start: 89970 End: 90138 
+
+Gene 636: Start: 90278 End: 90314 
+
+Gene 637: Start: 90377 End: 90527 
+
+Gene 638: Start: 90545 End: 90695 
+
+Gene 639: Start: 90723 End: 90744 
+
+Gene 640: Start: 90801 End: 90822 
+
+Gene 641: Start: 90888 End: 90945 
+
+Gene 642: Start: 91032 End: 91041 
+
+Gene 643: Start: 91289 End: 91349 
+
+Gene 644: Start: 91442 End: 91472 
+
+Gene 645: Start: 91491 End: 91584 
+
+Gene 646: Start: 91658 End: 91718 
+
+Gene 647: Start: 91751 End: 91937 
+
+Gene 648: Start: 91958 End: 91991 
+
+Gene 649: Start: 92061 End: 92064 
+
+Gene 650: Start: 92130 End: 92232 
+
+Gene 651: Start: 92348 End: 92396 
+
+Gene 652: Start: 92556 End: 92559 
+
+Gene 653: Start: 92615 End: 92624 
+
+Gene 654: Start: 92748 End: 92772 
+
+Gene 655: Start: 92850 End: 92886 
+
+Gene 656: Start: 92894 End: 92999 
+
+Gene 657: Start: 93231 End: 93282 
+
+Gene 658: Start: 93374 End: 93458 
+
+Gene 659: Start: 93690 End: 93813 
+
+Gene 660: Start: 93918 End: 93987 
+
+Gene 661: Start: 93999 End: 94035 
+
+Gene 662: Start: 94068 End: 94140 
+
+Gene 663: Start: 94383 End: 94389 
+
+Gene 664: Start: 94416 End: 94422 
+
+Gene 665: Start: 94464 End: 94488 
+
+Gene 666: Start: 94562 End: 94568 
+
+Gene 667: Start: 94602 End: 94617 
+
+Gene 668: Start: 94725 End: 94740 
+
+Gene 669: Start: 94812 End: 94866 
+
+Gene 670: Start: 94893 End: 94941 
+
+Gene 671: Start: 94985 End: 95012 
+
+Gene 672: Start: 95052 End: 95130 
+
+Gene 673: Start: 95160 End: 95190 
+
+Gene 674: Start: 95340 End: 95379 
+
+Gene 675: Start: 95466 End: 95493 
+
+Gene 676: Start: 95780 End: 96053 
+
+Gene 677: Start: 96074 End: 96383 
+
+Gene 678: Start: 96737 End: 96749 
+
+Gene 679: Start: 96929 End: 96983 
+
+Gene 680: Start: 97073 End: 97109 
+
+Gene 681: Start: 97196 End: 97304 
+
+Gene 682: Start: 97419 End: 97437 
+
+Gene 683: Start: 97560 End: 97572 
+
+Gene 684: Start: 97613 End: 97652 
+
+Gene 685: Start: 97715 End: 97760 
+
+Gene 686: Start: 97814 End: 97838 
+
+Gene 687: Start: 97992 End: 97998 
+
+Gene 688: Start: 98019 End: 98028 
+
+Gene 689: Start: 98085 End: 98208 
+
+Gene 690: Start: 98256 End: 98448 
+
+Gene 691: Start: 98496 End: 98640 
+
+Gene 692: Start: 98675 End: 98684 
+
+Gene 693: Start: 98693 End: 98915 
+
+Gene 694: Start: 99006 End: 99156 
+
+Gene 695: Start: 99245 End: 99284 
+
+Gene 696: Start: 99446 End: 99476 
+
+Gene 697: Start: 99536 End: 99563 
+
+Gene 698: Start: 99657 End: 99765 
+
+Gene 699: Start: 100319 End: 100496 
+
+Gene 700: Start: 100512 End: 100548 
+
+Gene 701: Start: 100676 End: 100697 
+
+Gene 702: Start: 100812 End: 100830 
+
+Gene 703: Start: 100841 End: 100904 
+
+Gene 704: Start: 100998 End: 101100 
+
+Gene 705: Start: 101114 End: 101243 
+
+Gene 706: Start: 101336 End: 101441 
+
+Gene 707: Start: 101609 End: 101648 
+
+Gene 708: Start: 101747 End: 101774 
+
+Gene 709: Start: 101792 End: 101864 
+
+Gene 710: Start: 101891 End: 101975 
+
+Gene 711: Start: 102099 End: 102249 
+
+Gene 712: Start: 102254 End: 102263 
+
+Gene 713: Start: 102401 End: 102518 
+
+Gene 714: Start: 102584 End: 102587 
+
+Gene 715: Start: 102659 End: 102740 
+
+Gene 716: Start: 103010 End: 103043 
+
+Gene 717: Start: 103061 End: 103241 
+
+Gene 718: Start: 103326 End: 103515 
+
+Gene 719: Start: 103541 End: 103544 
+
+Gene 720: Start: 103625 End: 103628 
+
+Gene 721: Start: 103677 End: 103695 
+
+Gene 722: Start: 104247 End: 104301 
+
+Gene 723: Start: 104349 End: 104490 
+
+Gene 724: Start: 104652 End: 104733 
+
+Gene 725: Start: 104741 End: 104903 
+
+Gene 726: Start: 104949 End: 105015 
+
+Gene 727: Start: 105096 End: 105165 
+
+Gene 728: Start: 105267 End: 105276 
+
+Gene 729: Start: 105518 End: 105548 
+
+Gene 730: Start: 105698 End: 105773 
+
+Gene 731: Start: 105798 End: 105933 
+
+Gene 732: Start: 106068 End: 106071 
+
+Gene 733: Start: 106151 End: 106154 
+
+Gene 734: Start: 106167 End: 106239 
+
+Gene 735: Start: 106352 End: 106355 
+
+Gene 736: Start: 106382 End: 106460 
+
+Gene 737: Start: 106482 End: 106554 
+
+Gene 738: Start: 106691 End: 106697 
+
+Gene 739: Start: 106854 End: 106863 
+
+Gene 740: Start: 106961 End: 106982 
+
+Gene 741: Start: 107032 End: 107050 
+
+Gene 742: Start: 107209 End: 107227 
+
+Gene 743: Start: 107289 End: 107328 
+
+Gene 744: Start: 107410 End: 107428 
+
+Gene 745: Start: 107448 End: 107454 
+
+Gene 746: Start: 107579 End: 107663 
+
+Gene 747: Start: 107757 End: 107769 
+
+Gene 748: Start: 107790 End: 107808 
+
+Gene 749: Start: 107840 End: 107894 
+
+Gene 750: Start: 107953 End: 108259 
+
+Gene 751: Start: 108296 End: 108326 
+
+Gene 752: Start: 108362 End: 108455 
+
+Gene 753: Start: 108483 End: 108528 
+
+Gene 754: Start: 108532 End: 108547 
+
+Gene 755: Start: 108607 End: 108625 
+
+Gene 756: Start: 108647 End: 108653 
+
+Gene 757: Start: 108698 End: 108725 
+
+Gene 758: Start: 108828 End: 108843 
+
+Gene 759: Start: 108910 End: 109078 
+
+Gene 760: Start: 109119 End: 109305 
+
+Gene 761: Start: 109402 End: 109570 
+
+Gene 762: Start: 109595 End: 109604 
+
+Gene 763: Start: 109637 End: 109643 
+
+Gene 764: Start: 109659 End: 109716 
+
+Gene 765: Start: 109720 End: 109741 
+
+Gene 766: Start: 109805 End: 109976 
+
+Gene 767: Start: 110014 End: 110032 
+
+Gene 768: Start: 110073 End: 110091 
+
+Gene 769: Start: 110203 End: 110302 
+
+Gene 770: Start: 110342 End: 110348 
+
+Gene 771: Start: 110357 End: 110405 
+
+Gene 772: Start: 110506 End: 110530 
+
+Gene 773: Start: 110576 End: 110765 
+
+Gene 774: Start: 110816 End: 110849 
+
+Gene 775: Start: 110861 End: 110927 
+
+Gene 776: Start: 110940 End: 111039 
+
+Gene 777: Start: 111054 End: 111078 
+
+Gene 778: Start: 111087 End: 111138 
+
+Gene 779: Start: 111237 End: 111282 
+
+Gene 780: Start: 111316 End: 111364 
+
+Gene 781: Start: 111396 End: 111426 
+
+Gene 782: Start: 111481 End: 111517 
+
+Gene 783: Start: 111581 End: 111590 
+
+Gene 784: Start: 111597 End: 111687 
+
+Gene 785: Start: 112025 End: 112100 
+
+Gene 786: Start: 112107 End: 112143 
+
+Gene 787: Start: 112148 End: 112172 
+
+Gene 788: Start: 112203 End: 112281 
+
+Gene 789: Start: 112330 End: 112369 
+
+Gene 790: Start: 112411 End: 112498 
+
+Gene 791: Start: 112541 End: 112571 
+
+Gene 792: Start: 112583 End: 112592 
+
+Gene 793: Start: 112596 End: 112731 
+
+Gene 794: Start: 112752 End: 112785 
+
+Gene 795: Start: 112828 End: 112867 
+
+Gene 796: Start: 113048 End: 113066 
+
+Gene 797: Start: 113133 End: 113175 
+
+Gene 798: Start: 113252 End: 113270 
+
+Gene 799: Start: 113366 End: 113396 
+
+Gene 800: Start: 113411 End: 113429 
+
+Gene 801: Start: 113553 End: 113568 
+
+Gene 802: Start: 113589 End: 113712 
+
+Gene 803: Start: 113759 End: 113819 
+
+Gene 804: Start: 113889 End: 114234 
+
+Gene 805: Start: 114249 End: 114366 
+
+Gene 806: Start: 114399 End: 114411 
+
+Gene 807: Start: 114437 End: 114683 
+
+Gene 808: Start: 114764 End: 114809 
+
+Gene 809: Start: 114833 End: 114917 
+
+Gene 810: Start: 114957 End: 114987 
+
+Gene 811: Start: 114993 End: 115005 
+
+Gene 812: Start: 115084 End: 115120 
+
+Gene 813: Start: 115127 End: 115130 
+
+Gene 814: Start: 115157 End: 115268 
+
+Gene 815: Start: 115325 End: 115412 
+
+Gene 816: Start: 115417 End: 115474 
+
+Gene 817: Start: 115498 End: 115648 
+
+Gene 818: Start: 115753 End: 115762 
+
+Gene 819: Start: 115876 End: 115939 
+
+Gene 820: Start: 116002 End: 116056 
+
+Gene 821: Start: 116303 End: 116444 
+
+Gene 822: Start: 116506 End: 116581 
+
+Gene 823: Start: 116591 End: 116636 
+
+Gene 824: Start: 116647 End: 116785 
+
+Gene 825: Start: 116866 End: 116875 
+
+Gene 826: Start: 116901 End: 116913 
+
+Gene 827: Start: 116969 End: 116975 
+
+Gene 828: Start: 117024 End: 117093 
+
+Gene 829: Start: 117110 End: 117218 
+
+Gene 830: Start: 117266 End: 117272 
+
+Gene 831: Start: 117285 End: 117309 
+
+Gene 832: Start: 117346 End: 117481 
+
+Gene 833: Start: 117507 End: 117570 
+
+Gene 834: Start: 117669 End: 117726 
+
+Gene 835: Start: 117761 End: 117770 
+
+Gene 836: Start: 117776 End: 118034 
+
+Gene 837: Start: 118055 End: 118127 
+
+Gene 838: Start: 118136 End: 118223 
+
+Gene 839: Start: 118238 End: 118292 
+
+Gene 840: Start: 118295 End: 118337 
+
+Gene 841: Start: 118506 End: 118524 
+
+Gene 842: Start: 118588 End: 118645 
+
+Gene 843: Start: 118661 End: 118664 
+
+Gene 844: Start: 118892 End: 118913 
+
+Gene 845: Start: 119011 End: 119227 
+
+Gene 846: Start: 119437 End: 119497 
+
+Gene 847: Start: 119507 End: 119516 
+
+Gene 848: Start: 119522 End: 119531 
+
+Gene 849: Start: 119717 End: 119768 
+
+Gene 850: Start: 120054 End: 120084 
+
+Gene 851: Start: 120089 End: 120203 
+
+Gene 852: Start: 120219 End: 120249 
+
+Gene 853: Start: 120400 End: 120472 
+
+Gene 854: Start: 120606 End: 120618 
+
+Gene 855: Start: 120686 End: 120701 
+
+Gene 856: Start: 120811 End: 120997 
+
+Gene 857: Start: 121073 End: 121100 
+
+Gene 858: Start: 121220 End: 121262 
+
+Gene 859: Start: 121291 End: 121315 
+
+Gene 860: Start: 121348 End: 121408 
+
+Gene 861: Start: 121459 End: 121477 
+
+Gene 862: Start: 121592 End: 121721 
+
+Gene 863: Start: 121747 End: 121840 
+
+Gene 864: Start: 121897 End: 121954 
+
+Gene 865: Start: 122129 End: 122189 
+
+Gene 866: Start: 122309 End: 122342 
+
+Gene 867: Start: 122416 End: 122425 
+
+Gene 868: Start: 122526 End: 122541 
+
+Gene 869: Start: 122548 End: 122551 
+
+Gene 870: Start: 122597 End: 122699 
+
+Gene 871: Start: 122718 End: 122733 
+
+Gene 872: Start: 122753 End: 122777 
+
+Gene 873: Start: 122852 End: 122948 
+
+Gene 874: Start: 122956 End: 122989 
+
+Gene 875: Start: 123055 End: 123094 
+
+Gene 876: Start: 123220 End: 123247 
+
+Gene 877: Start: 123280 End: 123397 
+
+Gene 878: Start: 123410 End: 123416 
+
+Gene 879: Start: 123566 End: 123593 
+
+Gene 880: Start: 123887 End: 123908 
+
+Gene 881: Start: 123929 End: 123962 
+
+Gene 882: Start: 124006 End: 124027 
+
+Gene 883: Start: 124151 End: 124280 
+
+Gene 884: Start: 124379 End: 124391 
+
+Gene 885: Start: 124429 End: 124498 
+
+Gene 886: Start: 124558 End: 124618 
+
+Gene 887: Start: 124673 End: 124700 
+
+Gene 888: Start: 124789 End: 124861 
+
+Gene 889: Start: 124916 End: 124937 
+
+Gene 890: Start: 124941 End: 124962 
+
+Gene 891: Start: 125064 End: 125109 
+
+Gene 892: Start: 125149 End: 125239 
+
+Gene 893: Start: 125301 End: 125343 
+
+Gene 894: Start: 125389 End: 125446 
+
+Gene 895: Start: 125452 End: 125467 
+
+Gene 896: Start: 125597 End: 125642 
+
+Gene 897: Start: 125717 End: 125735 
+
+Gene 898: Start: 125780 End: 125783 
+
+Gene 899: Start: 125828 End: 125885 
+
+Gene 900: Start: 125955 End: 125997 
+
+Gene 901: Start: 126034 End: 126214 
+
+Gene 902: Start: 126376 End: 126466 
+
+Gene 903: Start: 126734 End: 126893 
+
+Gene 904: Start: 126947 End: 127106 
+
+Gene 905: Start: 127143 End: 127242 
+
+Gene 906: Start: 127308 End: 127332 
+
+Gene 907: Start: 127353 End: 127545 
+
+Gene 908: Start: 127605 End: 127626 
+
+Gene 909: Start: 127665 End: 127968 
+
+Gene 910: Start: 128036 End: 128051 
+
+Gene 911: Start: 128073 End: 128199 
+
+Gene 912: Start: 128237 End: 128282 
+
+Gene 913: Start: 128316 End: 128334 
+
+Gene 914: Start: 128362 End: 128392 
+
+Gene 915: Start: 128434 End: 128497 
+
+Gene 916: Start: 128613 End: 128667 
+
+Gene 917: Start: 128723 End: 128807 
+
+Gene 918: Start: 128924 End: 128951 
+
+Gene 919: Start: 129012 End: 129039 
+
+Gene 920: Start: 129281 End: 129440 
+
+Gene 921: Start: 129534 End: 129594 
+
+Gene 922: Start: 129854 End: 129905 
+
+Gene 923: Start: 129941 End: 129977 
+
+Gene 924: Start: 130074 End: 130137 
+
+Gene 925: Start: 130428 End: 130434 
+
+Gene 926: Start: 130440 End: 130479 
+
+Gene 927: Start: 130511 End: 130598 
+
+Gene 928: Start: 130617 End: 130671 
+
+Gene 929: Start: 130787 End: 130823 
+
+Gene 930: Start: 130848 End: 130992 
+
+Gene 931: Start: 131018 End: 131105 
+
+Gene 932: Start: 131151 End: 131232 
+
+Gene 933: Start: 131235 End: 131271 
+
+Gene 934: Start: 131364 End: 131487 
+
+Gene 935: Start: 131531 End: 131558 
+
+Gene 936: Start: 131622 End: 131637 
+
+Gene 937: Start: 131730 End: 131739 
+
+Gene 938: Start: 131951 End: 132077 
+
+Gene 939: Start: 132131 End: 132176 
+
+Gene 940: Start: 132399 End: 132420 
+
+Gene 941: Start: 132464 End: 132470 
+
+Gene 942: Start: 132533 End: 132542 
+
+Gene 943: Start: 132605 End: 132620 
+
+Gene 944: Start: 132737 End: 132770 
+
+Gene 945: Start: 132929 End: 132971 
+
+Gene 946: Start: 133077 End: 133146 
+
+Gene 947: Start: 133194 End: 133323 
+
+Gene 948: Start: 133448 End: 133493 
+
+Gene 949: Start: 133520 End: 133541 
+
+Gene 950: Start: 133770 End: 133806 
+
+Gene 951: Start: 133811 End: 133889 
+
+Gene 952: Start: 133965 End: 133980 
+
+Gene 953: Start: 134060 End: 134063 
+
+Gene 954: Start: 134067 End: 134073 
+
+Gene 955: Start: 134127 End: 134244 
+
+Gene 956: Start: 134292 End: 134295 
+
+Gene 957: Start: 134394 End: 134538 
+
+Gene 958: Start: 134639 End: 134744 
+
+Gene 959: Start: 134889 End: 135048 
+
+Gene 960: Start: 135168 End: 135306 
+
+Gene 961: Start: 135392 End: 135437 
+
+Gene 962: Start: 135470 End: 135506 
+
+Gene 963: Start: 135623 End: 135641 
+
+Gene 964: Start: 135791 End: 135836 
+
+Gene 965: Start: 136040 End: 136076 
+
+Gene 966: Start: 136236 End: 136296 
+
+Gene 967: Start: 136520 End: 136538 
+
+Gene 968: Start: 136601 End: 136718 
+
+Gene 969: Start: 137033 End: 137099 
+
+Gene 970: Start: 137150 End: 137216 
+
+Gene 971: Start: 137490 End: 137511 
+
+Gene 972: Start: 137601 End: 137772 
+
+Gene 973: Start: 137903 End: 137936 
+
+Gene 974: Start: 138023 End: 138086 
+
+Gene 975: Start: 138285 End: 138303 
+
+Gene 976: Start: 138480 End: 138504 
+
+Gene 977: Start: 138591 End: 138669 
+
+Gene 978: Start: 138678 End: 138768 
+
+Gene 979: Start: 138857 End: 138863 
+
+Gene 980: Start: 138920 End: 139025 
+
+Gene 981: Start: 139061 End: 139091 
+
+Gene 982: Start: 139208 End: 139220 
+
+Gene 983: Start: 139275 End: 139302 
+
+Gene 984: Start: 139506 End: 139509 
+
+Gene 985: Start: 139562 End: 139781 
+
+Gene 986: Start: 140009 End: 140039 
+
+Gene 987: Start: 140135 End: 140228 
+
+Gene 988: Start: 140429 End: 140462 
+
+Gene 989: Start: 140529 End: 140535 
+
+Gene 990: Start: 140555 End: 140600 
+
+Gene 991: Start: 140670 End: 140697 
+
+Gene 992: Start: 140700 End: 140922 
+
+Gene 993: Start: 140948 End: 141026 
+
+Gene 994: Start: 141209 End: 141353 
+
+Gene 995: Start: 141386 End: 141425 
+
+Gene 996: Start: 141494 End: 141533 
+
+Gene 997: Start: 141993 End: 142035 
+
+Gene 998: Start: 142295 End: 142475 
+
+Gene 999: Start: 142595 End: 142682 
+
+Gene 1000: Start: 142716 End: 142737 
+
+Gene 1001: Start: 142917 End: 142932 
+
+Gene 1002: Start: 143111 End: 143138 
+
+Gene 1003: Start: 143186 End: 143267 
+
+Gene 1004: Start: 143343 End: 143355 
+
+Gene 1005: Start: 143466 End: 143580 
+
+Gene 1006: Start: 143589 End: 143628 
+
+Gene 1007: Start: 143637 End: 143745 
+
+Gene 1008: Start: 143867 End: 144026 
+
+Gene 1009: Start: 144063 End: 144108 
+
+Gene 1010: Start: 144240 End: 144384 
+
+Gene 1011: Start: 144407 End: 144410 
+
+Gene 1012: Start: 144444 End: 144630 
+
+Gene 1013: Start: 144762 End: 144849 
+
+Gene 1014: Start: 144920 End: 144989 
+
+Gene 1015: Start: 145049 End: 145055 
+
+Gene 1016: Start: 145242 End: 145452 
+
+Gene 1017: Start: 145460 End: 145517 
+
+Gene 1018: Start: 145530 End: 145554 
+
+Gene 1019: Start: 145733 End: 145745 
+
+Gene 1020: Start: 145769 End: 145805 
+
+Gene 1021: Start: 145820 End: 145931 
+
+Gene 1022: Start: 146010 End: 146058 
+
+Gene 1023: Start: 146421 End: 146424 
+
+Gene 1024: Start: 146447 End: 146477 
+
+Gene 1025: Start: 146523 End: 146550 
+
+Gene 1026: Start: 146685 End: 146733 
+
+Gene 1027: Start: 146808 End: 146817 
+
+Gene 1028: Start: 146885 End: 146975 
+
+Gene 1029: Start: 147422 End: 147446 
+
+Gene 1030: Start: 147492 End: 147495 
+
+Gene 1031: Start: 147557 End: 147572 
+
+Gene 1032: Start: 147575 End: 147635 
+
+Gene 1033: Start: 147713 End: 147734 
+
+Gene 1034: Start: 147824 End: 148067 
+
+Gene 1035: Start: 148094 End: 148121 
+
+Gene 1036: Start: 148170 End: 148182 
+
+Gene 1037: Start: 148227 End: 148233 
+
+Gene 1038: Start: 148269 End: 148275 
+
+Gene 1039: Start: 148451 End: 148634 
+
+Gene 1040: Start: 148646 End: 148682 
+
+Gene 1041: Start: 148704 End: 148758 
+
+Gene 1042: Start: 148851 End: 148899 
+
+Gene 1043: Start: 148965 End: 149142 
+
+Gene 1044: Start: 149183 End: 149195 
+
+Gene 1045: Start: 149198 End: 149258 
+
+Gene 1046: Start: 149435 End: 149456 
+
+Gene 1047: Start: 149466 End: 149535 
+
+Gene 1048: Start: 149825 End: 149882 
+
+Gene 1049: Start: 149945 End: 149951 
+
+Gene 1050: Start: 150074 End: 150545 
+
+Gene 1051: Start: 150585 End: 150642 
+
+Gene 1052: Start: 150656 End: 150707 
+
+Gene 1053: Start: 150882 End: 150972 
+
+Gene 1054: Start: 151016 End: 151028 
+
+Gene 1055: Start: 151065 End: 151155 
+
+Gene 1056: Start: 151226 End: 151310 
+
+Gene 1057: Start: 151524 End: 151629 
+
+Gene 1058: Start: 151680 End: 151716 
+
+Gene 1059: Start: 151832 End: 151850 
+
+Gene 1060: Start: 151964 End: 152099 
+
+Gene 1061: Start: 152147 End: 152204 
+
+Gene 1062: Start: 152213 End: 152390 
+
+Gene 1063: Start: 152474 End: 152516 
+
+Gene 1064: Start: 152609 End: 152897 
+
+Gene 1065: Start: 153011 End: 153101 
+
+Gene 1066: Start: 153147 End: 153153 
+
+Gene 1067: Start: 153213 End: 153243 
+
+Gene 1068: Start: 153300 End: 153318 
+
+Gene 1069: Start: 153336 End: 153384 
+
+Gene 1070: Start: 153408 End: 153435 
+
+Gene 1071: Start: 153710 End: 153746 
+
+Gene 1072: Start: 153875 End: 153944 
+
+Gene 1073: Start: 154218 End: 154389 
+
+Gene 1074: Start: 154506 End: 154515 
+
+Gene 1075: Start: 154673 End: 154766 
+
+Gene 1076: Start: 154820 End: 154829 
+
+Gene 1077: Start: 154913 End: 154973 
+
+Gene 1078: Start: 155045 End: 155228 
+
+Gene 1079: Start: 155433 End: 155460 
+
+Gene 1080: Start: 155522 End: 155630 
+
+Gene 1081: Start: 155768 End: 155828 
+
+Gene 1082: Start: 155868 End: 155886 
+
+Gene 1083: Start: 156038 End: 156119 
+
+Gene 1084: Start: 156185 End: 156290 
+
+Gene 1085: Start: 156381 End: 156405 
+
+Gene 1086: Start: 156408 End: 156429 
+
+Gene 1087: Start: 156467 End: 156485 
+
+Gene 1088: Start: 156543 End: 156549 
+
+Gene 1089: Start: 156612 End: 156669 
+
+Gene 1090: Start: 156720 End: 156786 
+
+Gene 1091: Start: 156800 End: 157016 
+
+Gene 1092: Start: 157151 End: 157178 
+
+Gene 1093: Start: 157242 End: 157248 
+
+Gene 1094: Start: 157265 End: 157274 
+
+Gene 1095: Start: 157308 End: 157335 
+
+Gene 1096: Start: 157376 End: 157436 
+
+Gene 1097: Start: 157472 End: 157733 
+
+Gene 1098: Start: 157841 End: 157865 
+
+Gene 1099: Start: 158019 End: 158022 
+
+Gene 1100: Start: 158139 End: 158211 
+
+Gene 1101: Start: 158234 End: 158291 
+
+Gene 1102: Start: 158325 End: 158583 
+
+Gene 1103: Start: 158598 End: 158685 
+
+Gene 1104: Start: 158688 End: 158760 
+
+Gene 1105: Start: 158841 End: 158883 
+
+Gene 1106: Start: 158937 End: 159102 
+
+Gene 1107: Start: 159110 End: 159206 
+
+Gene 1108: Start: 159234 End: 159243 
+
+Gene 1109: Start: 159258 End: 159510 
+
+Gene 1110: Start: 159729 End: 159759 
+
+Gene 1111: Start: 159858 End: 159930 
+
+Gene 1112: Start: 160013 End: 160022 
+
+Gene 1113: Start: 160098 End: 160122 
+
+Gene 1114: Start: 160139 End: 160160 
+
+Gene 1115: Start: 160274 End: 160298 
+
+Gene 1116: Start: 160344 End: 160353 
+
+Gene 1117: Start: 160472 End: 160616 
+
+Gene 1118: Start: 160776 End: 160791 
+
+Gene 1119: Start: 160923 End: 160962 
+
+Gene 1120: Start: 161016 End: 161043 
+
+Gene 1121: Start: 161132 End: 161243 
+
+Gene 1122: Start: 161247 End: 161295 
+
+Gene 1123: Start: 161328 End: 161379 
+
+Gene 1124: Start: 161412 End: 161415 
+
+Gene 1125: Start: 161442 End: 161448 
+
+Gene 1126: Start: 161459 End: 161489 
+
+Gene 1127: Start: 161504 End: 161708 
+
+Gene 1128: Start: 161747 End: 161750 
+
+Gene 1129: Start: 161757 End: 161778 
+
+Gene 1130: Start: 161784 End: 161790 
+
+Gene 1131: Start: 161855 End: 161864 
+
+Gene 1132: Start: 161924 End: 162023 
+
+Gene 1133: Start: 162105 End: 162150 
+
+Gene 1134: Start: 162158 End: 162173 
+
+Gene 1135: Start: 162272 End: 162320 
+
+Gene 1136: Start: 162429 End: 162510 
+
+Gene 1137: Start: 162594 End: 162699 
+
+Gene 1138: Start: 162810 End: 162996 
+
+Gene 1139: Start: 163133 End: 163154 
+
+Gene 1140: Start: 163203 End: 163266 
+
+Gene 1141: Start: 163494 End: 163500 
+
+Gene 1142: Start: 163512 End: 163605 
+
+Gene 1143: Start: 163745 End: 163802 
+
+Gene 1144: Start: 164130 End: 164133 
+
+Gene 1145: Start: 164138 End: 164156 
+
+Gene 1146: Start: 164223 End: 164232 
+
+Gene 1147: Start: 164235 End: 164262 
+
+Gene 1148: Start: 164331 End: 164346 
+
+Gene 1149: Start: 164585 End: 164633 
+
+Gene 1150: Start: 164679 End: 164709 
+
+Gene 1151: Start: 164838 End: 165075 
+
+Gene 1152: Start: 165164 End: 165200 
+
+Gene 1153: Start: 165236 End: 165605 
+
+Gene 1154: Start: 165787 End: 165814 
+
+Gene 1155: Start: 165837 End: 165852 
+
+Gene 1156: Start: 165932 End: 166112 
+
+Gene 1157: Start: 166261 End: 166306 
+
+Gene 1158: Start: 166547 End: 166592 
+
+Gene 1159: Start: 166681 End: 166708 
+
+Gene 1160: Start: 166763 End: 166787 
+
+Gene 1161: Start: 166963 End: 166987 
+
+Gene 1162: Start: 167047 End: 167080 
+
+Gene 1163: Start: 167136 End: 167202 
+
+Gene 1164: Start: 167374 End: 167395 
+
+Gene 1165: Start: 167490 End: 167514 
+
+Gene 1166: Start: 167575 End: 167632 
+
+Gene 1167: Start: 167646 End: 167661 
+
+Gene 1168: Start: 167666 End: 167849 
+
+Gene 1169: Start: 167921 End: 167927 
+
+Gene 1170: Start: 168040 End: 168058 
+
+Gene 1171: Start: 168111 End: 168129 
+
+Gene 1172: Start: 168164 End: 168236 
+
+Gene 1173: Start: 168268 End: 168295 
+
+Gene 1174: Start: 168376 End: 168385 
+
+Gene 1175: Start: 168394 End: 168613 
+
+Gene 1176: Start: 168639 End: 168675 
+
+Gene 1177: Start: 168718 End: 168751 
+
+Gene 1178: Start: 168764 End: 168785 
+
+Gene 1179: Start: 168809 End: 168839 
+
+Gene 1180: Start: 168861 End: 168879 
+
+Gene 1181: Start: 168933 End: 168975 
+
+Gene 1182: Start: 169027 End: 169051 
+
+Gene 1183: Start: 169109 End: 169172 
+
+Gene 1184: Start: 169246 End: 169282 
+
+Gene 1185: Start: 169303 End: 169336 
+
+Gene 1186: Start: 169368 End: 169641 
+
+Gene 1187: Start: 169702 End: 169816 
+
+Gene 1188: Start: 169822 End: 169876 
+
+Gene 1189: Start: 169904 End: 170246 
+
+Gene 1190: Start: 170252 End: 170273 
+
+Gene 1191: Start: 170288 End: 170336 
+
+Gene 1192: Start: 170492 End: 170522 
+
+Gene 1193: Start: 170564 End: 170789 
+
+Gene 1194: Start: 170802 End: 170823 
+
+Gene 1195: Start: 170873 End: 170900 
+
+Gene 1196: Start: 170903 End: 170966 
+
+Gene 1197: Start: 170975 End: 170993 
+
+Gene 1198: Start: 171075 End: 171132 
+
+Gene 1199: Start: 171229 End: 171250 
+
+Gene 1200: Start: 171346 End: 171592 
+
+Gene 1201: Start: 171632 End: 171635 
+
+Gene 1202: Start: 171671 End: 171746 
+
+Gene 1203: Start: 171825 End: 171876 
+
+Gene 1204: Start: 172000 End: 172027 
+
+Gene 1205: Start: 172057 End: 172075 
+
+Gene 1206: Start: 172139 End: 172445 
+
+Gene 1207: Start: 172453 End: 172498 
+
+Gene 1208: Start: 172514 End: 172610 
+
+Gene 1209: Start: 172682 End: 172700 
+
+Gene 1210: Start: 172795 End: 172888 
+
+Gene 1211: Start: 173012 End: 173033 
+
+Gene 1212: Start: 173055 End: 173145 
+
+Gene 1213: Start: 173155 End: 173200 
+
+Gene 1214: Start: 173224 End: 173362 
+
+Gene 1215: Start: 173384 End: 173417 
+
+Gene 1216: Start: 173429 End: 173483 
+
+Gene 1217: Start: 173647 End: 173761 
+
+Gene 1218: Start: 173852 End: 173921 
+
+Gene 1219: Start: 173960 End: 173993 
+
+Gene 1220: Start: 174020 End: 174140 
+
+Gene 1221: Start: 174345 End: 174393 
+
+Gene 1222: Start: 174500 End: 174566 
+
+Gene 1223: Start: 174575 End: 174695 
+
+Gene 1224: Start: 174747 End: 174789 
+
+Gene 1225: Start: 174832 End: 174916 
+
+Gene 1226: Start: 174977 End: 175037 
+
+Gene 1227: Start: 175183 End: 175186 
+
+Gene 1228: Start: 175339 End: 175390 
+
+Gene 1229: Start: 175460 End: 175535 
+
+Gene 1230: Start: 175546 End: 175666 
+
+Gene 1231: Start: 175694 End: 175712 
+
+Gene 1232: Start: 175894 End: 176092 
+
+Gene 1233: Start: 176173 End: 176176 
+
+Gene 1234: Start: 176262 End: 176415 
+
+Gene 1235: Start: 176495 End: 176573 
+
+Gene 1236: Start: 176593 End: 176623 
+
+Gene 1237: Start: 176647 End: 176728 
+
+Gene 1238: Start: 176762 End: 176906 
+
+Gene 1239: Start: 176920 End: 176947 
+
+Gene 1240: Start: 177002 End: 177008 
+
+Gene 1241: Start: 177011 End: 177095 
+
+Gene 1242: Start: 177332 End: 177425 
+
+Gene 1243: Start: 177461 End: 177473 
+
+Gene 1244: Start: 177508 End: 177601 
+
+Gene 1245: Start: 177742 End: 177808 
+
+Gene 1246: Start: 178008 End: 178191 
+
+Gene 1247: Start: 178200 End: 178251 
+
+Gene 1248: Start: 178254 End: 178317 
+
+Gene 1249: Start: 178452 End: 178479 
+
+Gene 1250: Start: 178570 End: 178621 
+
+Gene 1251: Start: 178651 End: 178654 
+
+Gene 1252: Start: 178680 End: 178854 
+
+Gene 1253: Start: 178925 End: 179027 
+
+Gene 1254: Start: 179065 End: 179116 
+
+Gene 1255: Start: 179164 End: 179308 
+
+Gene 1256: Start: 179317 End: 179464 
+
+Gene 1257: Start: 179503 End: 179515 
+
+Gene 1258: Start: 179545 End: 179635 
+
+Gene 1259: Start: 179677 End: 179968 
+
+Gene 1260: Start: 180034 End: 180040 
+
+Gene 1261: Start: 180121 End: 180148 
+
+Gene 1262: Start: 180198 End: 180282 
+
+Gene 1263: Start: 180315 End: 180366 
+
+Gene 1264: Start: 180458 End: 180473 
+
+Gene 1265: Start: 180590 End: 180701 
+
+Gene 1266: Start: 180889 End: 180904 
+
+Gene 1267: Start: 180940 End: 180949 
+
+Gene 1268: Start: 180955 End: 181024 
+
+Gene 1269: Start: 181096 End: 181102 
+
+Gene 1270: Start: 181147 End: 181156 
+
+Gene 1271: Start: 181218 End: 181245 
+
+Gene 1272: Start: 181438 End: 181462 
+
+Gene 1273: Start: 181504 End: 181516 
+
+Gene 1274: Start: 181618 End: 181693 
+
+Gene 1275: Start: 181777 End: 181933 
+
+Gene 1276: Start: 181974 End: 181986 
+
+Gene 1277: Start: 182010 End: 182046 
+
+Gene 1278: Start: 182059 End: 182119 
+
+Gene 1279: Start: 182147 End: 182249 
+
+Gene 1280: Start: 182282 End: 182411 
+
+Gene 1281: Start: 182443 End: 182554 
+
+Gene 1282: Start: 182671 End: 182740 
+
+Gene 1283: Start: 182888 End: 182951 
+
+Gene 1284: Start: 183014 End: 183041 
+
+Gene 1285: Start: 183073 End: 183109 
+
+Gene 1286: Start: 183128 End: 183155 
+
+Gene 1287: Start: 183345 End: 183375 
+
+Gene 1288: Start: 183387 End: 183408 
+
+Gene 1289: Start: 183467 End: 183509 
+
+Gene 1290: Start: 183548 End: 183899 
+
+Gene 1291: Start: 183958 End: 184114 
+
+Gene 1292: Start: 184118 End: 184133 
+
+Gene 1293: Start: 184167 End: 184173 
+
+Gene 1294: Start: 184430 End: 184472 
+
+Gene 1295: Start: 184509 End: 184542 
+
+Gene 1296: Start: 184587 End: 184764 
+
+Gene 1297: Start: 184777 End: 184795 
+
+Gene 1298: Start: 185006 End: 185105 
+
+Gene 1299: Start: 185215 End: 185302 
+
+Gene 1300: Start: 185327 End: 185375 
+
+Gene 1301: Start: 185419 End: 185464 
+
+Gene 1302: Start: 185539 End: 185545 
+
+Gene 1303: Start: 185983 End: 186097 
+
+Gene 1304: Start: 186135 End: 186150 
+
+Gene 1305: Start: 186171 End: 186198 
+
+Gene 1306: Start: 186271 End: 186286 
+
+Gene 1307: Start: 186311 End: 186353 
+
+Gene 1308: Start: 186361 End: 186541 
+
+Gene 1309: Start: 186563 End: 186572 
+
+Gene 1310: Start: 186919 End: 186961 
+
+Gene 1311: Start: 186969 End: 187029 
+
+Gene 1312: Start: 187036 End: 187048 
+
+Gene 1313: Start: 187121 End: 187124 
+
+Gene 1314: Start: 187170 End: 187293 
+
+Gene 1315: Start: 187315 End: 187321 
+
+Gene 1316: Start: 187377 End: 187452 
+
+Gene 1317: Start: 187463 End: 187640 
+
+Gene 1318: Start: 187691 End: 187733 
+
+Gene 1319: Start: 187841 End: 187844 
+
+Gene 1320: Start: 187935 End: 187953 
+
+Gene 1321: Start: 188049 End: 188058 
+
+Gene 1322: Start: 188263 End: 188317 
+
+Gene 1323: Start: 188342 End: 188417 
+
+Gene 1324: Start: 188522 End: 188564 
+
+Gene 1325: Start: 188589 End: 188703 
+
+Gene 1326: Start: 188731 End: 188743 
+
+Gene 1327: Start: 188828 End: 188834 
+
+Gene 1328: Start: 188939 End: 188972 
+
+Gene 1329: Start: 189057 End: 189084 
+
+Gene 1330: Start: 189093 End: 189207 
+
+Gene 1331: Start: 189649 End: 189712 
+
+Gene 1332: Start: 189755 End: 189818 
+
+Gene 1333: Start: 189914 End: 189968 
+
+Gene 1334: Start: 190004 End: 190025 
+
+Gene 1335: Start: 190047 End: 190137 
+
+Gene 1336: Start: 190250 End: 190331 
+
+Gene 1337: Start: 190489 End: 190507 
+
+Gene 1338: Start: 190527 End: 190587 
+
+Gene 1339: Start: 190650 End: 190656 
+
+Gene 1340: Start: 190730 End: 190736 
+
+Gene 1341: Start: 190751 End: 190775 
+
+Gene 1342: Start: 190819 End: 190885 
+
+Gene 1343: Start: 190957 End: 191059 
+
+Gene 1344: Start: 191130 End: 191157 
+
+Gene 1345: Start: 191173 End: 191194 
+
+Gene 1346: Start: 191213 End: 191294 
+
+Gene 1347: Start: 191332 End: 191338 
+
+Gene 1348: Start: 191397 End: 191421 
+
+Gene 1349: Start: 191530 End: 191548 
+
+Gene 1350: Start: 191799 End: 191832 
+
+Gene 1351: Start: 191913 End: 191928 
+
+Gene 1352: Start: 192024 End: 192048 
+
+Gene 1353: Start: 192077 End: 192209 
+
+Gene 1354: Start: 192261 End: 192393 
+
+Gene 1355: Start: 192430 End: 192511 
+
+Gene 1356: Start: 192614 End: 192749 
+
+Gene 1357: Start: 192773 End: 192818 
+
+Gene 1358: Start: 192851 End: 192866 
+
+Gene 1359: Start: 192916 End: 192958 
+
+Gene 1360: Start: 193048 End: 193066 
+
+Gene 1361: Start: 193081 End: 193129 
+
+Gene 1362: Start: 193141 End: 193216 
+
+Gene 1363: Start: 193284 End: 193377 
+
+Gene 1364: Start: 193475 End: 193637 
+
+Gene 1365: Start: 193700 End: 193754 
+
+Gene 1366: Start: 193877 End: 193901 
+
+Gene 1367: Start: 193939 End: 193963 
+
+Gene 1368: Start: 193989 End: 194025 
+
+Gene 1369: Start: 194073 End: 194187 
+
+Gene 1370: Start: 194237 End: 194324 
+
+Gene 1371: Start: 194370 End: 194388 
+
+Gene 1372: Start: 194409 End: 194418 
+
+Gene 1373: Start: 194452 End: 194464 
+
+Gene 1374: Start: 194468 End: 194543 
+
+Gene 1375: Start: 194561 End: 194684 
+
+Gene 1376: Start: 194729 End: 194762 
+
+Gene 1377: Start: 194843 End: 194852 
+
+Gene 1378: Start: 194862 End: 195063 
+
+Gene 1379: Start: 195089 End: 195164 
+
+Gene 1380: Start: 195167 End: 195245 
+
+Gene 1381: Start: 195284 End: 195293 
+
+Gene 1382: Start: 195405 End: 195429 
+
+Gene 1383: Start: 195458 End: 195503 
+
+Gene 1384: Start: 195620 End: 195665 
+
+Gene 1385: Start: 195699 End: 195726 
+
+Gene 1386: Start: 195732 End: 195753 
+
+Gene 1387: Start: 195761 End: 195818 
+
+Gene 1388: Start: 195971 End: 196385 
+
+Gene 1389: Start: 196405 End: 196456 
+
+Gene 1390: Start: 196468 End: 196525 
+
+Gene 1391: Start: 196568 End: 196577 
+
+Gene 1392: Start: 196628 End: 196772 
+
+Gene 1393: Start: 196800 End: 196818 
+
+Gene 1394: Start: 196826 End: 197003 
+
+Gene 1395: Start: 197071 End: 197119 
+
+Gene 1396: Start: 197148 End: 197199 
+
+Gene 1397: Start: 197404 End: 197464 
+
+Gene 1398: Start: 197488 End: 197530 
+
+Gene 1399: Start: 197576 End: 197648 
+
+Gene 1400: Start: 197799 End: 197844 
+
+Gene 1401: Start: 197893 End: 197902 
+
+Gene 1402: Start: 197955 End: 197994 
+
+Gene 1403: Start: 198110 End: 198176 
+
+Gene 1404: Start: 198235 End: 198391 
+
+Gene 1405: Start: 198407 End: 198443 
+
+Gene 1406: Start: 198525 End: 198615 
+
+Gene 1407: Start: 198719 End: 198809 
+
+Gene 1408: Start: 198817 End: 198835 
+
+Gene 1409: Start: 198947 End: 198950 
+
+Gene 1410: Start: 198986 End: 199064 
+
+Gene 1411: Start: 199095 End: 199182 
+
+Gene 1412: Start: 199296 End: 199512 
+
+Gene 1413: Start: 199590 End: 199752 
+
+Gene 1414: Start: 199856 End: 199895 
+
+Gene 1415: Start: 199915 End: 200008 
+
+Gene 1416: Start: 200049 End: 200082 
+
+Gene 1417: Start: 200089 End: 200251 
+
+Gene 1418: Start: 200321 End: 200339 
+
+Gene 1419: Start: 200371 End: 200407 
+
+Gene 1420: Start: 200457 End: 200490 
+
+Gene 1421: Start: 200698 End: 200815 
+
+Gene 1422: Start: 200899 End: 200926 
+
+Gene 1423: Start: 201058 End: 201100 
+
+Gene 1424: Start: 201121 End: 201130 
+
+Gene 1425: Start: 201154 End: 201235 
+
+Gene 1426: Start: 201296 End: 201476 
+
+Gene 1427: Start: 201571 End: 201736 
+
+Gene 1428: Start: 201812 End: 201902 
+
+Gene 1429: Start: 201926 End: 201995 
+
+Gene 1430: Start: 202071 End: 202095 
+
+Gene 1431: Start: 202175 End: 202223 
+
+Gene 1432: Start: 202228 End: 202381 
+
+Gene 1433: Start: 202433 End: 202541 
+
+Gene 1434: Start: 202582 End: 202615 
+
+Gene 1435: Start: 202624 End: 202678 
+
+Gene 1436: Start: 202779 End: 202836 
+
+Gene 1437: Start: 202927 End: 202939 
+
+Gene 1438: Start: 202972 End: 203017 
+
+Gene 1439: Start: 203066 End: 203072 
+
+Gene 1440: Start: 203084 End: 203153 
+
+Gene 1441: Start: 203270 End: 203444 
+
+Gene 1442: Start: 203683 End: 203806 
+
+Gene 1443: Start: 203812 End: 203839 
+
+Gene 1444: Start: 203875 End: 203905 
+
+Gene 1445: Start: 204008 End: 204050 
+
+Gene 1446: Start: 204167 End: 204272 
+
+Gene 1447: Start: 204307 End: 204403 
+
+Gene 1448: Start: 204458 End: 204593 
+
+Gene 1449: Start: 204694 End: 204784 
+
+Gene 1450: Start: 204871 End: 204973 
+
+Gene 1451: Start: 205030 End: 205114 
+
+Gene 1452: Start: 205287 End: 205338 
+
+Gene 1453: Start: 205405 End: 205429 
+
+Gene 1454: Start: 205544 End: 205547 
+
+Gene 1455: Start: 205708 End: 205723 
+
+Gene 1456: Start: 205772 End: 205823 
+
+Gene 1457: Start: 205970 End: 205994 
+
+Gene 1458: Start: 206137 End: 206140 
+
+Gene 1459: Start: 206145 End: 206175 
+
+Gene 1460: Start: 206246 End: 206285 
+
+Gene 1461: Start: 206362 End: 206386 
+
+Gene 1462: Start: 206395 End: 206422 
+
+Gene 1463: Start: 206542 End: 206674 
+
+Gene 1464: Start: 206750 End: 206804 
+
+Gene 1465: Start: 206897 End: 206957 
+
+Gene 1466: Start: 206966 End: 207110 
+
+Gene 1467: Start: 207113 End: 207119 
+
+Gene 1468: Start: 207428 End: 207500 
+
+Gene 1469: Start: 207524 End: 207551 
+
+Gene 1470: Start: 207683 End: 207719 
+
+Gene 1471: Start: 207728 End: 207842 
+
+Gene 1472: Start: 207854 End: 207878 
+
+Gene 1473: Start: 207881 End: 207908 
+
+Gene 1474: Start: 208114 End: 208165 
+
+Gene 1475: Start: 208229 End: 208295 
+
+Gene 1476: Start: 208482 End: 208572 
+
+Gene 1477: Start: 208657 End: 208762 
+
+Gene 1478: Start: 208768 End: 208783 
+
+Gene 1479: Start: 208935 End: 208977 
+
+Gene 1480: Start: 208982 End: 209006 
+
+Gene 1481: Start: 209025 End: 209079 
+
+Gene 1482: Start: 209171 End: 209198 
+
+Gene 1483: Start: 209201 End: 209243 
+
+Gene 1484: Start: 209286 End: 209328 
+
+Gene 1485: Start: 209363 End: 209411 
+
+Gene 1486: Start: 209416 End: 209476 
+
+Gene 1487: Start: 209522 End: 209651 
+
+Gene 1488: Start: 209760 End: 209814 
+
+Gene 1489: Start: 209861 End: 209978 
+
+Gene 1490: Start: 210072 End: 210090 
+
+Gene 1491: Start: 210113 End: 210131 
+
+Gene 1492: Start: 210139 End: 210241 
+
+Gene 1493: Start: 210280 End: 210421 
+
+Gene 1494: Start: 210439 End: 210460 
+
+Gene 1495: Start: 210704 End: 210764 
+
+Gene 1496: Start: 210890 End: 210893 
+
+Gene 1497: Start: 210918 End: 210954 
+
+Gene 1498: Start: 210957 End: 210963 
+
+Gene 1499: Start: 210974 End: 211154 
+
+Gene 1500: Start: 211163 End: 211181 
+
+Gene 1501: Start: 211323 End: 211554 
+
+Gene 1502: Start: 211675 End: 211702 
+
+Gene 1503: Start: 211711 End: 211741 
+
+Gene 1504: Start: 211951 End: 212290 
+
+Gene 1505: Start: 212335 End: 212518 
+
+Gene 1506: Start: 212527 End: 212530 
+
+Gene 1507: Start: 212602 End: 212638 
+
+Gene 1508: Start: 212770 End: 212776 
+
+Gene 1509: Start: 212908 End: 212932 
+
+Gene 1510: Start: 212957 End: 212981 
+
+Gene 1511: Start: 213093 End: 213132 
+
+Gene 1512: Start: 213237 End: 213288 
+
+Gene 1513: Start: 213334 End: 213385 
+
+Gene 1514: Start: 213420 End: 213465 
+
+Gene 1515: Start: 213623 End: 213653 
+
+Gene 1516: Start: 213697 End: 213793 
+
+Gene 1517: Start: 213828 End: 214089 
+
+Gene 1518: Start: 214135 End: 214231 
+
+Gene 1519: Start: 214262 End: 214265 
+
+Gene 1520: Start: 214331 End: 214427 
+
+Gene 1521: Start: 214512 End: 214524 
+
+Gene 1522: Start: 214529 End: 214553 
+
+Gene 1523: Start: 214710 End: 214803 
+
+Gene 1524: Start: 214869 End: 215013 
+
+Gene 1525: Start: 215080 End: 215083 
+
+Gene 1526: Start: 215214 End: 215223 
+
+Gene 1527: Start: 215257 End: 215272 
+
+Gene 1528: Start: 215347 End: 215491 
+
+Gene 1529: Start: 215520 End: 215616 
+
+Gene 1530: Start: 215652 End: 215664 
+
+Gene 1531: Start: 215796 End: 215814 
+
+Gene 1532: Start: 216174 End: 216324 
+
+Gene 1533: Start: 216428 End: 216455 
+
+Gene 1534: Start: 216525 End: 216534 
+
+Gene 1535: Start: 216572 End: 216578 
+
+Gene 1536: Start: 216632 End: 216809 
+
+Gene 1537: Start: 216866 End: 216887 
+
+Gene 1538: Start: 216917 End: 216944 
+
+Gene 1539: Start: 217155 End: 217263 
+
+Gene 1540: Start: 217346 End: 217385 
+
+Gene 1541: Start: 217433 End: 217505 
+
+Gene 1542: Start: 217524 End: 217569 
+
+Gene 1543: Start: 217605 End: 217656 
+
+Gene 1544: Start: 217743 End: 217842 
+
+Gene 1545: Start: 217938 End: 217986 
+
+Gene 1546: Start: 218262 End: 218478 
+
+Gene 1547: Start: 218519 End: 218576 
+
+Gene 1548: Start: 218697 End: 218706 
+
+Gene 1549: Start: 218747 End: 218750 
+
+Gene 1550: Start: 218798 End: 218957 
+
+Gene 1551: Start: 218982 End: 219090 
+
+Gene 1552: Start: 219170 End: 219233 
+
+Gene 1553: Start: 219252 End: 219411 
+
+Gene 1554: Start: 219494 End: 219590 
+
+Gene 1555: Start: 219824 End: 220091 
+
+Gene 1556: Start: 220119 End: 220449 
+
+Gene 1557: Start: 220550 End: 220568 
+
+Gene 1558: Start: 220640 End: 220667 
+
+Gene 1559: Start: 220716 End: 220725 
+
+Gene 1560: Start: 220818 End: 220839 
+
+Gene 1561: Start: 220968 End: 221049 
+
+Gene 1562: Start: 221151 End: 221199 
+
+Gene 1563: Start: 221384 End: 221444 
+
+Gene 1564: Start: 221457 End: 221493 
+
+Gene 1565: Start: 221577 End: 221580 
+
+Gene 1566: Start: 221741 End: 221768 
+
+Gene 1567: Start: 221834 End: 221849 
+
+Gene 1568: Start: 221933 End: 222287 
+
+Gene 1569: Start: 222378 End: 222390 
+
+Gene 1570: Start: 222477 End: 222495 
+
+Gene 1571: Start: 222639 End: 222672 
+
+Gene 1572: Start: 222728 End: 222902 
+
+Gene 1573: Start: 223002 End: 223014 
+
+Gene 1574: Start: 223064 End: 223094 
+
+Gene 1575: Start: 223121 End: 223181 
+
+Gene 1576: Start: 223688 End: 223718 
+
+Gene 1577: Start: 223799 End: 223874 
+
+Gene 1578: Start: 224366 End: 224369 
+
+Gene 1579: Start: 224490 End: 224493 
+
+Gene 1580: Start: 224802 End: 224937 
+
+Gene 1581: Start: 224951 End: 225014 
+
+Gene 1582: Start: 225162 End: 225270 
+
+Gene 1583: Start: 225287 End: 225299 
+
+Gene 1584: Start: 225347 End: 225443 
+
+Gene 1585: Start: 225470 End: 225485 
+
+Gene 1586: Start: 225602 End: 225728 
+
+Gene 1587: Start: 225753 End: 225771 
+
+Gene 1588: Start: 225798 End: 225939 
+
+Gene 1589: Start: 226155 End: 226212 
+
+Gene 1590: Start: 226376 End: 226445 
+
+Gene 1591: Start: 226509 End: 226548 
+
+Gene 1592: Start: 226563 End: 226617 
+
+Gene 1593: Start: 226638 End: 226647 
+
+Gene 1594: Start: 226671 End: 226725 
+
+Gene 1595: Start: 227055 End: 227079 
+
+Gene 1596: Start: 227192 End: 227237 
+
+Gene 1597: Start: 227241 End: 227412 
+
+Gene 1598: Start: 227489 End: 227495 
+
+Gene 1599: Start: 227588 End: 227600 
+
+Gene 1600: Start: 227735 End: 227756 
+
+Gene 1601: Start: 227793 End: 227856 
+
+Gene 1602: Start: 227990 End: 228083 
+
+Gene 1603: Start: 228240 End: 228243 
+
+Gene 1604: Start: 228401 End: 228440 
+
+Gene 1605: Start: 228527 End: 228809 
+
+Gene 1606: Start: 229025 End: 229034 
+
+Gene 1607: Start: 229095 End: 229104 
+
+Gene 1608: Start: 229265 End: 229274 
+
+Gene 1609: Start: 229355 End: 229547 
+
+Gene 1610: Start: 229686 End: 229689 
+
+Gene 1611: Start: 229734 End: 229803 
+
+Gene 1612: Start: 229845 End: 229851 
+
+Gene 1613: Start: 229914 End: 230043 
+
+Gene 1614: Start: 230130 End: 230178 
+
+Gene 1615: Start: 230487 End: 230502 
+
+Gene 1616: Start: 230616 End: 230625 
+
+Gene 1617: Start: 230735 End: 230900 
+
+Gene 1618: Start: 230987 End: 231062 
+
+Gene 1619: Start: 231125 End: 231209 
+
+Gene 1620: Start: 231626 End: 231749 
+
+Gene 1621: Start: 231777 End: 231831 
+
+Gene 1622: Start: 231903 End: 232002 
+
+Gene 1623: Start: 232256 End: 232331 
+
+Gene 1624: Start: 232344 End: 232347 
+
+Gene 1625: Start: 232442 End: 232511 
+
+Gene 1626: Start: 232608 End: 232632 
+
+Gene 1627: Start: 232710 End: 232773 
+
+Gene 1628: Start: 232854 End: 232857 
+
+Gene 1629: Start: 233043 End: 233091 
+
+Gene 1630: Start: 233135 End: 233138 
+
+Gene 1631: Start: 233333 End: 233438 
+
+Gene 1632: Start: 233489 End: 233495 
+
+Gene 1633: Start: 233624 End: 233660 
+
+Gene 1634: Start: 233948 End: 233963 
+
+Gene 1635: Start: 234092 End: 234098 
+
+Gene 1636: Start: 234117 End: 234192 
+
+Gene 1637: Start: 234204 End: 234246 
+
+Gene 1638: Start: 234249 End: 234285 
+
+Gene 1639: Start: 234290 End: 234317 
+
+Gene 1640: Start: 234396 End: 234435 
+
+Gene 1641: Start: 234708 End: 234777 
+
+Gene 1642: Start: 234825 End: 234900 
+
+Gene 1643: Start: 235103 End: 235133 
+
+Gene 1644: Start: 235272 End: 235374 
+
+Gene 1645: Start: 235400 End: 235535 
+
+Gene 1646: Start: 235599 End: 235602 
+
+Gene 1647: Start: 235614 End: 235770 
+
+Gene 1648: Start: 236274 End: 236316 
+
+Gene 1649: Start: 236378 End: 236477 
+
+Gene 1650: Start: 236577 End: 236589 
+
+Gene 1651: Start: 236660 End: 236699 
+
+Gene 1652: Start: 236903 End: 236954 
+
+Gene 1653: Start: 237014 End: 237098 
+
+Gene 1654: Start: 237326 End: 237389 
+
+Gene 1655: Start: 237542 End: 237596 
+
+Gene 1656: Start: 237647 End: 237770 
+
+Gene 1657: Start: 237797 End: 237839 
+
+Gene 1658: Start: 238116 End: 238155 
+
+Gene 1659: Start: 238229 End: 238238 
+
+Gene 1660: Start: 238263 End: 238278 
+
+Gene 1661: Start: 238457 End: 238478 
+
+Gene 1662: Start: 238514 End: 238565 
+
+Gene 1663: Start: 238590 End: 238632 
+
+Gene 1664: Start: 238803 End: 238815 
+
+Gene 1665: Start: 238830 End: 238908 
+
+Gene 1666: Start: 238940 End: 238958 
+
+Gene 1667: Start: 239324 End: 239336 
+
+Gene 1668: Start: 239342 End: 239438 
+
+Gene 1669: Start: 239564 End: 239618 
+
+Gene 1670: Start: 239651 End: 239663 
+
+Gene 1671: Start: 239676 End: 239766 
+
+Gene 1672: Start: 239871 End: 239877 
+
+Gene 1673: Start: 239894 End: 239933 
+
+Gene 1674: Start: 240026 End: 240062 
+
+Gene 1675: Start: 240080 End: 240092 
+
+Gene 1676: Start: 240275 End: 240317 
+
+Gene 1677: Start: 240338 End: 240491 
+
+Gene 1678: Start: 240519 End: 240534 
+
+Gene 1679: Start: 240666 End: 240684 
+
+Gene 1680: Start: 240735 End: 240774 
+
+Gene 1681: Start: 240809 End: 240854 
+
+Gene 1682: Start: 240872 End: 240905 
+
+Gene 1683: Start: 240920 End: 240941 
+
+Gene 1684: Start: 240968 End: 240971 
+
+Gene 1685: Start: 240992 End: 241202 
+
+Gene 1686: Start: 241323 End: 241410 
+
+Gene 1687: Start: 241415 End: 241502 
+
+Gene 1688: Start: 241536 End: 241551 
+
+Gene 1689: Start: 241593 End: 241626 
+
+Gene 1690: Start: 241665 End: 241722 
+
+Gene 1691: Start: 241850 End: 241877 
+
+Gene 1692: Start: 241895 End: 241958 
+
+Gene 1693: Start: 242070 End: 242118 
+
+Gene 1694: Start: 242178 End: 242247 
+
+Gene 1695: Start: 242385 End: 242412 
+
+Gene 1696: Start: 242625 End: 242652 
+
+Gene 1697: Start: 242655 End: 242829 
+
+Gene 1698: Start: 242991 End: 243048 
+
+Gene 1699: Start: 243059 End: 243101 
+
+Gene 1700: Start: 243123 End: 243150 
+
+Gene 1701: Start: 243299 End: 243437 
+
+Gene 1702: Start: 243452 End: 243461 
+
+Gene 1703: Start: 243489 End: 243507 
+
+Gene 1704: Start: 243524 End: 243707 
+
+Gene 1705: Start: 243741 End: 243753 
+
+Gene 1706: Start: 243818 End: 243830 
+
+Gene 1707: Start: 243911 End: 243986 
+
+Gene 1708: Start: 244020 End: 244044 
+
+Gene 1709: Start: 244067 End: 244211 
+
+Gene 1710: Start: 244253 End: 244355 
+
+Gene 1711: Start: 244508 End: 244550 
+
+Gene 1712: Start: 244611 End: 244674 
+
+Gene 1713: Start: 244697 End: 244703 
+
+Gene 1714: Start: 244898 End: 245039 
+
+Gene 1715: Start: 245213 End: 245288 
+
+Gene 1716: Start: 245397 End: 245430 
+
+Gene 1717: Start: 245595 End: 245646 
+
+Gene 1718: Start: 246072 End: 246213 
+
+Gene 1719: Start: 246222 End: 246270 
+
+Gene 1720: Start: 246432 End: 246576 
+
+Gene 1721: Start: 246678 End: 246906 
+
+Gene 1722: Start: 247035 End: 247041 
+
+Gene 1723: Start: 247076 End: 247136 
+
+Gene 1724: Start: 247298 End: 247301 
+
+Gene 1725: Start: 247380 End: 247512 
+
+Gene 1726: Start: 247554 End: 247575 
+
+Gene 1727: Start: 247586 End: 247619 
+
+Gene 1728: Start: 247812 End: 247890 
+
+Gene 1729: Start: 247967 End: 248009 
+
+Gene 1730: Start: 248082 End: 248091 
+
+Gene 1731: Start: 248142 End: 248157 
+
+Gene 1732: Start: 248339 End: 248357 
+
+Gene 1733: Start: 248672 End: 248720 
+
+Gene 1734: Start: 248757 End: 248898 
+
+Gene 1735: Start: 248949 End: 248997 
+
+Gene 1736: Start: 249132 End: 249174 
+
+Gene 1737: Start: 249186 End: 249222 
+
+Gene 1738: Start: 249275 End: 249332 
+
+Gene 1739: Start: 249474 End: 249513 
+
+Gene 1740: Start: 249822 End: 249864 
+
+Gene 1741: Start: 249879 End: 249909 
+
+Gene 1742: Start: 249944 End: 250055 
+
+Gene 1743: Start: 250058 End: 250169 
+
+Gene 1744: Start: 250565 End: 250688 
+
+Gene 1745: Start: 250763 End: 250835 
+
+Gene 1746: Start: 251046 End: 251205 
+
+Gene 1747: Start: 251246 End: 251252 
+
+Gene 1748: Start: 251262 End: 251289 
+
+Gene 1749: Start: 251556 End: 251640 
+
+Gene 1750: Start: 251993 End: 252008 
+
+Gene 1751: Start: 252017 End: 252032 
+
+Gene 1752: Start: 252047 End: 252125 
+
+Gene 1753: Start: 252267 End: 252357 
+
+Gene 1754: Start: 252360 End: 252369 
+
+Gene 1755: Start: 252465 End: 252603 
+
+Gene 1756: Start: 252638 End: 252866 
+
+Gene 1757: Start: 253083 End: 253113 
+
+Gene 1758: Start: 253205 End: 253313 
+
+Gene 1759: Start: 253353 End: 253374 
+
+Gene 1760: Start: 253622 End: 253745 
+
+Gene 1761: Start: 253949 End: 253997 
+
+Gene 1762: Start: 254112 End: 254151 
+
+Gene 1763: Start: 254277 End: 254307 
+
+Gene 1764: Start: 254499 End: 254718 
+
+Gene 1765: Start: 254739 End: 254745 
+
+Gene 1766: Start: 254775 End: 254850 
+
+Gene 1767: Start: 255033 End: 255090 
+
+Gene 1768: Start: 255098 End: 255116 
+
+Gene 1769: Start: 255188 End: 255458 
+
+Gene 1770: Start: 255492 End: 255555 
+
+Gene 1771: Start: 255785 End: 255932 
+
+Gene 1772: Start: 256004 End: 256196 
+
+Gene 1773: Start: 256308 End: 256368 
+
+Gene 1774: Start: 256508 End: 256541 
+
+Gene 1775: Start: 256673 End: 256676 
+
+Gene 1776: Start: 256679 End: 256682 
+
+Gene 1777: Start: 256790 End: 256841 
+
+Gene 1778: Start: 256991 End: 257012 
+
+Gene 1779: Start: 257028 End: 257034 
+
+Gene 1780: Start: 257058 End: 257070 
+
+Gene 1781: Start: 257087 End: 257123 
+
+Gene 1782: Start: 257141 End: 257150 
+
+Gene 1783: Start: 257165 End: 257177 
+
+Gene 1784: Start: 257243 End: 257276 
+
+Gene 1785: Start: 257336 End: 257411 
+
+Gene 1786: Start: 257469 End: 257538 
+
+Gene 1787: Start: 257718 End: 257862 
+
+Gene 1788: Start: 257868 End: 257964 
+
+Gene 1789: Start: 257978 End: 258026 
+
+Gene 1790: Start: 258192 End: 258423 
+
+Gene 1791: Start: 258491 End: 258497 
+
+Gene 1792: Start: 258501 End: 258609 
+
+Gene 1793: Start: 258657 End: 258678 
+
+Gene 1794: Start: 258764 End: 258800 
+
+Gene 1795: Start: 258860 End: 258923 
+
+Gene 1796: Start: 258969 End: 259122 
+
+Gene 1797: Start: 259227 End: 259434 
+
+Gene 1798: Start: 259542 End: 259704 
+
+Gene 1799: Start: 259760 End: 259802 
+
+Gene 1800: Start: 259863 End: 259989 
+
+Gene 1801: Start: 260403 End: 260430 
+
+Gene 1802: Start: 260588 End: 260654 
+
+Gene 1803: Start: 260744 End: 260804 
+
+Gene 1804: Start: 260849 End: 260930 
+
+Gene 1805: Start: 260964 End: 261150 
+
+Gene 1806: Start: 261170 End: 261188 
+
+Gene 1807: Start: 261237 End: 261306 
+
+Gene 1808: Start: 261392 End: 261428 
+
+Gene 1809: Start: 261468 End: 261519 
+
+Gene 1810: Start: 261729 End: 261837 
+
+Gene 1811: Start: 261918 End: 261987 
+
+Gene 1812: Start: 262011 End: 262023 
+
+Gene 1813: Start: 262055 End: 262112 
+
+Gene 1814: Start: 262175 End: 262226 
+
+Gene 1815: Start: 262239 End: 262251 
+
+Gene 1816: Start: 262583 End: 262586 
+
+Gene 1817: Start: 262644 End: 262899 
+
+Gene 1818: Start: 263000 End: 263039 
+
+Gene 1819: Start: 263169 End: 263181 
+
+Gene 1820: Start: 263192 End: 263198 
+
+Gene 1821: Start: 263229 End: 263271 
+
+Gene 1822: Start: 263414 End: 263450 
+
+Gene 1823: Start: 263790 End: 263832 
+
+Gene 1824: Start: 263972 End: 263987 
+
+Gene 1825: Start: 264026 End: 264080 
+
+Gene 1826: Start: 264296 End: 264362 
+
+Gene 1827: Start: 264452 End: 264476 
+
+Gene 1828: Start: 264479 End: 264494 
+
+Gene 1829: Start: 264510 End: 264612 
+
+Gene 1830: Start: 264689 End: 264692 
+
+Gene 1831: Start: 265113 End: 265137 
+
+Gene 1832: Start: 265178 End: 265262 
+
+Gene 1833: Start: 265284 End: 265416 
+
+Gene 1834: Start: 265452 End: 265482 
+
+Gene 1835: Start: 265529 End: 265577 
+
+Gene 1836: Start: 265677 End: 265713 
+
+Gene 1837: Start: 265746 End: 265836 
+
+Gene 1838: Start: 265977 End: 265983 
+
+Gene 1839: Start: 266066 End: 266132 
+
+Gene 1840: Start: 266193 End: 266361 
+
+Gene 1841: Start: 266618 End: 266627 
+
+Gene 1842: Start: 266675 End: 266678 
+
+Gene 1843: Start: 266718 End: 266736 
+
+Gene 1844: Start: 266741 End: 266774 
+
+Gene 1845: Start: 266793 End: 266904 
+
+Gene 1846: Start: 266922 End: 266928 
+
+Gene 1847: Start: 266931 End: 266964 
+
+Gene 1848: Start: 266972 End: 267011 
+
+Gene 1849: Start: 267152 End: 267296 
+
+Gene 1850: Start: 267366 End: 267432 
+
+Gene 1851: Start: 267498 End: 267666 
+
+Gene 1852: Start: 267770 End: 267773 
+
+Gene 1853: Start: 268266 End: 268281 
+
+Gene 1854: Start: 268296 End: 268302 
+
+Gene 1855: Start: 268535 End: 268547 
+
+Gene 1856: Start: 268598 End: 268616 
+
+Gene 1857: Start: 268626 End: 268680 
+
+Gene 1858: Start: 268692 End: 268710 
+
+Gene 1859: Start: 268715 End: 268802 
+
+Gene 1860: Start: 268920 End: 268929 
+
+Gene 1861: Start: 268973 End: 269036 
+
+Gene 1862: Start: 269118 End: 269127 
+
+Gene 1863: Start: 269253 End: 269334 
+
+Gene 1864: Start: 269414 End: 269429 
+
+Gene 1865: Start: 269627 End: 269648 
+
+Gene 1866: Start: 269738 End: 269819 
+
+Gene 1867: Start: 270009 End: 270072 
+
+Gene 1868: Start: 270104 End: 270269 
+
+Gene 1869: Start: 270602 End: 270623 
+
+Gene 1870: Start: 270690 End: 270735 
+
+Gene 1871: Start: 270771 End: 270789 
+
+Gene 1872: Start: 270846 End: 270888 
+
+Gene 1873: Start: 270893 End: 270923 
+
+Gene 1874: Start: 271064 End: 271094 
+
+Gene 1875: Start: 271190 End: 271250 
+
+Gene 1876: Start: 271394 End: 271481 
+
+Gene 1877: Start: 271529 End: 271550 
+
+Gene 1878: Start: 271649 End: 271700 
+
+Gene 1879: Start: 271706 End: 271733 
+
+Gene 1880: Start: 271925 End: 271934 
+
+Gene 1881: Start: 271964 End: 272132 
+
+Gene 1882: Start: 272198 End: 272219 
+
+Gene 1883: Start: 272232 End: 272310 
+
+Gene 1884: Start: 272366 End: 272396 
+
+Gene 1885: Start: 272561 End: 272564 
+
+Gene 1886: Start: 272613 End: 272640 
+
+Gene 1887: Start: 272906 End: 272999 
+
+Gene 1888: Start: 273188 End: 273200 
+
+Gene 1889: Start: 273243 End: 273294 
+
+Gene 1890: Start: 273524 End: 273539 
+
+Gene 1891: Start: 273602 End: 273635 
+
+Gene 1892: Start: 274383 End: 274548 
+
+Gene 1893: Start: 274593 End: 274635 
+
+Gene 1894: Start: 275043 End: 275085 
+
+Gene 1895: Start: 275459 End: 275480 
+
+Gene 1896: Start: 275496 End: 275499 
+
+Gene 1897: Start: 275511 End: 275544 
+
+Gene 1898: Start: 275868 End: 275880 
+
+Gene 1899: Start: 275916 End: 275925 
+
+Gene 1900: Start: 275940 End: 276000 
+
+Gene 1901: Start: 276015 End: 276054 
+
+Gene 1902: Start: 276200 End: 276554 
+
+Gene 1903: Start: 276569 End: 276581 
+
+Gene 1904: Start: 276612 End: 276618 
+
+Gene 1905: Start: 276626 End: 276683 
+
+Gene 1906: Start: 276728 End: 276764 
+
+Gene 1907: Start: 277019 End: 277202 
+
+Gene 1908: Start: 277211 End: 277232 
+
+Gene 1909: Start: 277248 End: 277290 
+
+Gene 1910: Start: 277368 End: 277371 
+
+Gene 1911: Start: 277623 End: 277662 
+
+Gene 1912: Start: 277736 End: 277769 
+
+Gene 1913: Start: 277839 End: 277950 
+
+Gene 1914: Start: 278013 End: 278070 
+
+Gene 1915: Start: 278081 End: 278153 
+
+Gene 1916: Start: 278160 End: 278166 
+
+Gene 1917: Start: 278172 End: 278208 
+
+Gene 1918: Start: 278264 End: 278333 
+
+Gene 1919: Start: 278474 End: 278516 
+
+Gene 1920: Start: 278613 End: 278658 
+
+Gene 1921: Start: 278823 End: 278835 
+
+Gene 1922: Start: 278853 End: 279006 
+
+Gene 1923: Start: 279015 End: 279090 
+
+Gene 1924: Start: 279135 End: 279246 
+
+Gene 1925: Start: 279281 End: 279305 
+
+Gene 1926: Start: 279344 End: 279395 
+
+Gene 1927: Start: 279450 End: 279480 
+
+Gene 1928: Start: 279570 End: 279645 
+
+Gene 1929: Start: 279684 End: 279795 
+
+Gene 1930: Start: 279873 End: 280044 
+
+Gene 1931: Start: 280065 End: 280107 
+
+Gene 1932: Start: 280119 End: 280152 
+
+Gene 1933: Start: 280385 End: 280403 
+
+Gene 1934: Start: 280464 End: 280485 
+
+Gene 1935: Start: 280629 End: 280659 
+
+Gene 1936: Start: 280662 End: 280671 
+
+Gene 1937: Start: 280724 End: 280823 
+
+Gene 1938: Start: 280896 End: 280902 
+
+Gene 1939: Start: 280907 End: 281054 
+
+Gene 1940: Start: 281109 End: 281178 
+
+Gene 1941: Start: 281541 End: 281742 
+
+Gene 1942: Start: 281751 End: 281841 
+
+Gene 1943: Start: 282020 End: 282185 
+
+Gene 1944: Start: 282312 End: 282330 
+
+Gene 1945: Start: 282381 End: 282384 
+
+Gene 1946: Start: 282561 End: 282576 
+
+Gene 1947: Start: 282633 End: 282726 
+
+Gene 1948: Start: 282765 End: 282783 
+
+Gene 1949: Start: 282971 End: 282983 
+
+Gene 1950: Start: 283262 End: 283265 
+
+Gene 1951: Start: 283281 End: 283332 
+
+Gene 1952: Start: 283346 End: 283544 
+
+Gene 1953: Start: 283772 End: 283829 
+
+Gene 1954: Start: 283841 End: 283856 
+
+Gene 1955: Start: 283899 End: 283932 
+
+Gene 1956: Start: 284039 End: 284063 
+
+Gene 1957: Start: 284199 End: 284322 
+
+Gene 1958: Start: 284342 End: 284357 
+
+Gene 1959: Start: 284433 End: 284556 
+
+Gene 1960: Start: 284649 End: 284742 
+
+Gene 1961: Start: 285017 End: 285077 
+
+Gene 1962: Start: 285222 End: 285330 
+
+Gene 1963: Start: 285350 End: 285368 
+
+Gene 1964: Start: 285464 End: 285467 
+
+Gene 1965: Start: 285476 End: 285503 
+
+Gene 1966: Start: 285584 End: 285644 
+
+Gene 1967: Start: 285837 End: 285990 
+
+Gene 1968: Start: 286023 End: 286113 
+
+Gene 1969: Start: 286157 End: 286337 
+
+Gene 1970: Start: 286406 End: 286451 
+
+Gene 1971: Start: 286518 End: 286566 
+
+Gene 1972: Start: 286620 End: 286629 
+
+Gene 1973: Start: 286691 End: 286826 
+
+Gene 1974: Start: 286952 End: 286973 
+
+Gene 1975: Start: 287069 End: 287081 
+
+Gene 1976: Start: 287105 End: 287141 
+
+Gene 1977: Start: 287234 End: 287324 
+
+Gene 1978: Start: 287546 End: 287639 
+
+Gene 1979: Start: 287697 End: 287718 
+
+Gene 1980: Start: 287774 End: 287822 
+
+Gene 1981: Start: 288240 End: 288318 
+
+Gene 1982: Start: 288365 End: 288374 
+
+Gene 1983: Start: 288557 End: 288578 
+
+Gene 1984: Start: 288597 End: 288642 
+
+Gene 1985: Start: 288701 End: 288761 
+
+Gene 1986: Start: 288764 End: 288815 
+
+Gene 1987: Start: 288885 End: 288900 
+
+Gene 1988: Start: 289046 End: 289088 
+
+Gene 1989: Start: 289140 End: 289158 
+
+Gene 1990: Start: 289190 End: 289298 
+
+Gene 1991: Start: 289455 End: 289527 
+
+Gene 1992: Start: 289628 End: 289682 
+
+Gene 1993: Start: 289719 End: 289755 
+
+Gene 1994: Start: 289935 End: 289944 
+
+Gene 1995: Start: 290138 End: 290180 
+
+Gene 1996: Start: 290370 End: 290652 
+
+Gene 1997: Start: 290697 End: 290706 
+
+Gene 1998: Start: 290781 End: 290814 
+
+Gene 1999: Start: 290856 End: 290859 
+
+Gene 2000: Start: 290898 End: 290922 
+
+Gene 2001: Start: 291024 End: 291027 
+
+Gene 2002: Start: 291068 End: 291077 
+
+Gene 2003: Start: 291120 End: 291177 
+
+Gene 2004: Start: 291366 End: 291414 
+
+Gene 2005: Start: 291468 End: 291543 
+
+Gene 2006: Start: 291560 End: 291614 
+
+Gene 2007: Start: 291644 End: 291653 
+
+Gene 2008: Start: 291749 End: 291875 
+
+Gene 2009: Start: 291915 End: 291999 
+
+Gene 2010: Start: 292037 End: 292091 
+
+Gene 2011: Start: 292110 End: 292128 
+
+Gene 2012: Start: 292170 End: 292236 
+
+Gene 2013: Start: 292301 End: 292397 
+
+Gene 2014: Start: 292409 End: 292526 
+
+Gene 2015: Start: 292671 End: 292947 
+
+Gene 2016: Start: 293073 End: 293097 
+
+Gene 2017: Start: 293109 End: 293115 
+
+Gene 2018: Start: 293154 End: 293169 
+
+Gene 2019: Start: 293184 End: 293187 
+
+Gene 2020: Start: 293295 End: 293550 
+
+Gene 2021: Start: 293604 End: 293619 
+
+Gene 2022: Start: 293685 End: 293691 
+
+Gene 2023: Start: 293772 End: 293808 
+
+Gene 2024: Start: 293850 End: 293967 
+
+Gene 2025: Start: 293988 End: 294120 
+
+Gene 2026: Start: 294414 End: 294462 
+
+Gene 2027: Start: 294506 End: 294566 
+
+Gene 2028: Start: 294629 End: 294641 
+
+Gene 2029: Start: 294669 End: 294720 
+
+Gene 2030: Start: 294978 End: 295068 
+
+Gene 2031: Start: 295112 End: 295139 
+
+Gene 2032: Start: 295310 End: 295367 
+
+Gene 2033: Start: 295433 End: 295436 
+
+Gene 2034: Start: 295439 End: 295553 
+
+Gene 2035: Start: 295650 End: 295719 
+
+Gene 2036: Start: 295824 End: 295848 
+
+Gene 2037: Start: 295865 End: 295880 
+
+Gene 2038: Start: 295916 End: 295940 
+
+Gene 2039: Start: 295958 End: 295979 
+
+Gene 2040: Start: 296022 End: 296049 
+
+Gene 2041: Start: 296268 End: 296394 
+
+Gene 2042: Start: 296511 End: 296631 
+
+Gene 2043: Start: 296640 End: 296649 
+
+Gene 2044: Start: 296655 End: 296676 
+
+Gene 2045: Start: 296721 End: 296748 
+
+Gene 2046: Start: 296808 End: 296826 
+
+Gene 2047: Start: 296853 End: 297003 
+
+Gene 2048: Start: 297051 End: 297063 
+
+Gene 2049: Start: 297107 End: 297119 
+
+Gene 2050: Start: 297158 End: 297230 
+
+Gene 2051: Start: 297260 End: 297284 
+
+Gene 2052: Start: 297359 End: 297401 
+
+Gene 2053: Start: 297477 End: 297480 
+
+Gene 2054: Start: 297572 End: 297689 
+
+Gene 2055: Start: 297762 End: 297771 
+
+Gene 2056: Start: 298077 End: 298113 
+
+Gene 2057: Start: 298248 End: 298335 
+
+Gene 2058: Start: 298529 End: 298580 
+
+Gene 2059: Start: 298884 End: 299139 
+
+Gene 2060: Start: 299462 End: 299486 
+
+Gene 2061: Start: 299540 End: 299621 
+
+Gene 2062: Start: 299685 End: 299688 
+
+Gene 2063: Start: 299730 End: 299739 
+
+Gene 2064: Start: 299756 End: 299828 
+
+Gene 2065: Start: 300020 End: 300044 
+
+Gene 2066: Start: 300156 End: 300237 
+
+Gene 2067: Start: 300371 End: 300434 
+
+Gene 2068: Start: 300453 End: 300468 
+
+Gene 2069: Start: 300572 End: 300599 
+
+Gene 2070: Start: 300678 End: 300720 
+
+Gene 2071: Start: 300830 End: 300848 
+
+Gene 2072: Start: 300882 End: 300939 
+
+Gene 2073: Start: 300959 End: 300968 
+
+Gene 2074: Start: 300989 End: 300992 
+
+Gene 2075: Start: 301032 End: 301062 
+
+Gene 2076: Start: 301695 End: 301764 
+
+Gene 2077: Start: 301797 End: 301998 
+
+Gene 2078: Start: 302007 End: 302076 
+
+Gene 2079: Start: 302289 End: 302325 
+
+Gene 2080: Start: 302496 End: 302586 
+
+Gene 2081: Start: 302835 End: 302898 
+
+Gene 2082: Start: 303015 End: 303021 
+
+Gene 2083: Start: 303084 End: 303138 
+
+Gene 2084: Start: 303339 End: 303504 
+
+Gene 2085: Start: 303576 End: 303660 
+
+Gene 2086: Start: 303750 End: 303801 
+
+Gene 2087: Start: 303821 End: 303974 
+
+Gene 2088: Start: 303978 End: 304101 
+
+Gene 2089: Start: 304109 End: 304142 
+
+Gene 2090: Start: 304287 End: 304341 
+
+Gene 2091: Start: 304371 End: 304392 
+
+Gene 2092: Start: 304485 End: 304512 
+
+Gene 2093: Start: 304632 End: 304710 
+
+Gene 2094: Start: 304806 End: 304848 
+
+Gene 2095: Start: 304899 End: 304908 
+
+Gene 2096: Start: 304916 End: 304955 
+
+Gene 2097: Start: 305079 End: 305127 
+
+Gene 2098: Start: 305160 End: 305181 
+
+Gene 2099: Start: 305288 End: 305297 
+
+Gene 2100: Start: 305310 End: 305319 
+
+Gene 2101: Start: 305460 End: 305499 
+
+Gene 2102: Start: 305508 End: 305538 
+
+Gene 2103: Start: 305759 End: 305762 
+
+Gene 2104: Start: 305795 End: 305870 
+
+Gene 2105: Start: 306087 End: 306105 
+
+Gene 2106: Start: 306159 End: 306162 
+
+Gene 2107: Start: 306177 End: 306318 
+
+Gene 2108: Start: 306425 End: 306500 
+
+Gene 2109: Start: 306527 End: 306539 
+
+Gene 2110: Start: 306569 End: 306584 
+
+Gene 2111: Start: 306603 End: 306681 
+
+Gene 2112: Start: 306711 End: 306717 
+
+Gene 2113: Start: 306738 End: 306750 
+
+Gene 2114: Start: 306821 End: 306830 
+
+Gene 2115: Start: 306836 End: 306869 
+
+Gene 2116: Start: 306876 End: 306918 
+
+Gene 2117: Start: 306938 End: 307028 
+
+Gene 2118: Start: 307116 End: 307149 
+
+Gene 2119: Start: 307284 End: 307326 
+
+Gene 2120: Start: 307332 End: 307383 
+
+Gene 2121: Start: 307434 End: 307461 
+
+Gene 2122: Start: 307530 End: 307584 
+
+Gene 2123: Start: 307625 End: 307634 
+
+Gene 2124: Start: 307718 End: 307835 
+
+Gene 2125: Start: 307847 End: 307886 
+
+Gene 2126: Start: 308009 End: 308030 
+
+Gene 2127: Start: 308144 End: 308249 
+
+Gene 2128: Start: 308304 End: 308325 
+
+Gene 2129: Start: 308550 End: 308583 
+
+Gene 2130: Start: 308601 End: 308604 
+
+Gene 2131: Start: 308835 End: 308877 
+
+Gene 2132: Start: 308898 End: 308904 
+
+Gene 2133: Start: 308954 End: 309002 
+
+Gene 2134: Start: 309036 End: 309117 
+
+Gene 2135: Start: 309236 End: 309395 
+
+Gene 2136: Start: 309465 End: 309576 
+
+Gene 2137: Start: 309585 End: 309915 
+
+Gene 2138: Start: 309920 End: 309932 
+
+Gene 2139: Start: 310011 End: 310050 
+
+Gene 2140: Start: 310100 End: 310166 
+
+Gene 2141: Start: 310181 End: 310247 
+
+Gene 2142: Start: 310334 End: 310358 
+
+Gene 2143: Start: 310376 End: 310391 
+
+Gene 2144: Start: 310595 End: 310802 
+
+Gene 2145: Start: 311175 End: 311235 
+
+Gene 2146: Start: 311267 End: 311294 
+
+Gene 2147: Start: 311391 End: 311394 
+
+Gene 2148: Start: 311631 End: 311685 
+
+Gene 2149: Start: 311714 End: 311774 
+
+Gene 2150: Start: 311916 End: 311958 
+
+Gene 2151: Start: 312072 End: 312231 
+
+Gene 2152: Start: 312297 End: 312372 
+
+Gene 2153: Start: 312498 End: 312513 
+
+Gene 2154: Start: 312533 End: 312563 
+
+Gene 2155: Start: 312578 End: 312593 
+
+Gene 2156: Start: 312672 End: 312789 
+
+Gene 2157: Start: 312803 End: 312884 
+
+Gene 2158: Start: 312947 End: 312986 
+
+Gene 2159: Start: 313008 End: 313044 
+
+Gene 2160: Start: 313064 End: 313091 
+
+Gene 2161: Start: 313215 End: 313236 
+
+Gene 2162: Start: 313319 End: 313517 
+
+Gene 2163: Start: 313770 End: 313773 
+
+Gene 2164: Start: 313787 End: 313790 
+
+Gene 2165: Start: 313863 End: 314046 
+
+Gene 2166: Start: 314145 End: 314163 
+
+Gene 2167: Start: 314198 End: 314303 
+
+Gene 2168: Start: 314309 End: 314360 
+
+Gene 2169: Start: 314397 End: 314490 
+
+Gene 2170: Start: 314525 End: 314534 
+
+Gene 2171: Start: 314552 End: 314816 
+
+Gene 2172: Start: 314982 End: 314988 
+
+Gene 2173: Start: 315035 End: 315050 
+
+Gene 2174: Start: 315447 End: 315651 
+
+Gene 2175: Start: 315654 End: 315666 
+
+Gene 2176: Start: 315669 End: 315714 
+
+Gene 2177: Start: 315767 End: 315953 
+
+Gene 2178: Start: 316023 End: 316071 
+
+Gene 2179: Start: 316769 End: 316781 
+
+Gene 2180: Start: 316791 End: 316872 
+
+Gene 2181: Start: 316880 End: 316922 
+
+Gene 2182: Start: 316971 End: 316980 
+
+Gene 2183: Start: 317148 End: 317160 
+
+Gene 2184: Start: 317213 End: 317327 
+
+Gene 2185: Start: 317367 End: 317562 
+
+Gene 2186: Start: 317669 End: 317867 
+
+Gene 2187: Start: 317969 End: 318035 
+
+Gene 2188: Start: 318057 End: 318096 
+
+Gene 2189: Start: 318107 End: 318170 
+
+Gene 2190: Start: 318215 End: 318224 
+
+Gene 2191: Start: 318432 End: 318459 
+
+Gene 2192: Start: 318540 End: 318714 
+
+Gene 2193: Start: 318762 End: 318789 
+
+Gene 2194: Start: 318831 End: 318846 
+
+Gene 2195: Start: 318942 End: 319002 
+
+Gene 2196: Start: 319062 End: 319089 
+
+Gene 2197: Start: 319143 End: 319311 
+
+Gene 2198: Start: 319338 End: 319434 
+
+Gene 2199: Start: 319461 End: 319719 
+
+Gene 2200: Start: 319734 End: 319749 
+
+Gene 2201: Start: 319775 End: 319808 
+
+Gene 2202: Start: 320025 End: 320100 
+
+Gene 2203: Start: 320186 End: 320444 
+
+Gene 2204: Start: 320577 End: 320595 
+
+Gene 2205: Start: 320670 End: 320673 
+
+Gene 2206: Start: 320757 End: 320814 
+
+Gene 2207: Start: 321068 End: 321077 
+
+Gene 2208: Start: 321336 End: 321381 
+
+Gene 2209: Start: 321395 End: 321434 
+
+Gene 2210: Start: 321837 End: 321942 
+
+Gene 2211: Start: 321947 End: 322004 
+
+Gene 2212: Start: 322101 End: 322200 
+
+Gene 2213: Start: 322280 End: 322322 
+
+Gene 2214: Start: 322490 End: 322502 
+
+Gene 2215: Start: 322691 End: 322715 
+
+Gene 2216: Start: 322730 End: 322742 
+
+Gene 2217: Start: 322881 End: 322980 
+
+Gene 2218: Start: 323018 End: 323066 
+
+Gene 2219: Start: 323073 End: 323169 
+
+Gene 2220: Start: 323435 End: 323438 
+
+Gene 2221: Start: 323477 End: 323570 
+
+Gene 2222: Start: 323631 End: 323643 
+
+Gene 2223: Start: 323744 End: 323981 
+
+Gene 2224: Start: 324180 End: 324195 
+
+Gene 2225: Start: 324269 End: 324323 
+
+Gene 2226: Start: 324492 End: 324501 
+
+Gene 2227: Start: 324534 End: 324642 
+
+Gene 2228: Start: 324738 End: 324759 
+
+Gene 2229: Start: 324780 End: 324798 
+
+Gene 2230: Start: 324816 End: 324831 
+
+Gene 2231: Start: 324900 End: 324927 
+
+Gene 2232: Start: 324944 End: 324953 
+
+Gene 2233: Start: 325040 End: 325073 
+
+Gene 2234: Start: 325233 End: 325239 
+
+Gene 2235: Start: 325242 End: 325248 
+
+Gene 2236: Start: 325259 End: 325298 
+
+Gene 2237: Start: 325313 End: 325346 
+
+Gene 2238: Start: 325436 End: 325532 
+
+Gene 2239: Start: 325740 End: 325839 
+
+Gene 2240: Start: 325911 End: 325995 
+
+Gene 2241: Start: 326045 End: 326060 
+
+Gene 2242: Start: 326231 End: 326249 
+
+Gene 2243: Start: 326319 End: 326391 
+
+Gene 2244: Start: 326397 End: 326565 
+
+Gene 2245: Start: 326787 End: 326829 
+
+Gene 2246: Start: 326961 End: 327114 
+
+Gene 2247: Start: 327117 End: 327171 
+
+Gene 2248: Start: 327332 End: 327362 
+
+Gene 2249: Start: 327453 End: 327501 
+
+Gene 2250: Start: 327593 End: 327719 
+
+Gene 2251: Start: 327803 End: 327890 
+
+Gene 2252: Start: 327912 End: 327921 
+
+Gene 2253: Start: 328109 End: 328139 
+
+Gene 2254: Start: 328172 End: 328220 
+
+Gene 2255: Start: 328341 End: 328362 
+
+Gene 2256: Start: 328514 End: 328577 
+
+Gene 2257: Start: 328682 End: 328715 
+
+Gene 2258: Start: 328790 End: 328796 
+
+Gene 2259: Start: 328962 End: 328977 
+
+Gene 2260: Start: 328994 End: 329069 
+
+Gene 2261: Start: 329169 End: 329328 
+
+Gene 2262: Start: 329370 End: 329388 
+
+Gene 2263: Start: 329555 End: 329651 
+
+Gene 2264: Start: 329709 End: 329718 
+
+Gene 2265: Start: 330035 End: 330074 
+
+Gene 2266: Start: 330087 End: 330366 
+
+Gene 2267: Start: 330416 End: 330419 
+
+Gene 2268: Start: 330455 End: 330488 
+
+Gene 2269: Start: 330563 End: 330578 
+
+Gene 2270: Start: 330630 End: 330771 
+
+Gene 2271: Start: 330788 End: 330797 
+
+Gene 2272: Start: 330866 End: 330923 
+
+Gene 2273: Start: 331008 End: 331056 
+
+Gene 2274: Start: 331079 End: 331100 
+
+Gene 2275: Start: 331185 End: 331236 
+
+Gene 2276: Start: 331244 End: 331280 
+
+Gene 2277: Start: 331311 End: 331425 
+
+Gene 2278: Start: 331457 End: 331499 
+
+Gene 2279: Start: 331553 End: 331622 
+
+Gene 2280: Start: 331652 End: 331688 
+
+Gene 2281: Start: 331734 End: 331737 
+
+Gene 2282: Start: 331827 End: 331845 
+
+Gene 2283: Start: 331895 End: 331919 
+
+Gene 2284: Start: 331991 End: 332114 
+
+Gene 2285: Start: 332168 End: 332180 
+
+Gene 2286: Start: 332265 End: 332298 
+
+Gene 2287: Start: 332303 End: 332345 
+
+Gene 2288: Start: 332436 End: 332445 
+
+Gene 2289: Start: 332448 End: 332514 
+
+Gene 2290: Start: 332538 End: 332556 
+
+Gene 2291: Start: 332582 End: 332588 
+
+Gene 2292: Start: 332609 End: 332678 
+
+Gene 2293: Start: 332769 End: 332829 
+
+Gene 2294: Start: 333015 End: 333162 
+
+Gene 2295: Start: 333177 End: 333198 
+
+Gene 2296: Start: 333275 End: 333317 
+
+Gene 2297: Start: 333416 End: 333542 
+
+Gene 2298: Start: 333665 End: 333902 
+
+Gene 2299: Start: 333921 End: 333954 
+
+Gene 2300: Start: 333984 End: 334044 
+
+Gene 2301: Start: 334052 End: 334055 
+
+Gene 2302: Start: 334101 End: 334275 
+
+Gene 2303: Start: 334278 End: 334314 
+
+Gene 2304: Start: 334527 End: 334578 
+
+Gene 2305: Start: 334599 End: 334614 
+
+Gene 2306: Start: 334761 End: 334812 
+
+Gene 2307: Start: 334886 End: 335060 
+
+Gene 2308: Start: 335121 End: 335190 
+
+Gene 2309: Start: 335363 End: 335435 
+
+Gene 2310: Start: 335457 End: 335469 
+
+Gene 2311: Start: 335643 End: 335655 
+
+Gene 2312: Start: 335718 End: 335733 
+
+Gene 2313: Start: 335747 End: 335867 
+
+Gene 2314: Start: 335967 End: 335979 
+
+Gene 2315: Start: 336105 End: 336141 
+
+Gene 2316: Start: 336306 End: 336324 
+
+Gene 2317: Start: 336383 End: 336416 
+
+Gene 2318: Start: 336539 End: 336602 
+
+Gene 2319: Start: 336609 End: 336669 
+
+Gene 2320: Start: 336900 End: 336906 
+
+Gene 2321: Start: 336917 End: 336971 
+
+Gene 2322: Start: 337176 End: 337203 
+
+Gene 2323: Start: 337319 End: 337325 
+
+Gene 2324: Start: 337353 End: 337449 
+
+Gene 2325: Start: 337452 End: 337506 
+
+Gene 2326: Start: 337509 End: 337521 
+
+Gene 2327: Start: 337548 End: 337605 
+
+Gene 2328: Start: 337715 End: 337787 
+
+Gene 2329: Start: 337863 End: 337878 
+
+Gene 2330: Start: 337940 End: 338003 
+
+Gene 2331: Start: 338043 End: 338067 
+
+Gene 2332: Start: 338181 End: 338322 
+
+Gene 2333: Start: 338402 End: 338441 
+
+Gene 2334: Start: 338544 End: 338673 
+
+Gene 2335: Start: 338946 End: 339030 
+
+Gene 2336: Start: 339179 End: 339188 
+
+Gene 2337: Start: 339257 End: 339296 
+
+Gene 2338: Start: 339333 End: 339375 
+
+Gene 2339: Start: 339389 End: 339416 
+
+Gene 2340: Start: 340128 End: 340275 
+
+Gene 2341: Start: 340809 End: 340815 
+
+Gene 2342: Start: 340941 End: 341040 
+
+Gene 2343: Start: 341139 End: 341142 
+
+Gene 2344: Start: 341180 End: 341270 
+
+Gene 2345: Start: 341304 End: 341391 
+
+Gene 2346: Start: 341471 End: 341537 
+
+Gene 2347: Start: 341808 End: 341835 
+
+Gene 2348: Start: 341957 End: 341987 
+
+Gene 2349: Start: 342026 End: 342167 
+
+Gene 2350: Start: 342287 End: 342308 
+
+Gene 2351: Start: 342321 End: 342327 
+
+Gene 2352: Start: 342377 End: 342410 
+
+Gene 2353: Start: 342440 End: 342518 
+
+Gene 2354: Start: 342566 End: 342614 
+
+Gene 2355: Start: 342756 End: 342762 
+
+Gene 2356: Start: 342798 End: 342864 
+
+Gene 2357: Start: 342942 End: 342978 
+
+Gene 2358: Start: 342995 End: 343040 
+
+Gene 2359: Start: 343149 End: 343167 
+
+Gene 2360: Start: 343266 End: 343314 
+
+Gene 2361: Start: 343424 End: 343514 
+
+Gene 2362: Start: 343604 End: 343682 
+
+Gene 2363: Start: 343742 End: 343796 
+
+Gene 2364: Start: 343976 End: 344003 
+
+Gene 2365: Start: 344132 End: 344186 
+
+Gene 2366: Start: 344210 End: 344234 
+
+Gene 2367: Start: 344360 End: 344396 
+
+Gene 2368: Start: 344499 End: 344592 
+
+Gene 2369: Start: 344630 End: 344696 
+
+Gene 2370: Start: 344736 End: 344757 
+
+Gene 2371: Start: 344834 End: 344867 
+
+Gene 2372: Start: 344873 End: 344882 
+
+Gene 2373: Start: 344897 End: 344948 
+
+Gene 2374: Start: 345000 End: 345069 
+
+Gene 2375: Start: 345120 End: 345126 
+
+Gene 2376: Start: 345294 End: 345297 
+
+Gene 2377: Start: 345309 End: 345426 
+
+Gene 2378: Start: 345510 End: 345540 
+
+Gene 2379: Start: 345785 End: 345806 
+
+Gene 2380: Start: 345837 End: 345858 
+
+Gene 2381: Start: 345951 End: 345993 
+
+Gene 2382: Start: 346049 End: 346091 
+
+Gene 2383: Start: 346398 End: 346500 
+
+Gene 2384: Start: 346670 End: 346715 
+
+Gene 2385: Start: 346976 End: 346979 
+
+Gene 2386: Start: 346989 End: 347040 
+
+Gene 2387: Start: 347061 End: 347133 
+
+Gene 2388: Start: 347179 End: 347293 
+
+Gene 2389: Start: 347300 End: 347309 
+
+Gene 2390: Start: 347533 End: 347554 
+
+Gene 2391: Start: 347645 End: 347681 
+
+Gene 2392: Start: 347755 End: 347902 
+
+Gene 2393: Start: 347907 End: 348075 
+
+Gene 2394: Start: 348108 End: 348174 
+
+Gene 2395: Start: 348322 End: 348442 
+
+Gene 2396: Start: 348585 End: 348621 
+
+Gene 2397: Start: 348643 End: 348757 
+
+Gene 2398: Start: 348802 End: 348859 
+
+Gene 2399: Start: 349054 End: 349063 
+
+Gene 2400: Start: 349207 End: 349297 
+
+Gene 2401: Start: 349375 End: 349402 
+
+Gene 2402: Start: 349557 End: 349563 
+
+Gene 2403: Start: 349613 End: 349664 
+
+Gene 2404: Start: 349700 End: 349778 
+
+Gene 2405: Start: 349819 End: 349858 
+
+Gene 2406: Start: 349872 End: 349899 
+
+Gene 2407: Start: 349913 End: 350060 
+
+Gene 2408: Start: 350074 End: 350155 
+
+Gene 2409: Start: 350186 End: 350240 
+
+Gene 2410: Start: 350279 End: 350345 
+
+Gene 2411: Start: 350397 End: 350406 
+
+Gene 2412: Start: 350563 End: 350698 
+
+Gene 2413: Start: 350837 End: 350867 
+
+Gene 2414: Start: 350916 End: 350976 
+
+Gene 2415: Start: 351029 End: 351095 
+
+Gene 2416: Start: 351120 End: 351198 
+
+Gene 2417: Start: 351257 End: 351368 
+
+Gene 2418: Start: 351377 End: 351410 
+
+Gene 2419: Start: 351447 End: 351561 
+
+Gene 2420: Start: 351614 End: 351623 
+
+Gene 2421: Start: 351786 End: 351861 
+
+Gene 2422: Start: 351867 End: 351927 
+
+Gene 2423: Start: 351948 End: 351963 
+
+Gene 2424: Start: 351988 End: 352156 
+
+Gene 2425: Start: 352187 End: 352277 
+
+Gene 2426: Start: 352302 End: 352416 
+
+Gene 2427: Start: 352591 End: 352666 
+
+Gene 2428: Start: 352670 End: 352679 
+
+Gene 2429: Start: 352885 End: 352897 
+
+Gene 2430: Start: 352952 End: 353024 
+
+Gene 2431: Start: 353092 End: 353221 
+
+Gene 2432: Start: 353240 End: 353264 
+
+Gene 2433: Start: 353319 End: 353457 
+
+Gene 2434: Start: 353693 End: 353699 
+
+Gene 2435: Start: 353722 End: 353767 
+
+Gene 2436: Start: 353772 End: 353805 
+
+Gene 2437: Start: 353859 End: 353925 
+
+Gene 2438: Start: 353998 End: 354019 
+
+Gene 2439: Start: 354055 End: 354082 
+
+Gene 2440: Start: 354291 End: 354435 
+
+Gene 2441: Start: 354444 End: 354510 
+
+Gene 2442: Start: 354516 End: 354615 
+
+Gene 2443: Start: 354619 End: 354637 
+
+Gene 2444: Start: 354678 End: 354870 
+
+Gene 2445: Start: 354928 End: 355006 
+
+Gene 2446: Start: 355047 End: 355131 
+
+Gene 2447: Start: 355170 End: 355176 
+
+Gene 2448: Start: 355224 End: 355395 
+
+Gene 2449: Start: 355561 End: 355582 
+
+Gene 2450: Start: 355753 End: 355828 
+
+Gene 2451: Start: 356012 End: 356024 
+
+Gene 2452: Start: 356071 End: 356092 
+
+Gene 2453: Start: 356110 End: 356122 
+
+Gene 2454: Start: 356140 End: 356167 
+
+Gene 2455: Start: 356421 End: 356439 
+
+Gene 2456: Start: 356471 End: 356510 
+
+Gene 2457: Start: 356523 End: 356568 
+
+Gene 2458: Start: 356571 End: 356670 
+
+Gene 2459: Start: 356827 End: 356860 
+
+Gene 2460: Start: 356885 End: 356936 
+
+Gene 2461: Start: 357045 End: 357084 
+
+Gene 2462: Start: 357185 End: 357281 
+
+Gene 2463: Start: 357317 End: 357344 
+
+Gene 2464: Start: 357423 End: 357456 
+
+Gene 2465: Start: 357466 End: 357529 
+
+Gene 2466: Start: 357563 End: 357572 
+
+Gene 2467: Start: 357582 End: 357591 
+
+Gene 2468: Start: 357599 End: 357656 
+
+Gene 2469: Start: 357824 End: 357860 
+
+Gene 2470: Start: 357936 End: 357954 
+
+Gene 2471: Start: 358068 End: 358095 
+
+Gene 2472: Start: 358190 End: 358304 
+
+Gene 2473: Start: 358351 End: 358426 
+
+Gene 2474: Start: 358430 End: 358478 
+
+Gene 2475: Start: 358500 End: 358536 
+
+Gene 2476: Start: 358554 End: 358641 
+
+Gene 2477: Start: 358659 End: 358737 
+
+Gene 2478: Start: 358804 End: 358837 
+
+Gene 2479: Start: 358858 End: 358915 
+
+Gene 2480: Start: 358985 End: 358991 
+
+Gene 2481: Start: 359035 End: 359038 
+
+Gene 2482: Start: 359146 End: 359215 
+
+Gene 2483: Start: 359223 End: 359238 
+
+Gene 2484: Start: 359255 End: 359258 
+
+Gene 2485: Start: 359266 End: 359287 
+
+Gene 2486: Start: 359293 End: 359338 
+
+Gene 2487: Start: 359752 End: 359782 
+
+Gene 2488: Start: 359789 End: 359810 
+
+Gene 2489: Start: 359934 End: 359940 
+
+Gene 2490: Start: 359960 End: 359975 
+
+Gene 2491: Start: 360005 End: 360038 
+
+Gene 2492: Start: 360091 End: 360097 
+
+Gene 2493: Start: 360133 End: 360151 
+
+Gene 2494: Start: 360187 End: 360253 
+
+Gene 2495: Start: 360394 End: 360505 
+
+Gene 2496: Start: 360523 End: 360526 
+
+Gene 2497: Start: 360693 End: 360744 
+
+Gene 2498: Start: 360797 End: 360842 
+
+Gene 2499: Start: 360855 End: 360885 
+
+Gene 2500: Start: 360916 End: 360967 
+
+Gene 2501: Start: 361031 End: 361079 
+
+Gene 2502: Start: 361346 End: 361355 
+
+Gene 2503: Start: 361403 End: 361412 
+
+Gene 2504: Start: 361437 End: 361554 
+
+Gene 2505: Start: 361573 End: 361579 
+
+Gene 2506: Start: 361709 End: 361781 
+
+Gene 2507: Start: 361825 End: 361840 
+
+Gene 2508: Start: 361909 End: 361924 
+
+Gene 2509: Start: 361937 End: 362117 
+
+Gene 2510: Start: 362383 End: 362596 
+
+Gene 2511: Start: 362726 End: 362771 
+
+Gene 2512: Start: 362839 End: 362848 
+
+Gene 2513: Start: 362855 End: 362873 
+
+Gene 2514: Start: 362896 End: 363043 
+
+Gene 2515: Start: 363114 End: 363150 
+
+Gene 2516: Start: 363215 End: 363458 
+
+Gene 2517: Start: 363492 End: 363624 
+
+Gene 2518: Start: 363772 End: 363781 
+
+Gene 2519: Start: 363888 End: 363906 
+
+Gene 2520: Start: 363915 End: 363933 
+
+Gene 2521: Start: 364039 End: 364066 
+
+Gene 2522: Start: 364094 End: 364112 
+
+Gene 2523: Start: 364115 End: 364373 
+
+Gene 2524: Start: 364428 End: 364473 
+
+Gene 2525: Start: 364638 End: 364734 
+
+Gene 2526: Start: 364754 End: 364838 
+
+Gene 2527: Start: 364915 End: 365227 
+
+Gene 2528: Start: 365286 End: 365553 
+
+Gene 2529: Start: 365556 End: 365610 
+
+Gene 2530: Start: 365627 End: 365642 
+
+Gene 2531: Start: 365812 End: 365914 
+
+Gene 2532: Start: 366026 End: 366029 
+
+Gene 2533: Start: 366128 End: 366161 
+
+Gene 2534: Start: 366215 End: 366257 
+
+Gene 2535: Start: 366339 End: 366399 
+
+Gene 2536: Start: 366404 End: 366476 
+
+Gene 2537: Start: 366548 End: 366665 
+
+Gene 2538: Start: 366739 End: 366757 
+
+Gene 2539: Start: 366775 End: 366808 
+
+Gene 2540: Start: 366838 End: 366880 
+
+Gene 2541: Start: 366895 End: 366913 
+
+Gene 2542: Start: 367155 End: 367254 
+
+Gene 2543: Start: 367337 End: 367400 
+
+Gene 2544: Start: 367537 End: 367618 
+
+Gene 2545: Start: 367621 End: 367645 
+
+Gene 2546: Start: 367696 End: 367759 
+
+Gene 2547: Start: 367964 End: 368090 
+
+Gene 2548: Start: 368145 End: 368181 
+
+Gene 2549: Start: 368236 End: 368251 
+
+Gene 2550: Start: 368648 End: 368711 
+
+Gene 2551: Start: 368721 End: 368949 
+
+Gene 2552: Start: 368978 End: 369041 
+
+Gene 2553: Start: 369425 End: 369449 
+
+Gene 2554: Start: 369459 End: 369576 
+
+Gene 2555: Start: 369630 End: 369651 
+
+Gene 2556: Start: 369789 End: 369933 
+
+Gene 2557: Start: 369939 End: 369993 
+
+Gene 2558: Start: 370017 End: 370032 
+
+Gene 2559: Start: 370044 End: 370047 
+
+Gene 2560: Start: 370178 End: 370199 
+
+Gene 2561: Start: 370310 End: 370334 
+
+Gene 2562: Start: 370473 End: 370485 
+
+Gene 2563: Start: 370613 End: 370634 
+
+Gene 2564: Start: 370815 End: 370911 
+
+Gene 2565: Start: 370940 End: 370961 
+
+Gene 2566: Start: 371001 End: 371148 
+
+Gene 2567: Start: 371178 End: 371202 
+
+Gene 2568: Start: 371271 End: 371280 
+
+Gene 2569: Start: 371339 End: 371465 
+
+Gene 2570: Start: 371624 End: 371774 
+
+Gene 2571: Start: 371946 End: 371955 
+
+Gene 2572: Start: 372344 End: 372425 
+
+Gene 2573: Start: 372632 End: 372644 
+
+Gene 2574: Start: 372690 End: 372888 
+
+Gene 2575: Start: 372911 End: 373061 
+
+Gene 2576: Start: 373083 End: 373209 
+
+Gene 2577: Start: 373217 End: 373271 
+
+Gene 2578: Start: 373287 End: 373299 
+
+Gene 2579: Start: 373320 End: 373383 
+
+Gene 2580: Start: 373566 End: 373614 
+
+Gene 2581: Start: 373674 End: 374004 
+
+Gene 2582: Start: 374036 End: 374123 
+
+Gene 2583: Start: 374312 End: 374405 
+
+Gene 2584: Start: 374451 End: 374460 
+
+Gene 2585: Start: 374577 End: 374754 
+
+Gene 2586: Start: 374799 End: 374829 
+
+Gene 2587: Start: 375126 End: 375222 
+
+Gene 2588: Start: 375231 End: 375354 
+
+Gene 2589: Start: 375596 End: 375683 
+
+Gene 2590: Start: 375713 End: 375752 
+
+Gene 2591: Start: 375764 End: 375809 
+
+Gene 2592: Start: 375980 End: 376073 
+
+Gene 2593: Start: 376109 End: 376223 
+
+Gene 2594: Start: 376245 End: 376275 
+
+Gene 2595: Start: 376464 End: 376566 
+
+Gene 2596: Start: 376674 End: 376770 
+
+Gene 2597: Start: 376800 End: 376842 
+
+Gene 2598: Start: 376887 End: 376950 
+
+Gene 2599: Start: 376959 End: 376995 
+
+Gene 2600: Start: 377027 End: 377051 
+
+Gene 2601: Start: 377165 End: 377384 
+
+Gene 2602: Start: 377399 End: 377612 
+
+Gene 2603: Start: 377621 End: 377657 
+
+Gene 2604: Start: 377721 End: 377730 
+
+Gene 2605: Start: 377754 End: 377772 
+
+Gene 2606: Start: 377877 End: 378063 
+
+Gene 2607: Start: 378111 End: 378183 
+
+Gene 2608: Start: 378216 End: 378219 
+
+Gene 2609: Start: 378326 End: 378344 
+
+Gene 2610: Start: 378719 End: 378827 
+
+Gene 2611: Start: 378846 End: 378918 
+
+Gene 2612: Start: 379011 End: 379143 
+
+Gene 2613: Start: 379208 End: 379337 
+
+Gene 2614: Start: 379353 End: 379365 
+
+Gene 2615: Start: 379443 End: 379446 
+
+Gene 2616: Start: 379649 End: 379697 
+
+Gene 2617: Start: 379776 End: 379797 
+
+Gene 2618: Start: 380034 End: 380187 
+
+Gene 2619: Start: 380324 End: 380327 
+
+Gene 2620: Start: 380397 End: 380424 
+
+Gene 2621: Start: 380466 End: 380490 
+
+Gene 2622: Start: 380581 End: 380602 
+
+Gene 2623: Start: 380651 End: 380657 
+
+Gene 2624: Start: 380747 End: 380816 
+
+Gene 2625: Start: 380823 End: 380859 
+
+Gene 2626: Start: 380862 End: 380877 
+
+Gene 2627: Start: 380948 End: 380960 
+
+Gene 2628: Start: 381165 End: 381321 
+
+Gene 2629: Start: 381472 End: 381643 
+
+Gene 2630: Start: 381675 End: 381714 
+
+Gene 2631: Start: 381725 End: 381827 
+
+Gene 2632: Start: 381832 End: 381895 
+
+Gene 2633: Start: 381969 End: 382056 
+
+Gene 2634: Start: 382073 End: 382133 
+
+Gene 2635: Start: 382159 End: 382183 
+
+Gene 2636: Start: 382233 End: 382269 
+
+Gene 2637: Start: 382308 End: 382359 
+
+Gene 2638: Start: 382462 End: 382489 
+
+Gene 2639: Start: 382631 End: 382748 
+
+Gene 2640: Start: 382819 End: 383008 
+
+Gene 2641: Start: 383022 End: 383052 
+
+Gene 2642: Start: 383082 End: 383148 
+
+Gene 2643: Start: 383183 End: 383234 
+
+Gene 2644: Start: 383421 End: 383430 
+
+Gene 2645: Start: 383443 End: 383563 
+
+Gene 2646: Start: 383583 End: 383613 
+
+Gene 2647: Start: 383630 End: 383660 
+
+Gene 2648: Start: 383741 End: 383765 
+
+Gene 2649: Start: 383774 End: 383831 
+
+Gene 2650: Start: 384177 End: 384213 
+
+Gene 2651: Start: 384301 End: 384322 
+
+Gene 2652: Start: 384436 End: 384481 
+
+Gene 2653: Start: 384568 End: 384625 
+
+Gene 2654: Start: 384686 End: 384692 
+
+Gene 2655: Start: 384765 End: 384804 
+
+Gene 2656: Start: 384868 End: 384883 
+
+Gene 2657: Start: 384986 End: 385079 
+
+Gene 2658: Start: 385220 End: 385250 
+
+Gene 2659: Start: 385271 End: 385349 
+
+Gene 2660: Start: 385361 End: 385439 
+
+Gene 2661: Start: 385449 End: 385464 
+
+Gene 2662: Start: 385527 End: 385632 
+
+Gene 2663: Start: 385681 End: 385735 
+
+Gene 2664: Start: 385773 End: 385803 
+
+Gene 2665: Start: 385846 End: 385936 
+
+Gene 2666: Start: 385953 End: 385968 
+
+Gene 2667: Start: 386031 End: 386049 
+
+Gene 2668: Start: 386062 End: 386074 
+
+Gene 2669: Start: 386089 End: 386104 
+
+Gene 2670: Start: 386265 End: 386316 
+
+Gene 2671: Start: 386378 End: 386381 
+
+Gene 2672: Start: 386453 End: 386504 
+
+Gene 2673: Start: 386510 End: 386624 
+
+Gene 2674: Start: 386987 End: 387011 
+
+Gene 2675: Start: 387076 End: 387211 
+
+Gene 2676: Start: 387422 End: 387533 
+
+Gene 2677: Start: 387569 End: 387584 
+
+Gene 2678: Start: 387601 End: 387607 
+
+Gene 2679: Start: 387920 End: 387968 
+
+Gene 2680: Start: 388002 End: 388059 
+
+Gene 2681: Start: 388062 End: 388098 
+
+Gene 2682: Start: 388228 End: 388276 
+
+Gene 2683: Start: 388504 End: 388528 
+
+Gene 2684: Start: 388685 End: 388757 
+
+Gene 2685: Start: 388832 End: 388919 
+
+Gene 2686: Start: 388954 End: 388972 
+
+Gene 2687: Start: 388987 End: 389011 
+
+Gene 2688: Start: 389188 End: 389356 
+
+Gene 2689: Start: 389481 End: 389547 
+
+Gene 2690: Start: 389587 End: 389593 
+
+Gene 2691: Start: 389597 End: 389657 
+
+Gene 2692: Start: 389718 End: 389895 
+
+Gene 2693: Start: 389965 End: 389974 
+
+Gene 2694: Start: 390047 End: 390125 
+
+Gene 2695: Start: 390202 End: 390436 
+
+Gene 2696: Start: 390503 End: 390539 
+
+Gene 2697: Start: 390552 End: 390633 
+
+Gene 2698: Start: 390665 End: 390776 
+
+Gene 2699: Start: 390812 End: 390896 
+
+Gene 2700: Start: 390927 End: 390969 
+
+Gene 2701: Start: 390980 End: 391022 
+
+Gene 2702: Start: 391025 End: 391091 
+
+Gene 2703: Start: 391184 End: 391235 
+
+Gene 2704: Start: 391265 End: 391361 
+
+Gene 2705: Start: 391580 End: 391613 
+
+Gene 2706: Start: 391618 End: 391684 
+
+Gene 2707: Start: 391818 End: 391839 
+
+Gene 2708: Start: 391907 End: 391976 
+
+Gene 2709: Start: 391991 End: 392042 
+
+Gene 2710: Start: 392100 End: 392127 
+
+Gene 2711: Start: 392216 End: 392240 
+
+Gene 2712: Start: 392261 End: 392384 
+
+Gene 2713: Start: 392517 End: 392553 
+
+Gene 2714: Start: 392646 End: 392751 
+
+Gene 2715: Start: 392800 End: 392818 
+
+Gene 2716: Start: 392843 End: 393056 
+
+Gene 2717: Start: 393077 End: 393182 
+
+Gene 2718: Start: 393230 End: 393266 
+
+Gene 2719: Start: 393278 End: 393287 
+
+Gene 2720: Start: 393465 End: 393507 
+
+Gene 2721: Start: 393597 End: 393636 
+
+Gene 2722: Start: 393652 End: 393724 
+
+Gene 2723: Start: 393887 End: 393908 
+
+Gene 2724: Start: 393922 End: 393931 
+
+Gene 2725: Start: 393949 End: 393967 
+
+Gene 2726: Start: 394080 End: 394086 
+
+Gene 2727: Start: 394154 End: 394184 
+
+Gene 2728: Start: 394240 End: 394261 
+
+Gene 2729: Start: 394288 End: 394363 
+
+Gene 2730: Start: 394432 End: 394504 
+
+Gene 2731: Start: 394544 End: 394586 
+
+Gene 2732: Start: 394619 End: 394685 
+
+Gene 2733: Start: 394754 End: 394877 
+
+Gene 2734: Start: 394904 End: 395000 
+
+Gene 2735: Start: 395006 End: 395126 
+
+Gene 2736: Start: 395159 End: 395339 
+
+Gene 2737: Start: 395345 End: 395396 
+
+Gene 2738: Start: 395407 End: 395446 
+
+Gene 2739: Start: 395488 End: 395545 
+
+Gene 2740: Start: 395610 End: 395637 
+
+Gene 2741: Start: 395883 End: 395916 
+
+Gene 2742: Start: 395955 End: 396048 
+
+Gene 2743: Start: 396079 End: 396094 
+
+Gene 2744: Start: 396125 End: 396191 
+
+Gene 2745: Start: 396248 End: 396263 
+
+Gene 2746: Start: 396448 End: 396469 
+
+Gene 2747: Start: 396687 End: 396723 
+
+Gene 2748: Start: 396732 End: 396750 
+
+Gene 2749: Start: 396874 End: 396922 
+
+Gene 2750: Start: 396938 End: 397034 
+
+Gene 2751: Start: 397043 End: 397046 
+
+Gene 2752: Start: 397078 End: 397129 
+
+Gene 2753: Start: 397266 End: 397344 
+
+Gene 2754: Start: 397681 End: 397699 
+
+Gene 2755: Start: 397811 End: 397835 
+
+Gene 2756: Start: 397853 End: 397994 
+
+Gene 2757: Start: 398124 End: 398283 
+
+Gene 2758: Start: 398317 End: 398332 
+
+Gene 2759: Start: 398492 End: 398546 
+
+Gene 2760: Start: 398583 End: 398604 
+
+Gene 2761: Start: 398608 End: 398668 
+
+Gene 2762: Start: 398705 End: 398708 
+
+Gene 2763: Start: 398723 End: 398825 
+
+Gene 2764: Start: 398888 End: 398966 
+
+Gene 2765: Start: 399258 End: 399474 
+
+Gene 2766: Start: 399481 End: 399532 
+
+Gene 2767: Start: 399622 End: 399649 
+
+Gene 2768: Start: 399697 End: 399703 
+
+Gene 2769: Start: 399720 End: 399732 
+
+Gene 2770: Start: 399763 End: 399937 
+
+Gene 2771: Start: 399953 End: 400004 
+
+Gene 2772: Start: 400233 End: 400239 
+
+Gene 2773: Start: 400270 End: 400360 
+
+Gene 2774: Start: 400382 End: 400451 
+
+Gene 2775: Start: 400472 End: 400625 
+
+Gene 2776: Start: 400673 End: 400790 
+
+Gene 2777: Start: 400808 End: 400844 
+
+Gene 2778: Start: 400874 End: 400895 
+
+Gene 2779: Start: 400898 End: 400904 
+
+Gene 2780: Start: 401043 End: 401127 
+
+Gene 2781: Start: 401231 End: 401309 
+
+Gene 2782: Start: 401423 End: 401459 
+
+Gene 2783: Start: 401465 End: 401510 
+
+Gene 2784: Start: 401531 End: 401564 
+
+Gene 2785: Start: 401575 End: 401599 
+
+Gene 2786: Start: 401747 End: 401750 
+
+Gene 2787: Start: 401860 End: 401905 
+
+Gene 2788: Start: 401941 End: 401968 
+
+Gene 2789: Start: 402095 End: 402185 
+
+Gene 2790: Start: 402221 End: 402233 
+
+Gene 2791: Start: 402264 End: 402369 
+
+Gene 2792: Start: 402374 End: 402407 
+
+Gene 2793: Start: 402437 End: 402557 
+
+Gene 2794: Start: 402658 End: 402703 
+
+Gene 2795: Start: 402738 End: 402795 
+
+Gene 2796: Start: 402890 End: 402914 
+
+Gene 2797: Start: 403010 End: 403082 
+
+Gene 2798: Start: 403232 End: 403301 
+
+Gene 2799: Start: 403333 End: 403378 
+
+Gene 2800: Start: 403471 End: 403735 
+
+Gene 2801: Start: 403836 End: 403848 
+
+Gene 2802: Start: 403861 End: 403873 
+
+Gene 2803: Start: 403919 End: 403952 
+
+Gene 2804: Start: 403997 End: 404006 
+
+Gene 2805: Start: 404086 End: 404116 
+
+Gene 2806: Start: 404135 End: 404174 
+
+Gene 2807: Start: 404230 End: 404371 
+
+Gene 2808: Start: 404476 End: 404494 
+
+Gene 2809: Start: 404503 End: 404539 
+
+Gene 2810: Start: 404562 End: 404589 
+
+Gene 2811: Start: 404627 End: 404639 
+
+Gene 2812: Start: 404659 End: 404719 
+
+Gene 2813: Start: 404731 End: 404797 
+
+Gene 2814: Start: 404816 End: 404882 
+
+Gene 2815: Start: 404930 End: 404948 
+
+Gene 2816: Start: 405137 End: 405143 
+
+Gene 2817: Start: 405174 End: 405246 
+
+Gene 2818: Start: 405284 End: 405350 
+
+Gene 2819: Start: 405494 End: 405503 
+
+Gene 2820: Start: 405836 End: 405908 
+
+Gene 2821: Start: 406080 End: 406128 
+
+Gene 2822: Start: 406237 End: 406291 
+
+Gene 2823: Start: 406304 End: 406508 
+
+Gene 2824: Start: 406517 End: 406595 
+
+Gene 2825: Start: 406730 End: 406739 
+
+Gene 2826: Start: 406768 End: 406855 
+
+Gene 2827: Start: 406915 End: 406972 
+
+Gene 2828: Start: 407089 End: 407101 
+
+Gene 2829: Start: 407111 End: 407114 
+
+Gene 2830: Start: 407121 End: 407175 
+
+Gene 2831: Start: 407199 End: 407208 
+
+Gene 2832: Start: 407288 End: 407408 
+
+Gene 2833: Start: 407441 End: 407582 
+
+Gene 2834: Start: 407713 End: 407758 
+
+Gene 2835: Start: 407823 End: 407862 
+
+Gene 2836: Start: 408035 End: 408134 
+
+Gene 2837: Start: 408158 End: 408161 
+
+Gene 2838: Start: 408281 End: 408317 
+
+Gene 2839: Start: 408492 End: 408501 
+
+Gene 2840: Start: 408528 End: 408573 
+
+Gene 2841: Start: 408618 End: 408636 
+
+Gene 2842: Start: 408736 End: 408793 
+
+Gene 2843: Start: 409006 End: 409084 
+
+Gene 2844: Start: 409160 End: 409190 
+
+Gene 2845: Start: 409235 End: 409283 
+
+Gene 2846: Start: 409294 End: 409354 
+
+Gene 2847: Start: 409373 End: 409394 
+
+Gene 2848: Start: 409475 End: 409484 
+
+Gene 2849: Start: 409547 End: 409583 
+
+Gene 2850: Start: 409605 End: 409770 
+
+Gene 2851: Start: 409889 End: 409913 
+
+Gene 2852: Start: 409917 End: 409938 
+
+Gene 2853: Start: 410019 End: 410043 
+
+Gene 2854: Start: 410054 End: 410060 
+
+Gene 2855: Start: 410069 End: 410129 
+
+Gene 2856: Start: 410180 End: 410243 
+
+Gene 2857: Start: 410359 End: 410365 
+
+Gene 2858: Start: 410378 End: 410387 
+
+Gene 2859: Start: 410423 End: 410429 
+
+Gene 2860: Start: 410467 End: 410473 
+
+Gene 2861: Start: 410522 End: 410546 
+
+Gene 2862: Start: 410590 End: 410677 
+
+Gene 2863: Start: 410681 End: 410771 
+
+Gene 2864: Start: 410819 End: 410837 
+
+Gene 2865: Start: 410865 End: 410883 
+
+Gene 2866: Start: 410993 End: 411005 
+
+Gene 2867: Start: 411037 End: 411220 
+
+Gene 2868: Start: 411238 End: 411247 
+
+Gene 2869: Start: 411329 End: 411413 
+
+Gene 2870: Start: 411473 End: 411530 
+
+Gene 2871: Start: 411536 End: 411800 
+
+Gene 2872: Start: 411841 End: 411886 
+
+Gene 2873: Start: 412031 End: 412043 
+
+Gene 2874: Start: 412240 End: 412333 
+
+Gene 2875: Start: 412373 End: 412391 
+
+Gene 2876: Start: 412426 End: 412441 
+
+Gene 2877: Start: 412519 End: 412555 
+
+Gene 2878: Start: 412592 End: 412640 
+
+Gene 2879: Start: 412643 End: 412661 
+
+Gene 2880: Start: 412713 End: 413061 
+
+Gene 2881: Start: 413097 End: 413115 
+
+Gene 2882: Start: 413375 End: 413393 
+
+Gene 2883: Start: 413473 End: 413482 
+
+Gene 2884: Start: 413485 End: 413521 
+
+Gene 2885: Start: 413584 End: 413605 
+
+Gene 2886: Start: 413671 End: 413722 
+
+Gene 2887: Start: 413896 End: 414040 
+
+Gene 2888: Start: 414080 End: 414095 
+
+Gene 2889: Start: 414138 End: 414261 
+
+Gene 2890: Start: 414265 End: 414481 
+
+Gene 2891: Start: 414492 End: 414570 
+
+Gene 2892: Start: 414641 End: 414731 
+
+Gene 2893: Start: 414773 End: 414917 
+
+Gene 2894: Start: 414956 End: 415019 
+
+Gene 2895: Start: 415074 End: 415113 
+
+Gene 2896: Start: 415142 End: 415229 
+
+Gene 2897: Start: 415304 End: 415349 
+
+Gene 2898: Start: 415379 End: 415598 
+
+Gene 2899: Start: 415742 End: 415985 
+
+Gene 2900: Start: 416028 End: 416067 
+
+Gene 2901: Start: 416112 End: 416130 
+
+Gene 2902: Start: 416168 End: 416195 
+
+Gene 2903: Start: 416270 End: 416336 
+
+Gene 2904: Start: 416380 End: 416602 
+
+Gene 2905: Start: 416642 End: 417023 
+
+Gene 2906: Start: 417062 End: 417101 
+
+Gene 2907: Start: 417293 End: 417398 
+
+Gene 2908: Start: 417427 End: 417439 
+
+Gene 2909: Start: 417613 End: 417658 
+
+Gene 2910: Start: 417727 End: 417826 
+
+Gene 2911: Start: 418016 End: 418052 
+
+Gene 2912: Start: 418193 End: 418208 
+
+Gene 2913: Start: 418215 End: 418380 
+
+Gene 2914: Start: 418610 End: 418640 
+
+Gene 2915: Start: 418688 End: 418838 
+
+Gene 2916: Start: 418870 End: 418891 
+
+Gene 2917: Start: 419014 End: 419023 
+
+Gene 2918: Start: 419149 End: 419179 
+
+Gene 2919: Start: 419335 End: 419347 
+
+Gene 2920: Start: 419490 End: 419736 
+
+Gene 2921: Start: 419760 End: 419820 
+
+Gene 2922: Start: 419926 End: 420046 
+
+Gene 2923: Start: 420115 End: 420196 
+
+Gene 2924: Start: 420268 End: 420376 
+
+Gene 2925: Start: 420411 End: 420441 
+
+Gene 2926: Start: 420674 End: 420704 
+
+Gene 2927: Start: 420731 End: 420830 
+
+Gene 2928: Start: 420921 End: 420936 
+
+Gene 2929: Start: 421041 End: 421053 
+
+Gene 2930: Start: 421116 End: 421128 
+
+Gene 2931: Start: 421186 End: 421297 
+
+Gene 2932: Start: 421340 End: 421349 
+
+Gene 2933: Start: 421366 End: 421399 
+
+Gene 2934: Start: 421402 End: 421558 
+
+Gene 2935: Start: 421637 End: 421643 
+
+Gene 2936: Start: 421655 End: 421658 
+
+Gene 2937: Start: 421758 End: 421764 
+
+Gene 2938: Start: 421775 End: 421937 
+
+Gene 2939: Start: 421960 End: 421972 
+
+Gene 2940: Start: 422000 End: 422114 
+
+Gene 2941: Start: 422236 End: 422266 
+
+Gene 2942: Start: 422270 End: 422297 
+
+Gene 2943: Start: 422377 End: 422389 
+
+Gene 2944: Start: 422453 End: 422516 
+
+Gene 2945: Start: 422530 End: 422542 
+
+Gene 2946: Start: 422555 End: 422627 
+
+Gene 2947: Start: 422643 End: 422670 
+
+Gene 2948: Start: 422746 End: 422779 
+
+Gene 2949: Start: 422857 End: 422884 
+
+Gene 2950: Start: 422935 End: 422941 
+
+Gene 2951: Start: 422964 End: 423027 
+
+Gene 2952: Start: 423071 End: 423095 
+
+Gene 2953: Start: 423138 End: 423279 
+
+Gene 2954: Start: 423442 End: 423457 
+
+Gene 2955: Start: 423695 End: 423716 
+
+Gene 2956: Start: 423773 End: 423782 
+
+Gene 2957: Start: 423828 End: 423885 
+
+Gene 2958: Start: 423913 End: 423931 
+
+Gene 2959: Start: 424021 End: 424042 
+
+Gene 2960: Start: 424084 End: 424171 
+
+Gene 2961: Start: 424196 End: 424244 
+
+Gene 2962: Start: 424359 End: 424389 
+
+Gene 2963: Start: 424418 End: 424544 
+
+Gene 2964: Start: 424550 End: 424688 
+
+Gene 2965: Start: 424859 End: 424946 
+
+Gene 2966: Start: 425194 End: 425251 
+
+Gene 2967: Start: 425263 End: 425266 
+
+Gene 2968: Start: 425279 End: 425312 
+
+Gene 2969: Start: 425399 End: 425489 
+
+Gene 2970: Start: 425515 End: 425569 
+
+Gene 2971: Start: 425601 End: 425625 
+
+Gene 2972: Start: 425670 End: 425772 
+
+Gene 2973: Start: 425806 End: 425926 
+
+Gene 2974: Start: 426023 End: 426032 
+
+Gene 2975: Start: 426154 End: 426157 
+
+Gene 2976: Start: 426197 End: 426239 
+
+Gene 2977: Start: 426242 End: 426317 
+
+Gene 2978: Start: 426364 End: 426442 
+
+Gene 2979: Start: 426571 End: 426670 
+
+Gene 2980: Start: 426710 End: 426761 
+
+Gene 2981: Start: 426906 End: 427044 
+
+Gene 2982: Start: 427208 End: 427316 
+
+Gene 2983: Start: 427377 End: 427425 
+
+Gene 2984: Start: 427435 End: 427459 
+
+Gene 2985: Start: 427514 End: 427556 
+
+Gene 2986: Start: 427571 End: 427613 
+
+Gene 2987: Start: 427647 End: 427686 
+
+Gene 2988: Start: 427962 End: 427995 
+
+Gene 2989: Start: 428103 End: 428115 
+
+Gene 2990: Start: 428119 End: 428128 
+
+Gene 2991: Start: 428214 End: 428229 
+
+Gene 2992: Start: 428236 End: 428281 
+
+Gene 2993: Start: 428317 End: 428374 
+
+Gene 2994: Start: 428390 End: 428420 
+
+Gene 2995: Start: 428617 End: 428665 
+
+Gene 2996: Start: 428723 End: 428753 
+
+Gene 2997: Start: 428846 End: 428870 
+
+Gene 2998: Start: 428917 End: 428971 
+
+Gene 2999: Start: 429035 End: 429131 
+
+Gene 3000: Start: 429253 End: 429262 
+
+Gene 3001: Start: 429440 End: 429518 
+
+Gene 3002: Start: 429578 End: 429605 
+
+Gene 3003: Start: 429701 End: 429734 
+
+Gene 3004: Start: 429746 End: 429764 
+
+Gene 3005: Start: 429770 End: 429797 
+
+Gene 3006: Start: 429824 End: 429992 
+
+Gene 3007: Start: 430140 End: 430320 
+
+Gene 3008: Start: 430414 End: 430456 
+
+Gene 3009: Start: 430529 End: 430553 
+
+Gene 3010: Start: 430581 End: 430590 
+
+Gene 3011: Start: 430679 End: 430820 
+
+Gene 3012: Start: 430956 End: 431001 
+
+Gene 3013: Start: 431091 End: 431097 
+
+Gene 3014: Start: 431136 End: 431142 
+
+Gene 3015: Start: 431165 End: 431234 
+
+Gene 3016: Start: 431240 End: 431267 
+
+Gene 3017: Start: 431277 End: 431283 
+
+Gene 3018: Start: 431474 End: 431579 
+
+Gene 3019: Start: 431609 End: 431660 
+
+Gene 3020: Start: 431686 End: 431704 
+
+Gene 3021: Start: 431726 End: 431876 
+
+Gene 3022: Start: 431882 End: 431903 
+
+Gene 3023: Start: 431981 End: 432098 
+
+Gene 3024: Start: 432116 End: 432218 
+
+Gene 3025: Start: 432237 End: 432336 
+
+Gene 3026: Start: 432355 End: 432559 
+
+Gene 3027: Start: 432613 End: 432706 
+
+Gene 3028: Start: 432751 End: 432796 
+
+Gene 3029: Start: 432953 End: 433049 
+
+Gene 3030: Start: 433139 End: 433157 
+
+Gene 3031: Start: 433177 End: 433195 
+
+Gene 3032: Start: 433262 End: 433271 
+
+Gene 3033: Start: 433331 End: 433388 
+
+Gene 3034: Start: 433465 End: 433474 
+
+Gene 3035: Start: 433505 End: 433586 
+
+Gene 3036: Start: 433606 End: 433612 
+
+Gene 3037: Start: 433769 End: 433859 
+
+Gene 3038: Start: 433864 End: 433918 
+
+Gene 3039: Start: 433991 End: 434159 
+
+Gene 3040: Start: 434312 End: 434507 
+
+Gene 3041: Start: 434523 End: 434586 
+
+Gene 3042: Start: 434659 End: 434695 
+
+Gene 3043: Start: 434776 End: 434971 
+
+Gene 3044: Start: 434992 End: 435175 
+
+Gene 3045: Start: 435232 End: 435289 
+
+Gene 3046: Start: 435317 End: 435347 
+
+Gene 3047: Start: 435383 End: 435398 
+
+Gene 3048: Start: 435444 End: 435525 
+
+Gene 3049: Start: 435563 End: 435611 
+
+Gene 3050: Start: 435779 End: 436022 
+
+Gene 3051: Start: 436345 End: 436375 
+
+Gene 3052: Start: 436423 End: 436495 
+
+Gene 3053: Start: 436522 End: 436600 
+
+Gene 3054: Start: 436606 End: 436663 
+
+Gene 3055: Start: 436819 End: 436996 
+
+Gene 3056: Start: 437198 End: 437225 
+
+Gene 3057: Start: 437273 End: 437351 
+
+Gene 3058: Start: 437355 End: 437511 
+
+Gene 3059: Start: 437605 End: 437635 
+
+Gene 3060: Start: 437689 End: 437701 
+
+Gene 3061: Start: 437808 End: 437910 
+
+Gene 3062: Start: 437914 End: 437956 
+
+Gene 3063: Start: 437991 End: 438126 
+
+Gene 3064: Start: 438271 End: 438367 
+
+Gene 3065: Start: 438412 End: 438547 
+
+Gene 3066: Start: 438570 End: 438738 
+
+Gene 3067: Start: 438776 End: 438821 
+
+Gene 3068: Start: 438842 End: 438926 
+
+Gene 3069: Start: 438934 End: 438937 
+
+Gene 3070: Start: 438947 End: 438989 
+
+Gene 3071: Start: 439106 End: 439112 
+
+Gene 3072: Start: 439116 End: 439122 
+
+Gene 3073: Start: 439160 End: 439205 
+
+Gene 3074: Start: 439216 End: 439234 
+
+Gene 3075: Start: 439245 End: 439305 
+
+Gene 3076: Start: 439446 End: 439503 
+
+Gene 3077: Start: 439510 End: 439528 
+
+Gene 3078: Start: 439550 End: 439691 
+
+Gene 3079: Start: 439699 End: 439729 
+
+Gene 3080: Start: 439853 End: 439919 
+
+Gene 3081: Start: 439927 End: 439999 
+
+Gene 3082: Start: 440036 End: 440246 
+
+Gene 3083: Start: 440309 End: 440363 
+
+Gene 3084: Start: 440425 End: 440452 
+
+Gene 3085: Start: 440636 End: 440642 
+
+Gene 3086: Start: 440721 End: 440820 
+
+Gene 3087: Start: 440862 End: 440883 
+
+Gene 3088: Start: 440902 End: 440923 
+
+Gene 3089: Start: 440954 End: 441068 
+
+Gene 3090: Start: 441079 End: 441214 
+
+Gene 3091: Start: 441261 End: 441393 
+
+Gene 3092: Start: 441434 End: 441494 
+
+Gene 3093: Start: 441683 End: 441719 
+
+Gene 3094: Start: 441722 End: 441746 
+
+Gene 3095: Start: 441773 End: 441797 
+
+Gene 3096: Start: 441894 End: 441903 
+
+Gene 3097: Start: 441955 End: 441958 
+
+Gene 3098: Start: 441999 End: 442179 
+
+Gene 3099: Start: 442232 End: 442310 
+
+Gene 3100: Start: 442313 End: 442463 
+
+Gene 3101: Start: 442470 End: 442542 
+
+Gene 3102: Start: 442550 End: 442562 
+
+Gene 3103: Start: 442609 End: 442678 
+
+Gene 3104: Start: 442736 End: 442760 
+
+Gene 3105: Start: 442772 End: 442796 
+
+Gene 3106: Start: 442832 End: 442973 
+
+Gene 3107: Start: 443053 End: 443062 
+
+Gene 3108: Start: 443167 End: 443215 
+
+Gene 3109: Start: 443230 End: 443248 
+
+Gene 3110: Start: 443265 End: 443286 
+
+Gene 3111: Start: 443292 End: 443313 
+
+Gene 3112: Start: 443495 End: 443501 
+
+Gene 3113: Start: 443530 End: 443539 
+
+Gene 3114: Start: 443572 End: 443581 
+
+Gene 3115: Start: 443642 End: 443660 
+
+Gene 3116: Start: 443698 End: 443755 
+
+Gene 3117: Start: 444040 End: 444100 
+
+Gene 3118: Start: 444302 End: 444431 
+
+Gene 3119: Start: 444451 End: 444469 
+
+Gene 3120: Start: 444543 End: 444645 
+
+Gene 3121: Start: 444648 End: 444663 
+
+Gene 3122: Start: 444742 End: 444844 
+
+Gene 3123: Start: 444856 End: 444859 
+
+Gene 3124: Start: 445025 End: 445163 
+
+Gene 3125: Start: 445199 End: 445205 
+
+Gene 3126: Start: 445255 End: 445267 
+
+Gene 3127: Start: 445322 End: 445364 
+
+Gene 3128: Start: 445445 End: 445556 
+
+Gene 3129: Start: 445600 End: 445840 
+
+Gene 3130: Start: 445851 End: 445872 
+
+Gene 3131: Start: 445914 End: 445941 
+
+Gene 3132: Start: 445949 End: 445985 
+
+Gene 3133: Start: 446005 End: 446035 
+
+Gene 3134: Start: 446138 End: 446162 
+
+Gene 3135: Start: 446203 End: 446227 
+
+Gene 3136: Start: 446252 End: 446279 
+
+Gene 3137: Start: 446313 End: 446415 
+
+Gene 3138: Start: 446450 End: 446474 
+
+Gene 3139: Start: 446584 End: 446623 
+
+Gene 3140: Start: 446642 End: 446702 
+
+Gene 3141: Start: 446759 End: 447062 
+
+Gene 3142: Start: 447082 End: 447097 
+
+Gene 3143: Start: 447101 End: 447134 
+
+Gene 3144: Start: 447217 End: 447274 
+
+Gene 3145: Start: 447330 End: 447360 
+
+Gene 3146: Start: 447365 End: 447401 
+
+Gene 3147: Start: 447438 End: 447459 
+
+Gene 3148: Start: 447478 End: 447517 
+
+Gene 3149: Start: 447593 End: 447902 
+
+Gene 3150: Start: 447911 End: 447926 
+
+Gene 3151: Start: 447959 End: 447983 
+
+Gene 3152: Start: 448072 End: 448099 
+
+Gene 3153: Start: 448151 End: 448238 
+
+Gene 3154: Start: 448283 End: 448349 
+
+Gene 3155: Start: 448440 End: 448563 
+
+Gene 3156: Start: 448722 End: 448740 
+
+Gene 3157: Start: 448782 End: 448785 
+
+Gene 3158: Start: 448841 End: 448847 
+
+Gene 3159: Start: 448917 End: 449031 
+
+Gene 3160: Start: 449057 End: 449123 
+
+Gene 3161: Start: 449138 End: 449174 
+
+Gene 3162: Start: 449222 End: 449315 
+
+Gene 3163: Start: 449370 End: 449412 
+
+Gene 3164: Start: 449459 End: 449531 
+
+Gene 3165: Start: 449538 End: 449661 
+
+Gene 3166: Start: 449675 End: 449696 
+
+Gene 3167: Start: 449853 End: 449919 
+
+Gene 3168: Start: 449958 End: 449964 
+
+Gene 3169: Start: 450072 End: 450225 
+
+Gene 3170: Start: 450255 End: 450291 
+
+Gene 3171: Start: 450354 End: 450405 
+
+Gene 3172: Start: 450470 End: 450527 
+
+Gene 3173: Start: 450599 End: 450626 
+
+Gene 3174: Start: 450747 End: 450828 
+
+Gene 3175: Start: 450926 End: 450965 
+
+Gene 3176: Start: 450978 End: 450999 
+
+Gene 3177: Start: 451022 End: 451049 
+
+Gene 3178: Start: 451065 End: 451149 
+
+Gene 3179: Start: 451161 End: 451176 
+
+Gene 3180: Start: 451185 End: 451191 
+
+Gene 3181: Start: 451220 End: 451238 
+
+Gene 3182: Start: 451352 End: 451382 
+
+Gene 3183: Start: 451421 End: 451472 
+
+Gene 3184: Start: 451499 End: 451577 
+
+Gene 3185: Start: 451656 End: 451704 
+
+Gene 3186: Start: 451848 End: 451980 
+
+Gene 3187: Start: 452123 End: 452171 
+
+Gene 3188: Start: 452220 End: 452271 
+
+Gene 3189: Start: 452360 End: 452477 
+
+Gene 3190: Start: 452483 End: 452549 
+
+Gene 3191: Start: 452591 End: 452627 
+
+Gene 3192: Start: 452640 End: 452646 
+
+Gene 3193: Start: 452847 End: 452949 
+
+Gene 3194: Start: 452964 End: 453039 
+
+Gene 3195: Start: 453054 End: 453060 
+
+Gene 3196: Start: 453065 End: 453236 
+
+Gene 3197: Start: 453242 End: 453251 
+
+Gene 3198: Start: 453351 End: 453372 
+
+Gene 3199: Start: 453500 End: 453578 
+
+Gene 3200: Start: 453671 End: 453674 
+
+Gene 3201: Start: 453914 End: 453926 
+
+Gene 3202: Start: 453998 End: 454019 
+
+Gene 3203: Start: 454047 End: 454092 
+
+Gene 3204: Start: 454244 End: 454247 
+
+Gene 3205: Start: 454281 End: 454362 
+
+Gene 3206: Start: 454377 End: 454395 
+
+Gene 3207: Start: 454422 End: 454533 
+
+Gene 3208: Start: 454728 End: 454824 
+
+Gene 3209: Start: 455259 End: 455268 
+
+Gene 3210: Start: 455384 End: 455516 
+
+Gene 3211: Start: 455591 End: 455597 
+
+Gene 3212: Start: 455655 End: 455664 
+
+Gene 3213: Start: 455694 End: 455736 
+
+Gene 3214: Start: 455753 End: 455759 
+
+Gene 3215: Start: 455826 End: 455901 
+
+Gene 3216: Start: 455921 End: 455948 
+
+Gene 3217: Start: 456078 End: 456099 
+
+Gene 3218: Start: 456185 End: 456350 
+
+Gene 3219: Start: 456383 End: 456389 
+
+Gene 3220: Start: 456392 End: 456407 
+
+Gene 3221: Start: 456563 End: 456578 
+
+Gene 3222: Start: 456594 End: 456618 
+
+Gene 3223: Start: 456633 End: 456705 
+
+Gene 3224: Start: 456929 End: 456944 
+
+Gene 3225: Start: 457109 End: 457160 
+
+Gene 3226: Start: 457280 End: 457310 
+
+Gene 3227: Start: 457335 End: 457350 
+
+Gene 3228: Start: 457449 End: 457452 
+
+Gene 3229: Start: 457799 End: 457988 
+
+Gene 3230: Start: 457994 End: 458018 
+
+Gene 3231: Start: 458181 End: 458184 
+
+Gene 3232: Start: 458345 End: 458354 
+
+Gene 3233: Start: 458495 End: 458573 
+
+Gene 3234: Start: 458601 End: 458622 
+
+Gene 3235: Start: 458646 End: 458718 
+
+Gene 3236: Start: 458768 End: 458939 
+
+Gene 3237: Start: 458976 End: 459114 
+
+Gene 3238: Start: 459120 End: 459132 
+
+Gene 3239: Start: 459194 End: 459296 
+
+Gene 3240: Start: 459353 End: 459365 
+
+Gene 3241: Start: 459441 End: 459570 
+
+Gene 3242: Start: 459591 End: 459669 
+
+Gene 3243: Start: 459746 End: 459806 
+
+Gene 3244: Start: 459855 End: 459861 
+
+Gene 3245: Start: 459885 End: 459984 
+
+Gene 3246: Start: 460151 End: 460289 
+
+Gene 3247: Start: 460364 End: 460379 
+
+Gene 3248: Start: 460436 End: 460457 
+
+Gene 3249: Start: 460614 End: 460626 
+
+Gene 3250: Start: 460632 End: 460647 
+
+Gene 3251: Start: 460752 End: 460779 
+
+Gene 3252: Start: 460950 End: 460956 
+
+Gene 3253: Start: 461238 End: 461253 
+
+Gene 3254: Start: 461348 End: 461363 
+
+Gene 3255: Start: 461418 End: 461520 
+
+Gene 3256: Start: 461603 End: 461735 
+
+Gene 3257: Start: 461786 End: 461828 
+
+Gene 3258: Start: 461868 End: 461994 
+
+Gene 3259: Start: 462059 End: 462068 
+
+Gene 3260: Start: 462170 End: 462176 
+
+Gene 3261: Start: 462455 End: 462560 
+
+Gene 3262: Start: 462608 End: 462656 
+
+Gene 3263: Start: 462737 End: 462770 
+
+Gene 3264: Start: 462876 End: 462921 
+
+Gene 3265: Start: 462924 End: 462996 
+
+Gene 3266: Start: 463005 End: 463017 
+
+Gene 3267: Start: 463103 End: 463118 
+
+Gene 3268: Start: 463304 End: 463349 
+
+Gene 3269: Start: 463353 End: 463419 
+
+Gene 3270: Start: 463493 End: 463583 
+
+Gene 3271: Start: 463604 End: 463616 
+
+Gene 3272: Start: 463665 End: 463740 
+
+Gene 3273: Start: 463805 End: 463946 
+
+Gene 3274: Start: 464015 End: 464159 
+
+Gene 3275: Start: 464283 End: 464307 
+
+Gene 3276: Start: 464369 End: 464480 
+
+Gene 3277: Start: 464631 End: 464694 
+
+Gene 3278: Start: 464790 End: 464835 
+
+Gene 3279: Start: 464844 End: 464898 
+
+Gene 3280: Start: 464972 End: 465062 
+
+Gene 3281: Start: 465075 End: 465138 
+
+Gene 3282: Start: 465192 End: 465201 
+
+Gene 3283: Start: 465251 End: 465317 
+
+Gene 3284: Start: 465575 End: 465680 
+
+Gene 3285: Start: 465764 End: 465980 
+
+Gene 3286: Start: 465983 End: 466013 
+
+Gene 3287: Start: 466337 End: 466487 
+
+Gene 3288: Start: 466629 End: 466641 
+
+Gene 3289: Start: 466658 End: 466733 
+
+Gene 3290: Start: 466740 End: 466896 
+
+Gene 3291: Start: 466917 End: 467007 
+
+Gene 3292: Start: 467019 End: 467040 
+
+Gene 3293: Start: 467057 End: 467093 
+
+Gene 3294: Start: 467180 End: 467261 
+
+Gene 3295: Start: 467289 End: 467415 
+
+Gene 3296: Start: 467472 End: 467505 
+
+Gene 3297: Start: 467687 End: 467750 
+
+Gene 3298: Start: 467769 End: 467790 
+
+Gene 3299: Start: 467976 End: 468093 
+
+Gene 3300: Start: 468119 End: 468128 
+
+Gene 3301: Start: 468315 End: 468330 
+
+Gene 3302: Start: 468393 End: 468435 
+
+Gene 3303: Start: 468489 End: 468519 
+
+Gene 3304: Start: 468638 End: 468728 
+
+Gene 3305: Start: 468875 End: 468923 
+
+Gene 3306: Start: 468980 End: 469037 
+
+Gene 3307: Start: 469233 End: 469236 
+
+Gene 3308: Start: 469253 End: 469295 
+
+Gene 3309: Start: 469347 End: 469797 
+
+Gene 3310: Start: 469850 End: 469925 
+
+Gene 3311: Start: 469998 End: 470067 
+
+Gene 3312: Start: 470151 End: 470244 
+
+Gene 3313: Start: 470342 End: 470357 
+
+Gene 3314: Start: 470421 End: 470457 
+
+Gene 3315: Start: 470519 End: 470528 
+
+Gene 3316: Start: 470553 End: 470685 
+
+Gene 3317: Start: 470840 End: 470846 
+
+Gene 3318: Start: 470912 End: 471029 
+
+Gene 3319: Start: 471072 End: 471132 
+
+Gene 3320: Start: 471222 End: 471270 
+
+Gene 3321: Start: 471294 End: 471357 
+
+Gene 3322: Start: 471806 End: 471884 
+
+Gene 3323: Start: 471963 End: 472134 
+
+Gene 3324: Start: 472151 End: 472193 
+
+Gene 3325: Start: 472319 End: 472373 
+
+Gene 3326: Start: 472407 End: 472503 
+
+Gene 3327: Start: 472524 End: 472620 
+
+Gene 3328: Start: 472726 End: 472783 
+
+Gene 3329: Start: 472804 End: 472858 
+
+Gene 3330: Start: 472891 End: 472942 
+
+Gene 3331: Start: 472967 End: 472985 
+
+Gene 3332: Start: 472996 End: 473305 
+
+Gene 3333: Start: 473373 End: 473397 
+
+Gene 3334: Start: 473480 End: 473519 
+
+Gene 3335: Start: 473623 End: 473662 
+
+Gene 3336: Start: 473813 End: 473843 
+
+Gene 3337: Start: 473891 End: 474026 
+
+Gene 3338: Start: 474066 End: 474087 
+
+Gene 3339: Start: 474126 End: 474159 
+
+Gene 3340: Start: 474186 End: 474195 
+
+Gene 3341: Start: 474198 End: 474228 
+
+Gene 3342: Start: 474245 End: 474368 
+
+Gene 3343: Start: 474420 End: 474432 
+
+Gene 3344: Start: 474535 End: 474547 
+
+Gene 3345: Start: 474679 End: 474691 
+
+Gene 3346: Start: 474714 End: 474780 
+
+Gene 3347: Start: 474806 End: 474812 
+
+Gene 3348: Start: 474826 End: 474910 
+
+Gene 3349: Start: 474952 End: 474994 
+
+Gene 3350: Start: 475012 End: 475243 
+
+Gene 3351: Start: 475301 End: 475361 
+
+Gene 3352: Start: 475409 End: 475523 
+
+Gene 3353: Start: 475570 End: 475600 
+
+Gene 3354: Start: 475621 End: 475627 
+
+Gene 3355: Start: 475658 End: 475724 
+
+Gene 3356: Start: 475767 End: 475818 
+
+Gene 3357: Start: 475827 End: 475863 
+
+Gene 3358: Start: 475954 End: 475969 
+
+Gene 3359: Start: 475988 End: 476048 
+
+Gene 3360: Start: 476192 End: 476210 
+
+Gene 3361: Start: 476290 End: 476332 
+
+Gene 3362: Start: 476417 End: 476618 
+
+Gene 3363: Start: 476628 End: 476649 
+
+Gene 3364: Start: 476673 End: 476748 
+
+Gene 3365: Start: 476783 End: 476807 
+
+Gene 3366: Start: 476850 End: 476874 
+
+Gene 3367: Start: 476949 End: 477009 
+
+Gene 3368: Start: 477073 End: 477085 
+
+Gene 3369: Start: 477134 End: 477143 
+
+Gene 3370: Start: 477206 End: 477221 
+
+Gene 3371: Start: 477256 End: 477274 
+
+Gene 3372: Start: 477325 End: 477559 
+
+Gene 3373: Start: 477690 End: 477768 
+
+Gene 3374: Start: 477778 End: 477949 
+
+Gene 3375: Start: 478030 End: 478036 
+
+Gene 3376: Start: 478104 End: 478125 
+
+Gene 3377: Start: 478156 End: 478165 
+
+Gene 3378: Start: 478210 End: 478459 
+
+Gene 3379: Start: 478475 End: 478520 
+
+Gene 3380: Start: 478547 End: 478610 
+
+Gene 3381: Start: 478654 End: 478843 
+
+Gene 3382: Start: 478865 End: 478919 
+
+Gene 3383: Start: 479145 End: 479178 
+
+Gene 3384: Start: 479216 End: 479252 
+
+Gene 3385: Start: 479308 End: 479335 
+
+Gene 3386: Start: 479403 End: 479427 
+
+Gene 3387: Start: 479489 End: 479519 
+
+Gene 3388: Start: 479556 End: 479631 
+
+Gene 3389: Start: 480175 End: 480298 
+
+Gene 3390: Start: 480347 End: 480350 
+
+Gene 3391: Start: 480628 End: 480709 
+
+Gene 3392: Start: 480717 End: 480741 
+
+Gene 3393: Start: 480839 End: 480917 
+
+Gene 3394: Start: 480976 End: 481045 
+
+Gene 3395: Start: 481080 End: 481215 
+
+Gene 3396: Start: 481306 End: 481336 
+
+Gene 3397: Start: 481411 End: 481636 
+
+Gene 3398: Start: 481817 End: 481832 
+
+Gene 3399: Start: 481836 End: 481902 
+
+Gene 3400: Start: 481927 End: 481945 
+
+Gene 3401: Start: 481968 End: 482070 
+
+Gene 3402: Start: 482077 End: 482101 
+
+Gene 3403: Start: 482168 End: 482252 
+
+Gene 3404: Start: 482335 End: 482413 
+
+Gene 3405: Start: 482426 End: 482519 
+
+Gene 3406: Start: 482857 End: 482866 
+
+Gene 3407: Start: 482997 End: 483099 
+
+Gene 3408: Start: 483148 End: 483166 
+
+Gene 3409: Start: 483202 End: 483247 
+
+Gene 3410: Start: 483408 End: 483438 
+
+Gene 3411: Start: 483451 End: 483535 
+
+Gene 3412: Start: 483571 End: 483583 
+
+Gene 3413: Start: 483659 End: 483725 
+
+Gene 3414: Start: 483881 End: 483929 
+
+Gene 3415: Start: 483989 End: 484037 
+
+Gene 3416: Start: 484088 End: 484106 
+
+Gene 3417: Start: 484189 End: 484372 
+
+Gene 3418: Start: 484394 End: 484406 
+
+Gene 3419: Start: 484483 End: 484528 
+
+Gene 3420: Start: 484596 End: 484668 
+
+Gene 3421: Start: 484796 End: 484847 
+
+Gene 3422: Start: 484860 End: 485064 
+
+Gene 3423: Start: 485123 End: 485171 
+
+Gene 3424: Start: 485180 End: 485201 
+
+Gene 3425: Start: 485234 End: 485306 
+
+Gene 3426: Start: 485341 End: 485353 
+
+Gene 3427: Start: 485447 End: 485483 
+
+Gene 3428: Start: 485527 End: 485530 
+
+Gene 3429: Start: 485621 End: 485636 
+
+Gene 3430: Start: 485701 End: 485815 
+
+Gene 3431: Start: 485861 End: 486008 
+
+Gene 3432: Start: 486178 End: 486190 
+
+Gene 3433: Start: 486193 End: 486217 
+
+Gene 3434: Start: 486245 End: 486326 
+
+Gene 3435: Start: 486349 End: 486430 
+
+Gene 3436: Start: 486494 End: 486503 
+
+Gene 3437: Start: 486520 End: 486613 
+
+Gene 3438: Start: 486936 End: 487149 
+
+Gene 3439: Start: 487242 End: 487407 
+
+Gene 3440: Start: 487496 End: 487499 
+
+Gene 3441: Start: 487580 End: 487655 
+
+Gene 3442: Start: 487723 End: 487744 
+
+Gene 3443: Start: 487772 End: 487814 
+
+Gene 3444: Start: 487863 End: 488007 
+
+Gene 3445: Start: 488026 End: 488092 
+
+Gene 3446: Start: 488176 End: 488188 
+
+Gene 3447: Start: 488224 End: 488314 
+
+Gene 3448: Start: 488393 End: 488399 
+
+Gene 3449: Start: 488489 End: 488570 
+
+Gene 3450: Start: 488793 End: 488892 
+
+Gene 3451: Start: 488904 End: 489048 
+
+Gene 3452: Start: 489076 End: 489085 
+
+Gene 3453: Start: 489228 End: 489255 
+
+Gene 3454: Start: 489516 End: 489525 
+
+Gene 3455: Start: 489535 End: 489544 
+
+Gene 3456: Start: 489674 End: 489743 
+
+Gene 3457: Start: 489766 End: 489772 
+
+Gene 3458: Start: 489893 End: 489944 
+
+Gene 3459: Start: 490041 End: 490056 
+
+Gene 3460: Start: 490191 End: 490200 
+
+Gene 3461: Start: 490223 End: 490253 
+
+Gene 3462: Start: 490294 End: 490336 
+
+Gene 3463: Start: 490374 End: 490413 
+
+Gene 3464: Start: 490430 End: 490460 
+
+Gene 3465: Start: 490510 End: 490618 
+
+Gene 3466: Start: 490742 End: 490763 
+
+Gene 3467: Start: 490923 End: 491046 
+
+Gene 3468: Start: 491133 End: 491241 
+
+Gene 3469: Start: 491322 End: 491622 
+
+Gene 3470: Start: 491782 End: 491809 
+
+Gene 3471: Start: 491854 End: 491875 
+
+Gene 3472: Start: 491933 End: 492050 
+
+Gene 3473: Start: 492144 End: 492195 
+
+Gene 3474: Start: 492240 End: 492351 
+
+Gene 3475: Start: 492403 End: 492412 
+
+Gene 3476: Start: 492416 End: 492443 
+
+Gene 3477: Start: 492475 End: 492511 
+
+Gene 3478: Start: 492604 End: 492646 
+
+Gene 3479: Start: 492653 End: 492659 
+
+Gene 3480: Start: 492662 End: 492743 
+
+Gene 3481: Start: 492784 End: 492982 
+
+Gene 3482: Start: 493188 End: 493290 
+
+Gene 3483: Start: 493374 End: 493437 
+
+Gene 3484: Start: 493488 End: 493530 
+
+Gene 3485: Start: 493790 End: 493820 
+
+Gene 3486: Start: 493946 End: 493952 
+
+Gene 3487: Start: 494012 End: 494042 
+
+Gene 3488: Start: 494115 End: 494118 
+
+Gene 3489: Start: 494204 End: 494378 
+
+Gene 3490: Start: 494786 End: 494831 
+
+Gene 3491: Start: 494879 End: 494933 
+
+Gene 3492: Start: 495014 End: 495032 
+
+Gene 3493: Start: 495042 End: 495054 
+
+Gene 3494: Start: 495068 End: 495194 
+
+Gene 3495: Start: 495269 End: 495314 
+
+Gene 3496: Start: 495372 End: 495567 
+
+Gene 3497: Start: 495590 End: 495719 
+
+Gene 3498: Start: 495761 End: 495890 
+
+Gene 3499: Start: 495992 End: 496106 
+
+Gene 3500: Start: 496164 End: 496290 
+
+Gene 3501: Start: 496308 End: 496395 
+
+Gene 3502: Start: 496422 End: 496473 
+
+Gene 3503: Start: 496488 End: 496524 
+
+Gene 3504: Start: 496559 End: 496577 
+
+Gene 3505: Start: 496626 End: 496641 
+
+Gene 3506: Start: 496766 End: 496826 
+
+Gene 3507: Start: 496938 End: 496986 
+
+Gene 3508: Start: 497015 End: 497039 
+
+Gene 3509: Start: 497240 End: 497273 
+
+Gene 3510: Start: 497286 End: 497400 
+
+Gene 3511: Start: 497559 End: 497670 
+
+Gene 3512: Start: 497732 End: 497771 
+
+Gene 3513: Start: 497946 End: 497988 
+
+Gene 3514: Start: 497997 End: 498198 
+
+Gene 3515: Start: 498215 End: 498323 
+
+Gene 3516: Start: 498339 End: 498534 
+
+Gene 3517: Start: 498557 End: 498623 
+
+Gene 3518: Start: 498641 End: 498704 
+
+Gene 3519: Start: 498803 End: 498827 
+
+Gene 3520: Start: 498845 End: 498881 
+
+Gene 3521: Start: 498920 End: 498980 
+
+Gene 3522: Start: 499028 End: 499112 
+
+Gene 3523: Start: 499136 End: 499175 
+
+Gene 3524: Start: 499241 End: 499283 
+
+Gene 3525: Start: 499484 End: 499541 
+
+Gene 3526: Start: 499695 End: 499710 
+
+Gene 3527: Start: 499769 End: 499853 
+
+Gene 3528: Start: 499875 End: 499890 
+
+Gene 3529: Start: 500015 End: 500051 
+
+Gene 3530: Start: 500088 End: 500100 
+
+Gene 3531: Start: 500112 End: 500145 
+
+Gene 3532: Start: 500309 End: 500498 
+
+Gene 3533: Start: 500598 End: 500637 
+
+Gene 3534: Start: 500718 End: 500844 
+
+Gene 3535: Start: 500934 End: 500937 
+
+Gene 3536: Start: 500951 End: 501062 
+
+Gene 3537: Start: 501290 End: 501344 
+
+Gene 3538: Start: 501425 End: 501443 
+
+Gene 3539: Start: 501458 End: 501476 
+
+Gene 3540: Start: 501486 End: 501495 
+
+Gene 3541: Start: 501519 End: 501585 
+
+Gene 3542: Start: 501777 End: 501861 
+
+Gene 3543: Start: 501909 End: 501936 
+
+Gene 3544: Start: 502028 End: 502088 
+
+Gene 3545: Start: 502103 End: 502142 
+
+Gene 3546: Start: 502274 End: 502337 
+
+Gene 3547: Start: 502458 End: 502476 
+
+Gene 3548: Start: 502488 End: 502494 
+
+Gene 3549: Start: 502617 End: 502683 
+
+Gene 3550: Start: 502763 End: 502799 
+
+Gene 3551: Start: 502803 End: 502833 
+
+Gene 3552: Start: 502860 End: 502887 
+
+Gene 3553: Start: 502901 End: 502922 
+
+Gene 3554: Start: 503127 End: 503142 
+
+Gene 3555: Start: 503202 End: 503223 
+
+Gene 3556: Start: 503258 End: 503330 
+
+Gene 3557: Start: 503421 End: 503508 
+
+Gene 3558: Start: 503613 End: 503634 
+
+Gene 3559: Start: 503768 End: 503807 
+
+Gene 3560: Start: 503810 End: 503813 
+
+Gene 3561: Start: 503838 End: 503862 
+
+Gene 3562: Start: 503897 End: 503954 
+
+Gene 3563: Start: 504071 End: 504077 
+
+Gene 3564: Start: 504090 End: 504165 
+
+Gene 3565: Start: 504285 End: 504378 
+
+Gene 3566: Start: 504426 End: 504447 
+
+Gene 3567: Start: 504495 End: 504498 
+
+Gene 3568: Start: 504560 End: 504635 
+
+Gene 3569: Start: 504690 End: 504777 
+
+Gene 3570: Start: 504929 End: 504956 
+
+Gene 3571: Start: 505103 End: 505112 
+
+Gene 3572: Start: 505226 End: 505238 
+
+Gene 3573: Start: 505398 End: 505470 
+
+Gene 3574: Start: 505598 End: 505604 
+
+Gene 3575: Start: 505613 End: 505619 
+
+Gene 3576: Start: 505695 End: 505752 
+
+Gene 3577: Start: 505826 End: 505880 
+
+Gene 3578: Start: 505982 End: 506036 
+
+Gene 3579: Start: 506147 End: 506195 
+
+Gene 3580: Start: 506253 End: 506277 
+
+Gene 3581: Start: 506312 End: 506393 
+
+Gene 3582: Start: 506453 End: 506576 
+
+Gene 3583: Start: 506675 End: 506696 
+
+Gene 3584: Start: 506772 End: 506838 
+
+Gene 3585: Start: 506918 End: 507041 
+
+Gene 3586: Start: 507251 End: 507296 
+
+Gene 3587: Start: 507336 End: 507387 
+
+Gene 3588: Start: 507515 End: 507527 
+
+Gene 3589: Start: 507642 End: 507666 
+
+Gene 3590: Start: 507741 End: 507768 
+
+Gene 3591: Start: 507789 End: 507813 
+
+Gene 3592: Start: 507851 End: 508016 
+
+Gene 3593: Start: 508314 End: 508374 
+
+Gene 3594: Start: 508403 End: 508463 
+
+Gene 3595: Start: 508578 End: 508668 
+
+Gene 3596: Start: 508751 End: 508754 
+
+Gene 3597: Start: 508911 End: 508941 
+
+Gene 3598: Start: 508956 End: 508992 
+
+Gene 3599: Start: 509060 End: 509156 
+
+Gene 3600: Start: 509181 End: 509277 
+
+Gene 3601: Start: 509331 End: 509514 
+
+Gene 3602: Start: 509726 End: 509747 
+
+Gene 3603: Start: 509779 End: 509878 
+
+Gene 3604: Start: 509940 End: 510009 
+
+Gene 3605: Start: 510030 End: 510102 
+
+Gene 3606: Start: 510138 End: 510213 
+
+Gene 3607: Start: 510329 End: 510362 
+
+Gene 3608: Start: 510374 End: 510401 
+
+Gene 3609: Start: 510414 End: 510645 
+
+Gene 3610: Start: 510694 End: 510700 
+
+Gene 3611: Start: 510814 End: 510976 
+
+Gene 3612: Start: 511042 End: 511087 
+
+Gene 3613: Start: 511260 End: 511296 
+
+Gene 3614: Start: 511338 End: 511377 
+
+Gene 3615: Start: 511410 End: 511554 
+
+Gene 3616: Start: 511629 End: 511815 
+
+Gene 3617: Start: 511867 End: 511918 
+
+Gene 3618: Start: 512027 End: 512036 
+
+Gene 3619: Start: 512082 End: 512172 
+
+Gene 3620: Start: 512195 End: 512264 
+
+Gene 3621: Start: 512288 End: 512387 
+
+Gene 3622: Start: 512509 End: 512593 
+
+Gene 3623: Start: 512621 End: 512702 
+
+Gene 3624: Start: 512707 End: 512800 
+
+Gene 3625: Start: 512805 End: 512919 
+
+Gene 3626: Start: 512954 End: 512960 
+
+Gene 3627: Start: 512969 End: 513050 
+
+Gene 3628: Start: 513158 End: 513245 
+
+Gene 3629: Start: 513254 End: 513521 
+
+Gene 3630: Start: 513529 End: 513838 
+
+Gene 3631: Start: 513905 End: 513917 
+
+Gene 3632: Start: 513947 End: 514025 
+
+Gene 3633: Start: 514058 End: 514109 
+
+Gene 3634: Start: 514235 End: 514307 
+
+Gene 3635: Start: 514366 End: 514447 
+
+Gene 3636: Start: 514735 End: 514849 
+
+Gene 3637: Start: 514861 End: 514912 
+
+Gene 3638: Start: 515027 End: 515087 
+
+Gene 3639: Start: 515193 End: 515205 
+
+Gene 3640: Start: 515219 End: 515363 
+
+Gene 3641: Start: 515368 End: 515401 
+
+Gene 3642: Start: 515405 End: 515447 
+
+Gene 3643: Start: 515473 End: 515551 
+
+Gene 3644: Start: 515600 End: 515603 
+
+Gene 3645: Start: 515610 End: 515637 
+
+Gene 3646: Start: 515783 End: 515846 
+
+Gene 3647: Start: 515852 End: 515858 
+
+Gene 3648: Start: 515870 End: 515903 
+
+Gene 3649: Start: 515968 End: 516049 
+
+Gene 3650: Start: 516096 End: 516135 
+
+Gene 3651: Start: 516195 End: 516207 
+
+Gene 3652: Start: 516225 End: 516342 
+
+Gene 3653: Start: 516383 End: 516386 
+
+Gene 3654: Start: 516467 End: 516524 
+
+Gene 3655: Start: 516545 End: 516761 
+
+Gene 3656: Start: 516782 End: 516851 
+
+Gene 3657: Start: 516918 End: 516939 
+
+Gene 3658: Start: 516966 End: 517035 
+
+Gene 3659: Start: 517135 End: 517147 
+
+Gene 3660: Start: 517191 End: 517281 
+
+Gene 3661: Start: 517310 End: 517382 
+
+Gene 3662: Start: 517398 End: 517440 
+
+Gene 3663: Start: 517500 End: 517518 
+
+Gene 3664: Start: 517563 End: 517653 
+
+Gene 3665: Start: 517664 End: 517679 
+
+Gene 3666: Start: 517844 End: 517865 
+
+Gene 3667: Start: 517969 End: 518029 
+
+Gene 3668: Start: 518035 End: 518122 
+
+Gene 3669: Start: 518267 End: 518303 
+
+Gene 3670: Start: 518558 End: 518630 
+
+Gene 3671: Start: 518635 End: 518686 
+
+Gene 3672: Start: 518739 End: 518904 
+
+Gene 3673: Start: 519023 End: 519041 
+
+Gene 3674: Start: 519104 End: 519164 
+
+Gene 3675: Start: 519188 End: 519332 
+
+Gene 3676: Start: 519599 End: 519626 
+
+Gene 3677: Start: 519635 End: 519680 
+
+Gene 3678: Start: 519763 End: 519871 
+
+Gene 3679: Start: 519935 End: 519989 
+
+Gene 3680: Start: 519995 End: 520109 
+
+Gene 3681: Start: 520215 End: 520293 
+
+Gene 3682: Start: 520349 End: 520451 
+
+Gene 3683: Start: 520765 End: 520789 
+
+Gene 3684: Start: 520820 End: 521042 
+
+Gene 3685: Start: 521045 End: 521093 
+
+Gene 3686: Start: 521156 End: 521282 
+
+Gene 3687: Start: 521389 End: 521437 
+
+Gene 3688: Start: 521533 End: 521545 
+
+Gene 3689: Start: 521566 End: 521647 
+
+Gene 3690: Start: 521656 End: 521662 
+
+Gene 3691: Start: 521701 End: 521710 
+
+Gene 3692: Start: 522038 End: 522056 
+
+Gene 3693: Start: 522137 End: 522248 
+
+Gene 3694: Start: 522519 End: 522636 
+
+Gene 3695: Start: 522769 End: 522790 
+
+Gene 3696: Start: 522867 End: 522948 
+
+Gene 3697: Start: 522985 End: 523024 
+
+Gene 3698: Start: 523055 End: 523085 
+
+Gene 3699: Start: 523156 End: 523228 
+
+Gene 3700: Start: 523318 End: 523354 
+
+Gene 3701: Start: 523393 End: 523411 
+
+Gene 3702: Start: 523438 End: 523672 
+
+Gene 3703: Start: 523776 End: 523866 
+
+Gene 3704: Start: 523935 End: 523998 
+
+Gene 3705: Start: 524012 End: 524018 
+
+Gene 3706: Start: 524150 End: 524255 
+
+Gene 3707: Start: 524355 End: 524442 
+
+Gene 3708: Start: 524573 End: 524603 
+
+Gene 3709: Start: 524617 End: 524659 
+
+Gene 3710: Start: 524693 End: 524702 
+
+Gene 3711: Start: 524709 End: 524745 
+
+Gene 3712: Start: 524843 End: 524855 
+
+Gene 3713: Start: 524872 End: 524986 
+
+Gene 3714: Start: 525029 End: 525038 
+
+Gene 3715: Start: 525202 End: 525205 
+
+Gene 3716: Start: 525215 End: 525335 
+
+Gene 3717: Start: 525353 End: 525461 
+
+Gene 3718: Start: 525481 End: 525553 
+
+Gene 3719: Start: 525572 End: 525575 
+
+Gene 3720: Start: 525584 End: 525662 
+
+Gene 3721: Start: 525669 End: 525702 
+
+Gene 3722: Start: 525713 End: 525773 
+
+Gene 3723: Start: 525893 End: 525944 
+
+Gene 3724: Start: 526074 End: 526107 
+
+Gene 3725: Start: 526220 End: 526250 
+
+Gene 3726: Start: 526310 End: 526388 
+
+Gene 3727: Start: 526501 End: 526528 
+
+Gene 3728: Start: 526553 End: 526628 
+
+Gene 3729: Start: 526639 End: 526822 
+
+Gene 3730: Start: 526885 End: 526933 
+
+Gene 3731: Start: 526937 End: 527102 
+
+Gene 3732: Start: 527115 End: 527139 
+
+Gene 3733: Start: 527171 End: 527195 
+
+Gene 3734: Start: 527218 End: 527281 
+
+Gene 3735: Start: 527385 End: 527391 
+
+Gene 3736: Start: 527423 End: 527537 
+
+Gene 3737: Start: 527573 End: 527660 
+
+Gene 3738: Start: 527806 End: 527926 
+
+Gene 3739: Start: 528018 End: 528033 
+
+Gene 3740: Start: 528113 End: 528212 
+
+Gene 3741: Start: 528219 End: 528252 
+
+Gene 3742: Start: 528293 End: 528329 
+
+Gene 3743: Start: 528359 End: 528395 
+
+Gene 3744: Start: 528437 End: 528443 
+
+Gene 3745: Start: 528553 End: 528580 
+
+Gene 3746: Start: 528602 End: 528620 
+
+Gene 3747: Start: 528705 End: 528741 
+
+Gene 3748: Start: 528861 End: 528876 
+
+Gene 3749: Start: 528931 End: 528934 
+
+Gene 3750: Start: 528967 End: 529039 
+
+Gene 3751: Start: 529045 End: 529171 
+
+Gene 3752: Start: 529187 End: 529211 
+
+Gene 3753: Start: 529283 End: 529502 
+
+Gene 3754: Start: 529621 End: 529690 
+
+Gene 3755: Start: 529848 End: 529983 
+
+Gene 3756: Start: 530005 End: 530014 
+
+Gene 3757: Start: 530026 End: 530329 
+
+Gene 3758: Start: 530398 End: 530455 
+
+Gene 3759: Start: 530546 End: 530603 
+
+Gene 3760: Start: 530772 End: 530838 
+
+Gene 3761: Start: 530908 End: 530956 
+
+Gene 3762: Start: 531013 End: 531028 
+
+Gene 3763: Start: 531056 End: 531101 
+
+Gene 3764: Start: 531148 End: 531196 
+
+Gene 3765: Start: 531247 End: 531370 
+
+Gene 3766: Start: 531481 End: 531487 
+
+Gene 3767: Start: 531545 End: 531560 
+
+Gene 3768: Start: 531763 End: 531796 
+
+Gene 3769: Start: 531839 End: 531851 
+
+Gene 3770: Start: 531878 End: 532061 
+
+Gene 3771: Start: 532068 End: 532380 
+
+Gene 3772: Start: 532442 End: 532466 
+
+Gene 3773: Start: 532487 End: 532598 
+
+Gene 3774: Start: 532846 End: 532912 
+
+Gene 3775: Start: 533064 End: 533076 
+
+Gene 3776: Start: 533129 End: 533141 
+
+Gene 3777: Start: 533162 End: 533168 
+
+Gene 3778: Start: 533183 End: 533189 
+
+Gene 3779: Start: 533218 End: 533419 
+
+Gene 3780: Start: 533442 End: 533541 
+
+Gene 3781: Start: 533629 End: 533659 
+
+Gene 3782: Start: 533920 End: 533932 
+
+Gene 3783: Start: 533972 End: 534068 
+
+Gene 3784: Start: 534127 End: 534244 
+
+Gene 3785: Start: 534331 End: 534397 
+
+Gene 3786: Start: 534421 End: 534439 
+
+Gene 3787: Start: 534457 End: 534481 
+
+Gene 3788: Start: 534518 End: 534638 
+
+Gene 3789: Start: 534648 End: 534804 
+
+Gene 3790: Start: 534935 End: 534959 
+
+Gene 3791: Start: 534986 End: 535004 
+
+Gene 3792: Start: 535016 End: 535031 
+
+Gene 3793: Start: 535181 End: 535196 
+
+Gene 3794: Start: 535226 End: 535274 
+
+Gene 3795: Start: 535277 End: 535349 
+
+Gene 3796: Start: 535366 End: 535384 
+
+Gene 3797: Start: 535477 End: 535525 
+
+Gene 3798: Start: 535530 End: 535539 
+
+Gene 3799: Start: 535561 End: 535603 
+
+Gene 3800: Start: 535611 End: 535764 
+
+Gene 3801: Start: 535798 End: 535888 
+
+Gene 3802: Start: 536057 End: 536075 
+
+Gene 3803: Start: 536089 End: 536269 
+
+Gene 3804: Start: 536318 End: 536354 
+
+Gene 3805: Start: 536510 End: 536567 
+
+Gene 3806: Start: 536586 End: 536610 
+
+Gene 3807: Start: 536633 End: 536669 
+
+Gene 3808: Start: 536840 End: 536915 
+
+Gene 3809: Start: 536972 End: 537128 
+
+Gene 3810: Start: 537269 End: 537284 
+
+Gene 3811: Start: 537316 End: 537343 
+
+Gene 3812: Start: 537353 End: 537431 
+
+Gene 3813: Start: 537466 End: 537496 
+
+Gene 3814: Start: 537704 End: 537794 
+
+Gene 3815: Start: 538123 End: 538252 
+
+Gene 3816: Start: 538343 End: 538364 
+
+Gene 3817: Start: 538430 End: 538514 
+
+Gene 3818: Start: 538646 End: 539021 
+
+Gene 3819: Start: 539054 End: 539066 
+
+Gene 3820: Start: 539078 End: 539147 
+
+Gene 3821: Start: 539215 End: 539356 
+
+Gene 3822: Start: 539633 End: 539675 
+
+Gene 3823: Start: 539688 End: 539712 
+
+Gene 3824: Start: 539865 End: 539880 
+
+Gene 3825: Start: 539996 End: 540191 
+
+Gene 3826: Start: 540226 End: 540238 
+
+Gene 3827: Start: 540436 End: 540481 
+
+Gene 3828: Start: 540590 End: 540761 
+
+Gene 3829: Start: 540786 End: 540798 
+
+Gene 3830: Start: 540802 End: 540832 
+
+Gene 3831: Start: 540875 End: 540914 
+
+Gene 3832: Start: 540940 End: 540943 
+
+Gene 3833: Start: 541040 End: 541241 
+
+Gene 3834: Start: 541254 End: 541296 
+
+Gene 3835: Start: 541441 End: 541468 
+
+Gene 3836: Start: 541527 End: 541569 
+
+Gene 3837: Start: 541783 End: 541840 
+
+Gene 3838: Start: 541910 End: 541997 
+
+Gene 3839: Start: 542133 End: 542145 
+
+Gene 3840: Start: 542209 End: 542305 
+
+Gene 3841: Start: 542384 End: 542399 
+
+Gene 3842: Start: 542406 End: 542433 
+
+Gene 3843: Start: 542566 End: 542800 
+
+Gene 3844: Start: 542844 End: 542904 
+
+Gene 3845: Start: 542909 End: 542915 
+
+Gene 3846: Start: 542977 End: 543016 
+
+Gene 3847: Start: 543084 End: 543204 
+
+Gene 3848: Start: 543278 End: 543347 
+
+Gene 3849: Start: 543522 End: 543576 
+
+Gene 3850: Start: 543596 End: 543605 
+
+Gene 3851: Start: 543629 End: 543632 
+
+Gene 3852: Start: 543774 End: 543828 
+
+Gene 3853: Start: 544014 End: 544017 
+
+Gene 3854: Start: 544070 End: 544091 
+
+Gene 3855: Start: 544118 End: 544160 
+
+Gene 3856: Start: 544185 End: 544344 
+
+Gene 3857: Start: 544394 End: 544397 
+
+Gene 3858: Start: 544523 End: 544568 
+
+Gene 3859: Start: 544584 End: 544614 
+
+Gene 3860: Start: 544857 End: 544881 
+
+Gene 3861: Start: 545070 End: 545091 
+
+Gene 3862: Start: 545231 End: 545267 
+
+Gene 3863: Start: 545573 End: 545627 
+
+Gene 3864: Start: 545634 End: 545652 
+
+Gene 3865: Start: 545655 End: 545886 
+
+Gene 3866: Start: 546032 End: 546209 
+
+Gene 3867: Start: 546224 End: 546227 
+
+Gene 3868: Start: 546485 End: 546488 
+
+Gene 3869: Start: 546500 End: 546578 
+
+Gene 3870: Start: 546666 End: 546750 
+
+Gene 3871: Start: 546792 End: 546891 
+
+Gene 3872: Start: 546966 End: 546978 
+
+Gene 3873: Start: 547020 End: 547110 
+
+Gene 3874: Start: 547199 End: 547202 
+
+Gene 3875: Start: 547331 End: 547343 
+
+Gene 3876: Start: 547532 End: 547571 
+
+Gene 3877: Start: 547605 End: 547608 
+
+Gene 3878: Start: 547623 End: 547683 
+
+Gene 3879: Start: 547713 End: 547740 
+
+Gene 3880: Start: 547794 End: 547812 
+
+Gene 3881: Start: 547911 End: 547935 
+
+Gene 3882: Start: 548078 End: 548093 
+
+Gene 3883: Start: 548540 End: 548618 
+
+Gene 3884: Start: 548684 End: 548723 
+
+Gene 3885: Start: 548748 End: 548832 
+
+Gene 3886: Start: 548934 End: 549012 
+
+Gene 3887: Start: 549063 End: 549066 
+
+Gene 3888: Start: 549242 End: 549353 
+
+Gene 3889: Start: 549395 End: 549407 
+
+Gene 3890: Start: 549414 End: 549456 
+
+Gene 3891: Start: 549522 End: 549549 
+
+Gene 3892: Start: 549821 End: 549932 
+
+Gene 3893: Start: 549999 End: 550149 
+
+Gene 3894: Start: 550187 End: 550190 
+
